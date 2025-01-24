@@ -1,0 +1,1700 @@
+game,achievement,description,achieved,unlocktime
+Ticket to Ride,Conductor Level 1,Play 20 games,False,null
+Ticket to Ride,Conductor Level 2,Play 100 games,False,null
+Ticket to Ride,Conductor Level 3,"Play 1,000 games",False,null
+Ticket to Ride,Conductor Level 4,"Play 5,000 games",False,null
+Ticket to Ride,Conductor Level 5,"Play 20,000 games",False,null
+Ticket to Ride,Pressure Gauge 80,Score 80+,False,null
+Ticket to Ride,Pressure Gauge 120,Score 120+,False,null
+Ticket to Ride,Pressure Gauge 160,Score 160+,False,null
+Ticket to Ride,Pressure Gauge 200,Score 200+,False,null
+Ticket to Ride,Pressure Gauge 240,Score 240+,False,null
+Ticket to Ride,Pressure Gauge 300,Score 300+ (in Mega variant).,False,null
+Ticket to Ride,Pressure Gauge 400,Score 400+ (in Mega variant).,False,null
+Ticket to Ride,3 Punched Tickets,3 completed (in standard game only),False,null
+Ticket to Ride,6 Punched Tickets,6 completed (in standard game only),False,null
+Ticket to Ride,9 Punched Tickets,9 completed (in standard game only),False,null
+Ticket to Ride,12 Punched Tickets,12 completed (in standard game only),False,null
+Ticket to Ride,15 Punched Tickets,15 completed (in standard game only),False,null
+Ticket to Ride,Hobo,Win without completing any tickets,False,null
+Ticket to Ride,Trestle,Win using no 1 or 2-space routes,False,null
+Ticket to Ride,Hand Car,Win without using any locomotives,False,null
+Ticket to Ride,Transcontinental,Win with a continuous route of 45 trains,False,null
+Ticket to Ride,Coal Tender,Win while claiming all black routes,False,null
+Ticket to Ride,Economy Class,Win without having more than 10 train cards in hand at any time.,False,null
+Ticket to Ride,Poker Player,"Win while claiming all ""5"" routes.",False,null
+Ticket to Ride,Old Movies,Win while only claiming grey routes.,False,null
+Ticket to Ride,Railway Tycoon,Win while playing against 4 Vanderbot Jr (in standard game only).,False,null
+Ticket to Ride,Dynamite Joe,Win without your opponent(s) having completed any of their tickets.,False,null
+Ticket to Ride,Urban Traveller,Win while connecting all 7 Big Cities (in Big Cities variant).,False,null
+Ticket to Ride,First Tracks,Win with your 5 initial tickets and no others (in Mega variant).,False,null
+Ticket to Ride,Modest Entrepreneur,Win without any of the 2 bonuses (in Mega variant).,False,null
+Ticket to Ride,Station Rat,Win on the Europe map while using all 3 Stations,False,null
+Ticket to Ride,Orient Express,"Win on the Europe map with a Route connecting London, Paris, München, Wien, Budapest, Bucuresti and Constantinople",False,null
+Ticket to Ride,Romanov Train,Win on the Europe map with a Route connecting all 11 Russian Empire cities Petrograd - Riga - Wilno - Warszawa - Smolensk - Moskva - Kyiv - Kharkov - Rostov - Sevastopol - Sochi,False,null
+Ticket to Ride,National Railways,Win on the Europe map without your Long Destination Ticket,False,null
+Ticket to Ride,Baltic Explorer,Win on the Europe map with a 45 trains Long Route going through the 8-spaces Tunnel,False,null
+Ticket to Ride,Alphorn Player,Win on the Switzerland map without completing any Country-to-country or City-to-Country Ticket,False,null
+Ticket to Ride,Chocolate Exporter,Win on the Switzerland map while connecting all 4 surrounding Countries,False,null
+Ticket to Ride,Valley Commuter,Win on the Switzerland map without claiming any Tunnel route,False,null
+Ticket to Ride,Ticket Puncher,Win on the Switzerland map with the deck of Destination Tickets empty at game end,False,null
+Ticket to Ride,Lake Express,"Win on the Switzerland map while connecting all the great Swiss Lakes (Geneve or Lausanne, Neuchatel, Interlaken, Zurich, Lugano, Locarno, Kreuzlingen)",False,null
+Ticket to Ride,Mountain Hermit,Win on the Legendary Asia map while only claiming Mountain routes,False,null
+Ticket to Ride,Marco Polo,Win on the Legendary Asia map with the Asian Explorer Bonus connecting 22 Cities,False,null
+Ticket to Ride,Double Trouble,Win on the Legendary Asia map while only claiming Double-routes,False,null
+Ticket to Ride,Faster Than Mongolian Horse,Win on the Legendary Asia map in 24 turns or less,False,null
+Ticket to Ride,Asia Passport,Win all achievements for the Legendary Asia map,False,null
+Ticket to Ride,Fakir,Win on the India map without any Mandala Bonus,False,null
+Ticket to Ride,British Raj Tour,"Win on the India map while connecting Delhi, Calcutta, Madras & Bombay in a single Mandala",False,null
+Ticket to Ride,Hand of Kali,Win on the India map while preventing all opponent(s) from scoring any Mandala Bonus,False,null
+Ticket to Ride,Indian Passport,Win all achievements for the India map,False,null
+Ticket to Ride,Mandala Maharaja,Win on the India map with the 5 Mandalas Bonus,False,null
+Ticket to Ride,Santa Express,Win with the Murmansk/Lieksa road,False,null
+Ticket to Ride,Arctic Circle,"Win while connecting together the 7 cities north of the Arctic Circle: Narvik, Kiruna, Rovaniemi, Tromso, Kirkenes, Murmansk, Honningsvag",False,null
+Ticket to Ride,The Pole Express,Connect Arhus to Honningsvag with 24 trains and win the game,False,null
+Ticket to Ride,Land Lines,Win without using any ferries,False,null
+Ticket to Ride,Nordic Passport,Win all achievements for the Nordic Countries map,False,null
+Ticket to Ride,Money for your Mileage,Win with at least 3 destinations worth 10 or more points.,False,null
+Ticket to Ride,In Diagonal we Trust,Win while connecting Cadiz to Petrograd or Edinburgh to Erzurum.,False,null
+Ticket to Ride,Sunny Mediterranean,"Win while connecting Cadiz, Barcelona, Marseille, Roma and Palermo.",False,null
+Ticket to Ride,Bow Tie Forbidden,"Win without passing by Zurich, München, Wien, Budapest, Zagrab nor Venezia.",False,null
+Ticket to Ride,The Mole,Win while using at least 23 train cars in tunnels.,False,null
+Ticket to Ride,Finger in Every Pie,Win with at least one share of each company.,False,null
+Ticket to Ride,Three of a Kind,"Win with shares from these 3 companies only: Erie Lackawanna Railway, Baltimore & Ohio Railroad, Pennsylvania Railroad.",False,null
+Ticket to Ride,Stranger,Win without any share from Pennsylvania Railroad (2 players only).,False,null
+Ticket to Ride,Early Bird,Win with at least three #1 shares.,False,null
+Ticket to Ride,Pennsylvania Passport,Win all achievements for the Pennsylvania map,False,null
+Ticket to Ride,Intercities,Win while only completing short Destination Tickets.,False,null
+Ticket to Ride,Das Rheingold,"Win while connecting Switzerland, Freiburg, Karlsruhe, Mainz, Düsseldorf and Holland in 15 turns.",False,null
+Ticket to Ride,Berlin Traveller,Win while connecting Berlin to the 5 surrounding countries.,False,null
+Ticket to Ride,Mega Commuter,Win while only completing long Destination Tickets.,False,null
+Ticket to Ride,German Passport,Win all achievements for the Germany map.,False,null
+Ticket to Ride,Business Angel,Win with get the Boiler Lagging technology before claiming your first route,False,null
+Ticket to Ride,London Calling,Win with all routes to London claimed,False,null
+Ticket to Ride,So Many Colors,Win with used 4 or 3 cards for a loco,False,null
+Ticket to Ride,Titanic,Win with New-York route but don’t get the Propellers,False,null
+Ticket to Ride,I Love Ginger,Win by connecting only cities from Ireland and Scotland,False,null
+Ticket to Ride,I Visited Wales,Win with at least 2 routes in Wales and none in England,False,null
+Ticket to Ride,She's got a Ticket to Ride,Win with connect Liverpool to London then New York in that order,False,null
+Ticket to Ride,France - Wales,Win a game while connecting France and Wales (any cities),False,null
+Ticket to Ride,European Union,"Play France and win while connecting all countries, except Switzerland",False,null
+Ticket to Ride,"1, 2, 3!","Play France and win while claiming only routes of length 1, 2 or 3",False,null
+Ticket to Ride,Impressionism,"While playing France, build each of the 8 tracks of length 5 in a different color",False,null
+Ticket to Ride,The Hundred Days,"While playing France, follow the same path than Napoleon on his return from exile on the island of Elba. Connect Corsica, Nice, Grenoble, Lyon and Paris, in that order",False,null
+Ticket to Ride,The Atlantic Wall,Play France and win while claiming all the coastal routes connecting the cities of the Channel sea and the Atlantic ocean,False,null
+Borderlands 2,First One's Free,no description available,True,2019-06-12 17:58:58
+Borderlands 2,Dragon Slayer,no description available,True,2019-06-18 18:48:36
+Borderlands 2,A Road Less Traveled,no description available,True,2019-06-24 18:43:44
+Borderlands 2,New In Town,no description available,True,2019-06-25 20:25:32
+Borderlands 2,An Old Flame,no description available,True,2019-06-26 18:45:42
+Borderlands 2,No Man Left Behind,no description available,True,2019-09-30 20:37:28
+Borderlands 2,Wilhelm Screamed,no description available,True,2019-10-03 19:01:53
+Borderlands 2,Sky's The Limit,no description available,True,2019-10-03 21:45:04
+Borderlands 2,Can See My House From Here,no description available,True,2019-10-03 22:26:39
+Borderlands 2,"Farewell, Old Girl",no description available,True,2019-12-03 20:44:47
+Borderlands 2,Got The Band Back Together,no description available,True,2020-01-02 23:29:14
+Borderlands 2,Identity Theft,no description available,True,2020-07-13 15:42:49
+Borderlands 2,An Angel's Wish,no description available,True,2020-07-15 21:51:36
+Borderlands 2,Bombs Away,no description available,True,2021-11-20 11:48:50
+Borderlands 2,Knowing Is Half The Battle,no description available,True,2021-11-21 19:48:32
+Borderlands 2,"Cool Story, Bro",no description available,True,2021-11-22 20:08:18
+Borderlands 2,Challenge Accepted,Completed level 1 of all non-level-specific challenges with a single character.,False,null
+Borderlands 2,"Goliath, Meet David",Allowed a goliath to level up four times before killing him.,False,null
+Borderlands 2,Went Five Rounds,Completed Round 5 of any Circle of Slaughter.,False,null
+Borderlands 2,Not Quite Dead,Reached level 5.,True,2019-06-14 20:10:42
+Borderlands 2,Better Than You Were,Reached level 10.,True,2019-06-24 19:21:33
+Borderlands 2,Always Improving,Reached level 25.,True,2020-01-02 23:16:01
+Borderlands 2,Capped Out... For Now,Reached level 50.,True,2021-12-11 12:02:32
+Borderlands 2,Arctic Explorer,"Discovered all named locations in Three Horns, Tundra Express, and Frostburn Canyon.",False,null
+Borderlands 2,Urban Explorer,"Discovered all named locations in Sanctuary, Opportunity, and Lynchwood.",True,2020-07-22 14:54:25
+Borderlands 2,Highlands Explorer,"Discovered all named locations in The Highlands, Thousand Cuts, and Wildlife Exploitation Preserve.",True,2021-12-04 12:57:17
+Borderlands 2,Blight Explorer,"Discovered all named locations in Eridium Blight, Arid Nexus, and Sawtooth Cauldron.",False,null
+Borderlands 2,World Traveler,Discovered all named locations.,False,null
+Borderlands 2,Sugar Daddy,"Tipped Moxxi $10,000.",False,null
+Borderlands 2,Decked Out,Had Purple-rated gear or better equipped in every slot.,True,2021-11-20 10:45:54
+Borderlands 2,Sabre Rattler,Killed 100 enemies with the Sabre turret.,False,null
+Borderlands 2,Phased and Confused,Phaselocked 100 enemies.,False,null
+Borderlands 2,So Much Blood!,Gunzerked continuously for 90 seconds.,False,null
+Borderlands 2,Cute Loot,Killed a Chubby.,False,null
+Borderlands 2,Tribute To A Vault Hunter,Got an item from Michael Mamaril.,False,null
+Borderlands 2,Definitely An Italian Plumber,Killed Donkey Mong.,True,2021-12-13 21:46:10
+Borderlands 2,High-Flying Hurler,Killed a flying enemy with a thrown Tediore weapon.,False,null
+Borderlands 2,Token Gesture,Redeemed 25 tokens.,True,2019-06-26 18:39:48
+Borderlands 2,What does it mean?,no description available,False,null
+Borderlands 2,Unseen Predator,Remained in Zero's Decepti0n mode for ten seconds straight.,False,null
+Borderlands 2,Build Buster,Killed a Constructor without it ever building another bot.,True,2019-10-02 10:50:33
+Borderlands 2,"Well, That Was Easy",no description available,True,2020-01-02 23:13:14
+Borderlands 2,How Do I Look?,Unlocked 10 customization items.,True,2019-07-11 13:41:42
+Borderlands 2,Thresher Thrashed,no description available,False,null
+Borderlands 2,Friendship Rules,"Revived someone from ""Fight for Your Life!"" that is on your friends list.",False,null
+Borderlands 2,Better Than Money,Purchased 5 items from the black market.,True,2019-07-12 19:22:15
+Borderlands 2,"Up High, Down Low",Gave Claptrap a high five.,True,2022-12-01 19:00:49
+Borderlands 2,Bounty Hunter,Completed 20 side missions.,True,2019-07-11 14:08:45
+Borderlands 2,Did It All,Completed all side missions.,False,null
+Borderlands 2,Feels Like The First Time,no description available,True,2021-11-22 20:41:09
+Borderlands 2,Treasure Hunter,"Completed the mission ""X Marks the Spot"".",False,null
+Borderlands 2,Gadabout,Discovered all named locations in Oasis and the surrounding Pirate's Booty zones.,False,null
+Borderlands 2,Completionist,Completed all Pirate's Booty side missions.,False,null
+Borderlands 2,Explosive,"Completed the mission ""Long Way To The Top"".",False,null
+Borderlands 2,Motorhead,Completed all Campaign of Carnage side missions.,False,null
+Borderlands 2,Obsessed,Collected 10 pictures of Moxxi in Campaign of Carnage.,False,null
+Borderlands 2,Face Off,"Completed the mission ""The Fall of Nakayama"".",False,null
+Borderlands 2,Done That,Completed all Hammerlock's Hunt side missions.,False,null
+Borderlands 2,Been There,Discovered all named locations in Hammerlock's Hunt.,False,null
+Borderlands 2,I Totes Planned That Boss,Slew Mister Boney Pants Guy.,False,null
+Borderlands 2,Yaaaaaay,Introduced thyself to the White Knight.,False,null
+Borderlands 2,"Shorty, You So Best",Completed thy quest by rescuing yonder queen.,False,null
+Borderlands 2,Girl's Gotta Eat,Fed thy noble queen 3 times during one visit to her quarters.,False,null
+Borderlands 2,It's Like That One Video,"Showed thine worst enemy, the abomination known as ""The Darkness"", who is the nerdiest of them all.",False,null
+Borderlands 2,"They Was All ""Hey That's Mine""",Unsheathed 5 swords from Immortal Skeletaurs without leaving the area.,False,null
+Borderlands 2,Dang Girl You Ace At This Game,Won the most challenging round in Murderlin's Temple.,False,null
+Borderlands 2,Hmmmmm,Wielded the Mysterious Amulet.,False,null
+Borderlands 2,Keep Rollin' Rollin' Rollin',"Demonstrated your skill, or lack thereof, at rolling the magical treasure orb of many sides.",False,null
+Borderlands 2,Make it Raaaaaid,Vanquished the Ancient Dragons of Destruction.,False,null
+Borderlands 2,"Anyway, Here's ""Firewall""",Activate the Backburner's firewall.,False,null
+Borderlands 2,Chocolate Chip Confirmed,Allow Tiny Tina to arm the moonshot cannon.,False,null
+Borderlands 2,Spicy Boy,Defeat Haderax the Invincible.,False,null
+Borderlands 2,Decrypted!,Defeat the Dark Web.,False,null
+Borderlands 2,Painbow Connection,no description available,False,null
+Borderlands 2,3 or Bust,"Complete the mission ""Paradise Found"".",False,null
+Unturned,Welcome to PEI,Find your way to Prince Edward Island.,False,null
+Unturned,A Bridge Too Far,Fail to contain the virus.,False,null
+Unturned,Mastermind,Fully learn all your skills.,False,null
+Unturned,Offense,Fully learn your offense skill tree.,False,null
+Unturned,Defense,Fully learn your defense skill tree.,False,null
+Unturned,Support,Fully learn your support skill tree.,False,null
+Unturned,Experienced,Gain yourself 1000 experience.,False,null
+Unturned,Hoarder,Find yourself 1000 items.,False,null
+Unturned,Outdoors,Harvest yourself 100 resources.,False,null
+Unturned,Psychopath,Kill 100 players.,False,null
+Unturned,Murderer,Kill 10 players.,False,null
+Unturned,Survivor,Kill 100 normal zombies.,False,null
+Unturned,Unturned,Kill 1000 normal zombies.,False,null
+Unturned,Hardened,Kill a mega zombie.,False,null
+Unturned,Forged,Kill 10 mega zombies.,False,null
+Unturned,Scavenger,Find yourself 100 items.,False,null
+Unturned,Camper,Harvest yourself 10 resources.,False,null
+Unturned,Schooled,Gain yourself 100 experience.,True,2016-12-21 18:59:08
+Unturned,Berries,!?,True,2016-12-21 19:03:43
+Unturned,Accident Prone,Die 10 times.,False,null
+Unturned,Behind the Wheel,Find yourself a vehicle.,False,null
+Unturned,Welcome to the Yukon,Find your way to the Yukon.,False,null
+Unturned,Welcome to Washington,Find your way to Washington.,False,null
+Unturned,Graduation,Complete your education.,True,2016-12-21 18:59:08
+Unturned,Fishing,Catch yourself 10 fish.,False,null
+Unturned,Crafting,Craft yourself 100 items.,False,null
+Unturned,Farming,Grow yourself 100 plants.,False,null
+Unturned,Headshot,Hit 100 headshots.,False,null
+Unturned,Sharpshooter,Hit 1000 headshots.,False,null
+Unturned,Hiking,"Travel 50,000 m on foot.",False,null
+Unturned,Roadtrip,"Travel 100,000 m by vehicle.",False,null
+Unturned,Champion,Win 3 arena matches.,False,null
+Unturned,Fortified,Build yourself 250 objects.,False,null
+Unturned,Welcome to Russia,Find your way to Russia.,False,null
+Unturned,Soulcrystal,no description available,False,null
+Unturned,Paragon,Attain a respected reputation.,False,null
+Unturned,Villain,Attain an intimidating reputation.,False,null
+Unturned,Mk. II,no description available,False,null
+Unturned,Helping Hand,Finish a quest.,False,null
+Unturned,Ensign,Rise to Ensign rank in the Coalition.,False,null
+Unturned,Lieutenant,Rise to Lieutenant rank in the Coalition.,False,null
+Unturned,Major,Rise to Major rank in the Coalition.,False,null
+Unturned,Welcome to Hawaii,Find your way to Hawaii.,False,null
+Unturned,Extinguished,Kill a magma zombie.,False,null
+Unturned,Welcome to Germany,Find your way to Germany.,False,null
+Unturned,Secrets of Neuschwanstein,no description available,False,null
+Unturned,Welcome to Kuwait,Find your way to Kuwait.,False,null
+Unturned,Squeek,Fish out a formidable foe in Kuwait.,False,null
+Unturned,Feline Friends,Feed the cats of Kuwait some fish.,False,null
+Unturned,Dinosaur Juice,Maybe not the best drink in Kuwait.,False,null
+Unturned,Home Decor,Craft some cute decor in Kuwait.,False,null
+Unturned,Always Watching,no description available,False,null
+Unturned,Familiar Faces,no description available,False,null
+Unturned,Welcome to Ireland,Find your way to Ireland.,False,null
+Unturned,Honorary Benson,no description available,False,null
+Unturned,Welcome to Elver,Find your way to Elver.,False,null
+Unturned,Santa's Little Helper,Deliver all of Santa's undelivered gifts during the winter holiday festivities.,False,null
+Unturned,Architect,Build a big ol' snowman during the winter holiday festivities.,False,null
+Unturned,Cookie Cook,Try out Sous-Chef Roman's festive recipe during the winter holiday festivities.,False,null
+Unturned,A Star in the Sky,Power up the Seattle skyline during the winter holiday festivities.,False,null
+Unturned,Welcome to Arid,Find your way to Arid.,False,null
+Unturned,Arid Finale,Finish all main quests on Arid.,False,null
+Unturned,"Lock, Stock And Barrel",no description available,False,null
+Unturned,Escaping Outlands,no description available,False,null
+Unturned,A Duneman's Promise,no description available,False,null
+Unturned,Welcome to A6 Polaris,Find your way to A6 Polaris.,False,null
+Unturned,Expedition Completionist,no description available,False,null
+Unturned,Welcome to Buak,Find your way to Buak.,False,null
+Unturned,A Day in the Sun,Find someone having a good time on Buak.,False,null
+Unturned,False Promises,Learn about the past on Buak.,False,null
+Unturned,Do You Like Waffles?,Experiment with waffles on Buak.,False,null
+Unturned,Anomaly-7,no description available,False,null
+Unturned,Welcome to Escalation,Find your way to Escalation.,False,null
+Unturned,Bombs Away,Call in a strike package using an LTLM on Escalation.,False,null
+Unturned,Forceful Acquisition,Bring down an airdrop with a missile on Escalation.,False,null
+Unturned,Dead Silent,Craft every suppressed gun on Escalation.,False,null
+Unturned,Poor Investment,no description available,False,null
+Geometry Dash,Stereo Bump,"Complete ""Stereo Madness"" in Practice mode",False,null
+Geometry Dash,Stereo Madness!,"Complete ""Stereo Madness"" in Normal mode",False,null
+Geometry Dash,On my way,"Complete ""Back On Track"" in Practice mode",False,null
+Geometry Dash,Back On Track!,"Complete ""Back On Track"" in Normal mode",False,null
+Geometry Dash,Polarbear,"Complete ""Polargeist"" in Practice mode",False,null
+Geometry Dash,Polargeist!,"Complete ""Polargeist"" in Normal mode",False,null
+Geometry Dash,Dehydrated,"Complete ""Dry Out"" in Practice mode",False,null
+Geometry Dash,Dry Out!,"Complete ""Dry Out"" in Normal mode",False,null
+Geometry Dash,All your base...,"Complete ""Base After Base"" in Practice mode",False,null
+Geometry Dash,Base After Base!,"Complete ""Base After Base"" in Normal mode",False,null
+Geometry Dash,Hold on,"Complete ""Cant Let Go"" in Practice mode",False,null
+Geometry Dash,Cant Let Go!,"Complete ""Cant Let Go"" in Normal mode",False,null
+Geometry Dash,Hop Hop...,"Complete ""Jumper"" in Practice mode",False,null
+Geometry Dash,Jumper!,"Complete ""Jumper"" in Normal mode",False,null
+Geometry Dash,Tick Tock,"Complete ""Time Machine"" in Practice mode",False,null
+Geometry Dash,Time Machine!,"Complete ""Time Machine"" in Normal mode",False,null
+Geometry Dash,Loops,"Complete ""Cycles"" in Practice mode",False,null
+Geometry Dash,Cycles!,"Complete ""Cycles"" in Normal mode",False,null
+Geometry Dash,yStep,"Complete ""xStep"" in Practice mode",False,null
+Geometry Dash,xStep!,"Complete ""xStep"" in Normal mode",False,null
+Geometry Dash,Funky,"Complete ""Clutterfunk"" in Practice mode",False,null
+Geometry Dash,Clutterfunk!,"Complete ""Clutterfunk"" in Normal mode",False,null
+Geometry Dash,Theory of Something,"Complete ""Theory of Everything"" in Practice mode",False,null
+Geometry Dash,Theory of Everything!,"Complete ""Theory of Everything"" in Normal mode",False,null
+Geometry Dash,Electro Time,"Complete ""Electroman Adventures"" in Practice mode",False,null
+Geometry Dash,Electroman Adventures!,"Complete ""Electroman Adventures"" in Normal mode",False,null
+Geometry Dash,Clubbin,"Complete ""Clubstep"" in Practice mode",False,null
+Geometry Dash,Clubstep!,"Complete ""Clubstep"" in Normal mode",False,null
+Geometry Dash,Electromaniac,"Complete ""Electrodynamix"" in Practice mode",False,null
+Geometry Dash,Electrodynamix!,"Complete ""Electrodynamix"" in Normal mode",False,null
+Geometry Dash,Hexagonest,"Complete ""Hexagon Force"" in Practice mode",False,null
+Geometry Dash,Hexagon Force!,"Complete ""Hexagon Force"" in Normal mode",False,null
+Geometry Dash,Blast Power,"Complete ""Blast Processing"" in Practice mode",False,null
+Geometry Dash,Blast Processing!,"Complete ""Blast Processing"" in Normal mode",False,null
+Geometry Dash,Second Theory,"Complete ""Theory of Everything 2"" in Practice mode",False,null
+Geometry Dash,Theory of Everything 2!,"Complete ""Theory of Everything 2"" in Normal mode",False,null
+Geometry Dash,Reflex Champion,Complete a Demon difficulty level in Normal mode,False,null
+Geometry Dash,Demon Chaser,Complete 2 Demon difficulty levels in Normal mode,False,null
+Geometry Dash,The One,Complete 3 Demon difficulty levels in Normal mode,False,null
+Geometry Dash,Demon Master,Complete 4 Demon difficulty levels in Normal mode,False,null
+Geometry Dash,Demonic Guardian,Complete 5 Demon difficulty levels in Normal mode,False,null
+Geometry Dash,Demonic Overmind,Complete 10 Demon difficulty levels in Normal mode,False,null
+Geometry Dash,Master of Timing,Complete 15 Demon difficulty levels in Normal mode,False,null
+Geometry Dash,Unstoppable!,Complete 20 Demon difficulty levels in Normal mode,False,null
+Geometry Dash,Demolicious!,Complete 30 Demon difficulty levels in Normal mode,False,null
+Geometry Dash,Give me a CHALLENGE!,Complete 40 Demon difficulty levels in Normal mode,False,null
+Geometry Dash,"Oh, Shiny!",Collect 100 stars,False,null
+Geometry Dash,More stars!,Collect 200 stars,False,null
+Geometry Dash,Star Maniac,Collect 300 stars,False,null
+Geometry Dash,Master Collector,Collect 400 stars,False,null
+Geometry Dash,Epic Collector,Collect 500 stars,False,null
+Geometry Dash,Epic Master Collector,Collect 600 stars,False,null
+Geometry Dash,Star Factory,Collect 700 stars,False,null
+Geometry Dash,Starshine,Collect 800 stars,False,null
+Geometry Dash,All MINE!,Collect 900 stars,False,null
+Geometry Dash,MORE SHINY!!!,Collect 1000 stars,False,null
+Geometry Dash,Was that all of them?,Collect 1500 stars,False,null
+Geometry Dash,Knock knock. Who's there? STARS!,Collect 2000 stars,False,null
+Geometry Dash,Coins?!,Collect 5 Secret Coins,False,null
+Geometry Dash,Maybe behind that block?,Collect 10 Secret Coins,False,null
+Geometry Dash,I.. Need... MORE!,Collect 15 Secret Coins,False,null
+Geometry Dash,We wants it!,Collect 20 Secret Coins,False,null
+Geometry Dash,We needs it!,Collect 25 Secret Coins,False,null
+Geometry Dash,Must have the precious,Collect 30 Secret Coins,False,null
+Geometry Dash,They stole it from us!,Collect 35 Secret Coins,False,null
+Geometry Dash,Where is it?! Where is it?!,Collect 40 Secret Coins,False,null
+Geometry Dash,"Thief, thief, thief!",Collect 45 Secret Coins,False,null
+Geometry Dash,My Precious...,Collect 50 Secret Coins,False,null
+Geometry Dash,There's more!?,Collect 55 Secret Coins,False,null
+Geometry Dash,Found it under a rock!,Collect 60 Secret Coins,False,null
+Geometry Dash,Not so secret,Collect 65 Secret Coins,False,null
+Geometry Dash,Nothing is secret!,Collect 70 Secret Coins,False,null
+Geometry Dash,Finders Keepers!,Collect 75 Secret Coins,False,null
+Geometry Dash,The Golden Rule,Collect 80 Secret Coins,False,null
+Geometry Dash,Robin Hood,Collect 85 Secret Coins,False,null
+Geometry Dash,The Finder,Collect 90 Secret Coins,False,null
+Geometry Dash,Tax Collector,Collect 95 Secret Coins,False,null
+Geometry Dash,The King's Vault,Collect 100 Secret Coins,False,null
+Geometry Dash,"Jump, Forrest, jump",Complete a Map Pack,False,null
+Geometry Dash,Failure is not an option,Complete 5 Map Packs,False,null
+Geometry Dash,Map Packer,Complete 10 Map Packs,False,null
+Geometry Dash,Pack it up,Complete 15 Map Packs,False,null
+Geometry Dash,Package Complete,Complete 20 Map Packs,False,null
+Geometry Dash,"You pack, I complete",Complete 25 Map Packs,False,null
+Geometry Dash,I R Unstoppable!,Complete 30 Map Packs,False,null
+Geometry Dash,Challenger,Complete a user created level in Normal mode,False,null
+Geometry Dash,Master,Complete 10 user created levels in Normal mode,False,null
+Geometry Dash,The Gamer,Complete 50 user created levels in Normal mode,False,null
+Geometry Dash,Geometrician,Complete 100 user created levels in Normal mode,False,null
+Geometry Dash,Spike dodger,Complete 200 user created levels in Normal mode,False,null
+Geometry Dash,No match for me!,Complete 300 user created levels in Normal mode,False,null
+Geometry Dash,Bring me their heads!,Complete 500 user created levels in Normal mode,False,null
+Geometry Dash,"Tonight, we dine in GEOMETRY DASH!",Complete 1000 user created levels in Normal mode,False,null
+Geometry Dash,Supporter,"Review ""Geometry Dash"" and let us know what you think",False,null
+Geometry Dash,Bounce,Jump 1000 times,False,null
+Geometry Dash,I like jumping,Jump 10000 times,False,null
+Geometry Dash,You jump like a pro!,Jump 20000 times,False,null
+Geometry Dash,Hop Hop Hop,Jump 50000 times,False,null
+Geometry Dash,Trial and error,Do 100 attempts,False,null
+Geometry Dash,Crash Tester,Do 500 attempts,False,null
+Geometry Dash,You Shall Not Pass!,Do 2000 attempts,False,null
+Geometry Dash,Ouch...,Do 10000 attempts,False,null
+Geometry Dash,Helper,Like an online level,False,null
+Geometry Dash,Cleric,Like or Dislike 100 online levels,False,null
+Geometry Dash,Spymaster,Like or Dislike 1000 online levels,False,null
+Geometry Dash,Guide,Rate the difficulty of an online level,False,null
+Geometry Dash,Visionary,Rate the difficulty of 100 online levels,False,null
+Geometry Dash,Guiding Light,Rate the difficulty of 1000 online levels,False,null
+Geometry Dash,Creator,Create and submit a custom level,False,null
+Geometry Dash,Geometry Creator,Get 100 likes on a created level,False,null
+Geometry Dash,RobTop Gamer,Click on the More Games button!,False,null
+Geometry Dash,Number one fan!,Like Geometry Dash on Facebook,False,null
+Geometry Dash,GeometryTube,Subscribe to RobTop Games on YouTube,False,null
+Geometry Dash,So close,Crash at over 95% on a main level in normal mode,False,null
+Geometry Dash,Rampage!,A secret is required,False,null
+Geometry Dash,Dominating!,A secret is required,False,null
+Geometry Dash,Godlike!,A secret is required,False,null
+Geometry Dash,Master Detective,A hidden treasure is required,False,null
+Geometry Dash,Steamrolling!,Complete level 1-3 in Normal mode (Steam Exclusive),True,2024-03-29 20:07:07
+Geometry Dash,SteamStep!,"Complete ""Clubstep"" in Normal mode (Steam Exclusive Bonus)",True,2024-03-29 20:07:08
+Borderlands: The Pre-Sequel,Invaders Must Die,no description available,True,2023-12-03 19:14:58
+Borderlands: The Pre-Sequel,Welcome To The Rock,no description available,True,2023-12-06 16:27:52
+Borderlands: The Pre-Sequel,Dejamminated,no description available,True,2023-12-07 15:18:52
+Borderlands: The Pre-Sequel,I Shot The Meriff,no description available,True,2023-12-07 21:25:37
+Borderlands: The Pre-Sequel,"Drakensburg, Schmakensburg",no description available,False,null
+Borderlands: The Pre-Sequel,Who Constructs The Constructor?,no description available,False,null
+Borderlands: The Pre-Sequel,Helios Rising,no description available,False,null
+Borderlands: The Pre-Sequel,Brain Drain,no description available,False,null
+Borderlands: The Pre-Sequel,The Guts Of Helios,no description available,False,null
+Borderlands: The Pre-Sequel,A House Divided,no description available,False,null
+Borderlands: The Pre-Sequel,Vault Hunter Superior,no description available,False,null
+Borderlands: The Pre-Sequel,Multi Face-eted,no description available,False,null
+Borderlands: The Pre-Sequel,Once More With Feeling,no description available,False,null
+Borderlands: The Pre-Sequel,Do Shoot the Messenger,no description available,False,null
+Borderlands: The Pre-Sequel,The Gun In The Stone,no description available,False,null
+Borderlands: The Pre-Sequel,Who You Gonna Call?,no description available,False,null
+Borderlands: The Pre-Sequel,Guardian Guardian,no description available,False,null
+Borderlands: The Pre-Sequel,Modern Fart,no description available,False,null
+Borderlands: The Pre-Sequel,Side Quest Student,Completed 30 side missions.,False,null
+Borderlands: The Pre-Sequel,Moon Mission Meister,Completed all of the side missions.,False,null
+Borderlands: The Pre-Sequel,Grind 'n' Bear It,Used the Grinder to create an item.,False,null
+Borderlands: The Pre-Sequel,The Bigger They Are,no description available,False,null
+Borderlands: The Pre-Sequel,Mouth To Mouth,Revived 10 players with Oxygen.,False,null
+Borderlands: The Pre-Sequel,Rocketeer,no description available,False,null
+Borderlands: The Pre-Sequel,Super Secret Stash,no description available,False,null
+Borderlands: The Pre-Sequel,Air Supremacy,Killed 100 enemies with Wolf.,False,null
+Borderlands: The Pre-Sequel,"No, I'm Athena!",Killed 100 enemies with the Aspis.,False,null
+Borderlands: The Pre-Sequel,"That Helped, Right?",Experienced all Vault Hunter Modes using VaultHunter.EXE.,False,null
+Borderlands: The Pre-Sequel,Executioner,Killed 10 enemies in a single activation of Showdown.,False,null
+Borderlands: The Pre-Sequel,That Tasted Purple!,Had purple-rated gear or better equipped in every slot.,False,null
+Borderlands: The Pre-Sequel,Challenger,Completed level 1 of all challenges with a single character.,False,null
+Borderlands: The Pre-Sequel,Space Rookie,Reached level 5.,True,2023-12-03 19:31:19
+Borderlands: The Pre-Sequel,Lunar Lieutenant,Reached level 10.,True,2023-12-07 17:08:20
+Borderlands: The Pre-Sequel,Moon Master,Reached level 25.,False,null
+Borderlands: The Pre-Sequel,Space Lord,Reached level 50.,False,null
+Borderlands: The Pre-Sequel,Moxxi's Sampler,Tried all the Moxxtails in the Up Over Bar in Concordia.,False,null
+Borderlands: The Pre-Sequel,Lunar Looter,Looted 10 Moonstone Chests.,False,null
+Borderlands: The Pre-Sequel,I Come From The Land Up Over,"Discovered all named locations in Serenity's Waste, Triton Flats and Stanton's Liver.",False,null
+Borderlands: The Pre-Sequel,Beam Me Up,Discovered all named locations aboard the Helios Space Station.,False,null
+Borderlands: The Pre-Sequel,Eridian Explorer,"Discovered all named locations in Outlands Canyon, Outlands Spur and Vorago Solitude.",False,null
+Borderlands: The Pre-Sequel,Cosmic Completionist,Discovered all named locations.,False,null
+Borderlands: The Pre-Sequel,High Fashion,Unlocked 10 Customization Items.,False,null
+Borderlands: The Pre-Sequel,The Duelist,Won a duel.,False,null
+Borderlands: The Pre-Sequel,Collateral Damage,Had a Lost Legion Eternal kill 3 of his friends.,False,null
+Borderlands: The Pre-Sequel,360 No Scope,"While airborne, spun 360 degrees then got a kill with a Sniper Rifle without using the scope.",False,null
+Borderlands: The Pre-Sequel,Expensive Taste,Used the Grinder to create a Legendary item.,False,null
+Borderlands: The Pre-Sequel,Ice To Meet You,Shattered 3 frozen enemies with a single slam attack.,False,null
+Borderlands: The Pre-Sequel,Elementalist,"Had an enemy frozen, corroded, ignited, and electrocuted at the same time.",False,null
+Borderlands: The Pre-Sequel,Pancake Parlor,Pancaked an enemy in the Stingray.,False,null
+Borderlands: The Pre-Sequel,Who Needs Air?,Suffocated for 5 continuous minutes without dying.,False,null
+Borderlands: The Pre-Sequel,Smash the System,Completed all 5 rounds of The Holodome.,False,null
+Borderlands: The Pre-Sequel,Stronger! Smarter!,Completed the Badass Round of The Holodome.,False,null
+Borderlands: The Pre-Sequel,"I Welcome Your Attack, Fool",Completed the Badass Round without going into Fight For Your Life.,False,null
+Borderlands: The Pre-Sequel,Digitize Me!,no description available,False,null
+Borderlands: The Pre-Sequel,Smash and Not Grab,no description available,False,null
+Borderlands: The Pre-Sequel,Totally Recalled,no description available,False,null
+Borderlands: The Pre-Sequel,Shadow Play,no description available,False,null
+Borderlands: The Pre-Sequel,Shadow of Your Former Self,no description available,False,null
+Borderlands: The Pre-Sequel,Wheely Fast,no description available,False,null
+Borderlands: The Pre-Sequel,Sociopathic Networker,no description available,False,null
+Borderlands: The Pre-Sequel,The Gift that Keeps on Giving,no description available,False,null
+Borderlands: The Pre-Sequel,It's Raining Cats and Hotdogs,no description available,False,null
+Borderlands: The Pre-Sequel,"No Photographs, Please!",Killed 10 SpyBugs before they took your photo.,False,null
+ASTRONEER,EXO Dynamics Training Seal of Approval,Complete the training missions.,False,null
+ASTRONEER,Up By the Roots,Dig up a hazard.,False,null
+ASTRONEER,Pursuit of Knowledge,Research an item in the Research Chamber.,False,null
+ASTRONEER,A Little Byte Goes a Long Way,Scan a Research Sample of any type.,False,null
+ASTRONEER,Dirt Don't Hurt,Extract a resource using the Soil Centrifuge.,False,null
+ASTRONEER,Do Science To It,Synthesize a composite material with the Chemistry Lab.,False,null
+ASTRONEER,A Little Gassy,Collect a gas with the Atmospheric Condenser.,False,null
+ASTRONEER,Sweet New Ride,Build a rover of any type.,False,null
+ASTRONEER,Scrap for the Scrapper,Scrap an object in a Shredder.,False,null
+ASTRONEER,Junk Trader,Use the Trade Platform to exchange Scrap for another resource.,False,null
+ASTRONEER,Barrier Buster,Use a drill to deform a harder type of terrain.,False,null
+ASTRONEER,Delve Greedily and Deep,Travel to the Mantle depth of any planet.,False,null
+ASTRONEER,Making a New Friend,Plant a seed.,False,null
+ASTRONEER,"Well Hello There, Fancypants",Change into a different suit.,False,null
+ASTRONEER,Thank You For Your Continued Assistance,Solve an EXO Dynamics Research Aid.,False,null
+ASTRONEER,Lab Rat,Use the Chemistry Lab to synthesize each composite material.,False,null
+ASTRONEER,Gas Giant,Use the Atmospheric Condenser to collect every type of gas.,False,null
+ASTRONEER,Chop Shop,Scrap 50 objects in a Shredder.,False,null
+ASTRONEER,In An Astroneer's Garden,"Plant a Spinelily, Lashleaf, Bouncevine, Wheezeweed, Thistlewhip, Popcoral and Daggeroot seed.",False,null
+ASTRONEER,Resources in the Rough,Use the Terrain Tool to harvest every type of raw material.,False,null
+ASTRONEER,They Who Smelt It,Use the Smelter to craft every type of refined resource.,False,null
+ASTRONEER,Research Scientist,"Gain 100,000 Bytes across all games.",False,null
+ASTRONEER,Information Dump,Reach more than 150 Bytes-Per-Minute of concurrent research.,False,null
+ASTRONEER,Secrets of the Universe,no description available,False,null
+ASTRONEER,Shapes and Other Shapes,no description available,False,null
+ASTRONEER,First Step Into a Larger World,no description available,False,null
+ASTRONEER,Encounter With the Infinite,no description available,False,null
+ASTRONEER,Sylva Awakened,no description available,False,null
+ASTRONEER,Desolo Awakened,no description available,False,null
+ASTRONEER,Calidor Awakened,no description available,False,null
+ASTRONEER,Vesania Awakened,no description available,False,null
+ASTRONEER,Novus Awakened,no description available,False,null
+ASTRONEER,Glacio Awakened,no description available,False,null
+ASTRONEER,Atrox Awakened,no description available,False,null
+ASTRONEER,To Infinity...,no description available,False,null
+ASTRONEER,Blast Off,Use a shuttle to leave Sylva.,False,null
+ASTRONEER,One Small Step,Visit Desolo.,False,null
+ASTRONEER,It's a Dry Heat,Visit Calidor.,False,null
+ASTRONEER,Into the Woods,Visit Vesania.,False,null
+ASTRONEER,To the Forest Moon,Visit Novus.,False,null
+ASTRONEER,I Feel Sick,Visit Atrox.,False,null
+ASTRONEER,Cool As Ice,Visit Glacio.,False,null
+ASTRONEER,Now You See Me...,no description available,False,null
+ASTRONEER,...And Beyond,no description available,False,null
+ASTRONEER,Hang 10-Squared,Slide uninterrupted for at least 10 seconds.,False,null
+ASTRONEER,"Where We're Going, We Don't Need Roads",Drive an airborne rover for at least 10 seconds.,False,null
+ASTRONEER,Galactic Boogaloo,Dance on every planet.,False,null
+ASTRONEER,Baby You're a Firework,Launch 10 fireworks in 10 seconds.,False,null
+ASTRONEER,EXO Dynamics Outreach Participant,Join or host a multiplayer game session.,False,null
+ASTRONEER,Let Me Borrow This Just A Second,Use a Research Chamber to research something in another Astroneer's game.,False,null
+ASTRONEER,Journey to the Center of the Thing,Travel to the center of any planet in a multiplayer game.,False,null
+ASTRONEER,EXO Dynamics Outreach Advocate,Spend more than 4 total hours in multiplayer sessions.,False,null
+ASTRONEER,Interplanetary Road Trip,Travel to another planet with another player in the same shuttle.,False,null
+ASTRONEER,EXO Dynamics Solar System Mastery,Obtain every Achievement in Astroneer.,False,null
+ASTRONEER,The First Discovery,Use the Probe Scanner to find one of the mysterious Vintage Probes.,False,null
+ASTRONEER,The Wanderer's Way,no description available,False,null
+Minecraft: Story Mode - A Telltale Games Series,New Kid on the Block,Complete Chapter 1 of Episode 1,False,null
+Minecraft: Story Mode - A Telltale Games Series,Leveraging Resources,Get creative at the crafting table,False,null
+Minecraft: Story Mode - A Telltale Games Series,Some Assembly Required,Complete Chapter 2 of Episode 1,False,null
+Minecraft: Story Mode - A Telltale Games Series,To Catch a Thief,Complete Chapter 3 of Episode 1,False,null
+Minecraft: Story Mode - A Telltale Games Series,Out of the Frying Pan...,Complete Chapter 4 of Episode 1,False,null
+Minecraft: Story Mode - A Telltale Games Series,Safety First,Complete Chapter 5 of Episode 1,False,null
+Minecraft: Story Mode - A Telltale Games Series,The Calm Before the Storm,Complete Chapter 6 of Episode,False,null
+Minecraft: Story Mode - A Telltale Games Series,Nether Say Die,Complete Chapter 1 of Episode 2,True,2016-07-06 22:36:36
+Minecraft: Story Mode - A Telltale Games Series,Griefer Madness,Acquire the Griefer,True,2016-07-06 23:00:06
+Minecraft: Story Mode - A Telltale Games Series,Occam's Razor,Acquire the Engineer,False,null
+Minecraft: Story Mode - A Telltale Games Series,No Time to Lose,Complete Chapter 4 of Episode 2,True,2016-07-06 23:14:42
+Minecraft: Story Mode - A Telltale Games Series,In the Shadow of Giants,Complete Chapter 5 of Episode 2,True,2016-07-06 23:19:53
+Minecraft: Story Mode - A Telltale Games Series,Left Behind,Complete Chapter 6 of Episode 2,True,2016-07-06 23:28:54
+Minecraft: Story Mode - A Telltale Games Series,Back to the Grind,Complete Chapter 1 of Episode 3,True,2016-07-06 23:58:08
+Minecraft: Story Mode - A Telltale Games Series,That's Some Pig,Chew the fat with Reuben,False,null
+Minecraft: Story Mode - A Telltale Games Series,A World of Pure Imagination,Complete Chapter 2 of Episode 3,True,2016-07-07 00:06:30
+Minecraft: Story Mode - A Telltale Games Series,Pretender Man,Complete Chapter 3 of Episode 3,True,2016-07-07 00:22:55
+Minecraft: Story Mode - A Telltale Games Series,When a Plan Comes Together,Complete Chapter 4 of Episode 3,True,2016-07-07 00:32:33
+Minecraft: Story Mode - A Telltale Games Series,Blockbuster,Complete Chapter 5 of Episode 3,True,2016-07-07 12:16:42
+Minecraft: Story Mode - A Telltale Games Series,Out With A Bang,Complete Chapter 6 of Episode 3,True,2016-07-07 12:29:16
+Minecraft: Story Mode - A Telltale Games Series,Dramatic Timing,Complete Chapter 1 of Episode 4,True,2016-07-07 12:37:38
+Minecraft: Story Mode - A Telltale Games Series,In a Land Far Away,Complete Chapter 2 of Episode 4,True,2016-07-07 12:58:12
+Minecraft: Story Mode - A Telltale Games Series,It Came From Outer Space,Complete Chapter 3 of Episode 4,True,2016-07-07 13:04:37
+Minecraft: Story Mode - A Telltale Games Series,The End of the Line,Complete Chapter 4 of Episode 4,True,2016-07-07 13:44:16
+Minecraft: Story Mode - A Telltale Games Series,From the Jaws of Defeat,Complete Chapter 5 of Episode 4,True,2016-07-07 13:52:40
+Minecraft: Story Mode - A Telltale Games Series,A New World Order,Complete Chapter 6 of Episode 4,True,2016-07-07 14:07:55
+Minecraft: Story Mode - A Telltale Games Series,Finders Keepers,Complete Chapter 1 of Episode 5,True,2016-07-07 14:31:20
+Minecraft: Story Mode - A Telltale Games Series,Losers Weepers,Complete Chapter 2 of Episode 5,True,2016-07-07 22:55:00
+Minecraft: Story Mode - A Telltale Games Series,Friends in High Places,Complete Chapter 3 of Episode 5,True,2016-07-07 23:07:41
+Minecraft: Story Mode - A Telltale Games Series,Castles in the Sky,Complete Chapter 4 of Episode 5,True,2016-07-07 23:37:26
+Minecraft: Story Mode - A Telltale Games Series,Out of the Blue,Complete Chapter 5 of Episode 5,True,2016-07-08 13:03:21
+Minecraft: Story Mode - A Telltale Games Series,To Boldly Go…,Complete Chapter 6 of Episode 5,True,2016-07-08 13:31:43
+Minecraft: Story Mode - A Telltale Games Series,Invitation to Die For,Complete Chapter 1 of Episode 6,True,2016-07-09 19:34:02
+Minecraft: Story Mode - A Telltale Games Series,Mr. Sandman,Complete Chapter 2 of Episode 6,True,2016-07-09 19:51:03
+Minecraft: Story Mode - A Telltale Games Series,Killer Instincts,Complete Chapter 3 of Episode 6,True,2016-07-09 20:11:01
+Minecraft: Story Mode - A Telltale Games Series,The Science of Deduction,Complete Chapter 4 of Episode 6,True,2016-07-09 20:24:46
+Minecraft: Story Mode - A Telltale Games Series,From the Ashes,Complete Chapter 5 of Episode 6,True,2016-07-09 20:42:24
+Minecraft: Story Mode - A Telltale Games Series,"Elementary, My Dear Jesse.",Complete Chapter 6 of Episode 6,True,2016-07-09 20:53:40
+Minecraft: Story Mode - A Telltale Games Series,Fighting Words,Complete Chapter 1 of Episode 7,True,2016-08-01 21:37:34
+Minecraft: Story Mode - A Telltale Games Series,Mining for Trouble,Complete Chapter 2 of Episode 7,True,2016-08-01 21:49:22
+Minecraft: Story Mode - A Telltale Games Series,Trust Falling,Complete Chapter 3 of Episode 7,True,2016-08-07 16:44:55
+Minecraft: Story Mode - A Telltale Games Series,Ghost in the Machine,Complete Chapter 4 of Episode 7,True,2016-08-07 17:12:13
+Minecraft: Story Mode - A Telltale Games Series,Breaking and Entering,Complete Chapter 5 of Episode 7,True,2016-08-07 17:30:10
+Minecraft: Story Mode - A Telltale Games Series,Offline Mode,Complete Chapter 6 of Episode 7,True,2016-08-07 17:35:44
+Minecraft: Story Mode - A Telltale Games Series,Let the Games Begin,Complete Chapter 1 of Episode 8,True,2016-09-26 10:42:52
+Minecraft: Story Mode - A Telltale Games Series,Playing for Keeps,Complete Chapter 2 of Episode 8,True,2016-09-26 11:00:35
+Minecraft: Story Mode - A Telltale Games Series,Challenge: Accepted,Complete Chapter 3 of Episode 8,True,2016-09-26 11:13:33
+Minecraft: Story Mode - A Telltale Games Series,The Most Dangerous Game,Complete Chapter 4 of Episode 8,True,2016-09-26 11:25:53
+Minecraft: Story Mode - A Telltale Games Series,Gaming the System,Complete Chapter 5 of Episode 8,True,2016-09-26 11:48:37
+Minecraft: Story Mode - A Telltale Games Series,To the Victor Go the Spoils,Complete Chapter 6 of Episode 8,True,2016-09-26 11:56:57
+Firewatch,"""Good first day.""",no description available,True,2024-01-11 00:47:15
+Firewatch,"""Back to work.""",no description available,True,2024-01-11 01:33:18
+Firewatch,"""Someone's out here.""",no description available,True,2024-01-11 14:21:38
+Firewatch,"""Burn the place down.""",no description available,True,2024-01-11 14:56:32
+Firewatch,Firewatch,no description available,True,2024-01-11 15:52:19
+Firewatch,Bee Plot,Got stung by a bee. It happens.,True,2024-01-11 14:36:09
+Firewatch,The Life and Times of Raccoon Carter,Got attacked by a raccoon; probably didn't get rabies.,False,null
+Firewatch,Shutter Bug,Filled a disposable camera with photos.,False,null
+Firewatch,Love Turts,Adopted a turtle as a pet. The average lifespan of a box turtle is fifty years. It will outlive you.,True,2024-01-11 13:37:49
+Firewatch,Ol' Shoshone,"Listened to the tape of ""Ol' Shoshone."" Cavorted among the aspens.",False,null
+Borderlands 3,You Got Skills,Reach level 2.,True,2022-12-08 20:04:12
+Borderlands 3,Star Bound,Reach level 10.,True,2022-12-08 23:37:34
+Borderlands 3,Vaulting Your Way To The Top,Reach level 25.,True,2022-12-21 18:15:21
+Borderlands 3,Biggest Badass In The Borderlands,Reach level 50.,False,null
+Borderlands 3,Bolt-Ons,Unlock 10 Character Heads or Skins.,True,2022-12-27 22:26:21
+Borderlands 3,Mechani-Cool,Unlock 10 Vehicle Parts via hijacking.,True,2022-12-31 22:16:02
+Borderlands 3,Tips Appreciated,Tip Moxxi.,False,null
+Borderlands 3,I Hope You Didn't Tea-bag,Win a duel.,False,null
+Borderlands 3,Stay Away From The Light,Revive another player.,False,null
+Borderlands 3,Gun Pals!,Send an item to a friend.,False,null
+Borderlands 3,Dropping Loads,Win a live grenade at a Slot Machine.,True,2022-12-18 21:23:44
+Borderlands 3,Good Against Remotes Is One Thing,Get a perfect score at the Firing Range on any difficulty.,False,null
+Borderlands 3,My Name Is Earl,Buy 20 cosmetic items from Crazy Earl.,False,null
+Borderlands 3,Tales From The Eridian Slab,Decipher all of the Eridian Slabs.,True,2023-01-05 14:03:44
+Borderlands 3,Slaughterhouse 3,Complete all the Circles of Slaughter.,False,null
+Borderlands 3,A Hundred Names For Sand,Discover all named locations on Pandora.,False,null
+Borderlands 3,Swamped,Discover all named locations on Eden-6.,False,null
+Borderlands 3,City Slicker,Discover all named locations on Promethea.,False,null
+Borderlands 3,Exoarchaeolo—You Get The Gist,no description available,False,null
+Borderlands 3,Master Of All You Survey,Discover all named locations.,False,null
+Borderlands 3,À La Carte,Complete 20 Side Missions.,True,2022-12-21 13:14:38
+Borderlands 3,Getting A Little On The Side,Complete all Side Missions.,False,null
+Borderlands 3,100-Proof,Clear all the Eridian Proving Grounds.,False,null
+Borderlands 3,Got Big Game,Defeat all of Hammerlock's Legendary Hunts.,False,null
+Borderlands 3,Zer0ed In,Defeat all of Zer0's Targets of Opportunity.,False,null
+Borderlands 3,Barreled Right Over Them,Kill an enemy with an exploding barrel.,True,2022-12-08 20:42:43
+Borderlands 3,Feelin' A Little Stabby,"Kill an enemy, knifing them with a gun blade.",True,2022-12-08 20:56:26
+Borderlands 3,Stick It To 'Em,Kill two or more enemies with a single sticky grenade.,True,2023-01-03 21:40:28
+Borderlands 3,On Fleek,Equip purple-rated gear or better in every slot.,True,2022-12-30 14:46:17
+Borderlands 3,Rewards Card,Earn a Loyalty Package from each weapon manufacturer.,False,null
+Borderlands 3,Welcome To The Crimson Raiders,no description available,True,2022-12-08 20:10:24
+Borderlands 3,"So Long, Pandora!",no description available,True,2022-12-08 23:37:34
+Borderlands 3,NOG It Off,no description available,True,2022-12-10 21:07:04
+Borderlands 3,I Mustache You A Question,no description available,True,2022-12-21 12:52:50
+Borderlands 3,Gone From My Sight,no description available,True,2022-12-21 14:28:11
+Borderlands 3,That Was Cold,no description available,True,2022-12-27 12:34:29
+Borderlands 3,Heir To An Empty Castle,no description available,True,2022-12-30 15:01:47
+Borderlands 3,Cross The Streamers,no description available,True,2022-12-31 23:29:50
+Borderlands 3,Apocalypso!,no description available,True,2023-01-03 22:03:24
+Borderlands 3,"I Am A Goddess, A Glorious Female Warrior",no description available,True,2023-01-06 21:02:40
+Borderlands 3,"Bye, Felicia!",no description available,True,2023-01-06 21:27:55
+Borderlands 3,Florida Man,no description available,True,2022-12-21 13:04:10
+Borderlands 3,Stay Golden,no description available,True,2022-12-10 21:15:20
+Borderlands 3,"Damn, Gina",no description available,True,2023-01-05 15:33:47
+Borderlands 3,Ultimate Vault Hunter,Unlock all Borderlands® 3 Achievements!,False,null
+Borderlands 3,A Proper Hand-Off,Complete mission “All Bets Off”.,False,null
+Borderlands 3,Firebug,Sabotage all statues for Ember.,False,null
+Borderlands 3,Killer Look,Complete the Mayor's outfit.,False,null
+Borderlands 3,Scovillain,Destroy all of Mr. Torgue's hot sauces.,False,null
+Borderlands 3,Shoe Money Tonight,Get a 21 in the blackjack minigame.,False,null
+Borderlands 3,Don't Be A Stranger,Return for a chat with the Clapstructor.,False,null
+Borderlands 3,Who Collects The Collector?,Defeat the wandering Debt Collector.,False,null
+Borderlands 3,"Good One, Babe",no description available,False,null
+Borderlands 3,Industrious In The Face Of Cosmic Terror,Complete all Crew Challenges and Side Missions on Xylourgos.,False,null
+Borderlands 3,Whispers On The Wind,Collect all ECHO logs on Xylourgos.,False,null
+Borderlands 3,"A Hunter, Through And Through",Find and kill all four rare spawns.,False,null
+Borderlands 3,I'm Floudering Up Here,Listen to 25 fish jokes.,False,null
+Borderlands 3,Party's Still On!,Find the party.,False,null
+Borderlands 3,Love Is The Fifth Dimension,Marry your friends.,False,null
+Borderlands 3,Older Than The Trees,Kill the Wendigo.,False,null
+Borderlands 3,How The West Was Done,no description available,False,null
+Borderlands 3,That's Quite Challenging,no description available,False,null
+Borderlands 3,Helpful Hunter,no description available,False,null
+Borderlands 3,Stone Cold Killer,no description available,False,null
+Borderlands 3,It's A Wash,no description available,False,null
+Borderlands 3,Getting Off Track,no description available,False,null
+Borderlands 3,Ruin On The Horizon,no description available,False,null
+Borderlands 3,Bounty: Hunted,no description available,False,null
+Borderlands 3,Meat and Greet,no description available,False,null
+Borderlands 3,The Blast and the Furious,no description available,False,null
+Borderlands 3,Brain Pain Train Slain,no description available,False,null
+Borderlands 3,Trauma Center,no description available,False,null
+Borderlands 3,Red Wrath and Beyond,no description available,False,null
+Borderlands 3,Ye Who Enter,no description available,False,null
+Borderlands 3,Fustercluck Off,no description available,False,null
+Borderlands 3,In the Eye of a Murdercane,Win a round of Arms Race.,False,null
+Borderlands 3,Treat Yo Self,Extract 100 pieces of gear from Arms Race.,False,null
+Borderlands 3,Complex Made Simple,Explore the entire Stormblind Complex.,False,null
+Borderlands 3,Demysteriouslierified,Solve all murder mysteries for Ava's podcast.,False,null
+Borderlands 3,Blood Sucking Freak,Defeat Hemovorous the Invincible.,False,null
+Borderlands 3,Might Beyond Sight,Destroy 50 mysterious Eridium piles.,False,null
+Stardew Valley,Greenhorn,"Earn 15,000g",True,2020-02-22 20:25:52
+Stardew Valley,Cowpoke,"Earn 50,000g",True,2020-03-07 17:23:18
+Stardew Valley,Homesteader,"Earn 250,000g",True,2020-05-10 11:39:59
+Stardew Valley,Millionaire,"Earn 1,000,000g",True,2020-05-29 20:48:32
+Stardew Valley,Legend,no description available,False,null
+Stardew Valley,A Complete Collection,Complete the museum collection.,False,null
+Stardew Valley,A New Friend,Reach a 5-heart friend level with someone.,True,2020-05-01 21:15:55
+Stardew Valley,Best Friends,Reach a 10-heart friend level with someone.,True,2020-05-11 20:30:21
+Stardew Valley,The Beloved Farmer,Reach a 10-heart friend level with 8 people.,True,2020-06-13 18:11:22
+Stardew Valley,Cliques,Reach a 5-heart friend level with 4 people.,True,2020-05-10 10:56:44
+Stardew Valley,Networking,Reach a 5-heart friend level with 10 people.,True,2020-05-14 16:01:08
+Stardew Valley,Popular,Reach a 5-heart friend level with 20 people.,True,2020-05-29 20:30:42
+Stardew Valley,Cook,Cook 10 different recipes.,False,null
+Stardew Valley,Sous Chef,Cook 25 different recipes.,False,null
+Stardew Valley,Gourmet Chef,Cook every recipe.,False,null
+Stardew Valley,Moving Up,Upgrade your house.,True,2020-04-29 21:18:36
+Stardew Valley,Living Large,Upgrade your house to the maximum size.,True,2020-05-14 11:03:50
+Stardew Valley,D.I.Y.,Craft 15 different items.,True,2020-03-03 21:45:16
+Stardew Valley,Artisan,Craft 30 different items.,True,2020-05-06 13:46:29
+Stardew Valley,Craft Master,Craft every item.,False,null
+Stardew Valley,Fisherman,Catch 10 different fish.,True,2020-02-26 19:25:35
+Stardew Valley,Ol' Mariner,Catch 24 different fish.,True,2020-05-02 15:03:11
+Stardew Valley,Master Angler,Catch every fish.,False,null
+Stardew Valley,Mother Catch,Catch 100 fish.,True,2020-04-22 18:31:17
+Stardew Valley,Treasure Trove,Donate 40 different items to the museum.,True,2020-05-02 15:28:44
+Stardew Valley,Gofer,Complete 10 'Help Wanted' requests.,True,2020-02-25 19:56:27
+Stardew Valley,A Big Help,Complete 40 'Help Wanted' requests.,True,2020-06-16 19:00:34
+Stardew Valley,Polyculture,Ship 15 of each crop.,False,null
+Stardew Valley,Monoculture,Ship 300 of one crop.,True,2020-05-03 17:04:46
+Stardew Valley,Full Shipment,Ship every item.,False,null
+Stardew Valley,Prairie King,Beat 'Journey Of The Prairie King'.,False,null
+Stardew Valley,The Bottom,Reach the lowest level of the mines.,True,2020-05-09 15:57:47
+Stardew Valley,Local Legend,Restore the Pelican Town Community Center.,True,2020-05-30 21:20:01
+Stardew Valley,Joja Co. Member Of The Year,Become a Joja Co. member and purchase all the community development perks. ,False,null
+Stardew Valley,Mystery Of The Stardrops,Find every stardrop.,False,null
+Stardew Valley,Fector's Challenge,no description available,False,null
+Stardew Valley,Full House,Get married and have two kids.,True,2022-01-07 13:58:09
+Stardew Valley,Singular Talent,Reach level 10 in a skill.,True,2020-05-09 21:07:43
+Stardew Valley,Master Of The Five Ways,Reach level 10 in every skill.,True,2020-05-30 21:36:14
+Stardew Valley,Protector Of The Valley,Complete all of the Adventure Guild Monster Slayer goals.,False,null
+Stardew Valley,Well-Read,Read every book.,False,null
+Stardew Valley,Two Thumbs Up,See a movie.,False,null
+Stardew Valley,Blue Ribbon,Get 1st place in the Stardew Valley Fair competition.,False,null
+Stardew Valley,An Unforgettable Soup,Delight the Governor.,False,null
+Stardew Valley,Good Neighbors,Help your forest neighbors grow their family.,False,null
+Stardew Valley,Danger In The Deep,Reach the bottom of the 'dangerous' mines.,False,null
+Stardew Valley,Infinite Power,Obtain the most powerful weapon.,True,2025-01-08 19:51:50
+Stardew Valley,Perfection,Reach the summit.,False,null
+Stardew Valley,A Distant Shore,Reach Ginger Island.,False,null
+Wallpaper Engine,High aspirations,Post a scene wallpaper to the Workshop.,False,null
+Wallpaper Engine,Video makers,Post a video wallpaper to the Workshop.,False,null
+Wallpaper Engine,The internet on a disk,Post a web wallpaper to the Workshop.,False,null
+Wallpaper Engine,Press any key,Post an app wallpaper to the Workshop.,False,null
+Wallpaper Engine,Creativity according to instructions,Use a 2D scene template.,False,null
+Wallpaper Engine,Working with 3D models,Use a 3D scene template.,False,null
+Wallpaper Engine,Sharing is caring,Post a Steam screenshot with a Workshop wallpaper open.,False,null
+Wallpaper Engine,Trying something new,Use 10 different wallpapers from the Workshop.,True,2023-02-01 17:43:02
+Wallpaper Engine,Keeping an eye on this one,Favorite 10 different wallpapers from the Workshop.,False,null
+Wallpaper Engine,Pest,Cause 1 fatal error or trigger 128 warnings in the editor.,False,null
+Wallpaper Engine,k0n4m1,30 lives,False,null
+Wallpaper Engine,Getting the hang of it,Use 25 different wallpapers from the Workshop.,True,2023-02-01 18:12:53
+Wallpaper Engine,Hard to pick just one,Use 50 different wallpapers from the Workshop.,True,2023-05-30 15:15:32
+Wallpaper Engine,Out of disk space,Use 100 different wallpapers from the Workshop.,True,2024-03-05 17:00:38
+Wallpaper Engine,Found some good ones,Favorite 20 different Workshop wallpapers.,False,null
+Wallpaper Engine,Fair collection,Favorite 30 different Workshop wallpapers.,False,null
+Wallpaper Engine,Wallpaper Connoisseur,Favorite 50 different Workshop wallpapers.,False,null
+Deep Rock Galactic,Approved Greenbeard,Complete your first assignment.,False,null
+Deep Rock Galactic,If Only I Got Paid For This...,"In the Barrel Hoop game, achieve a score of 3000 or more in less than 100 kicks.",False,null
+Deep Rock Galactic,Barrel Kicker,no description available,True,2024-02-07 22:48:53
+Deep Rock Galactic,That's Not How You Play This Game,no description available,False,null
+Deep Rock Galactic,Darwin Award,no description available,False,null
+Deep Rock Galactic,Happy Feet,no description available,False,null
+Deep Rock Galactic,Big Spender,no description available,False,null
+Deep Rock Galactic,Party Time!,no description available,False,null
+Deep Rock Galactic,Disc Jockey,no description available,False,null
+Deep Rock Galactic,Barrel Rider,Ride a barrel in the spacerig for three seconds.,False,null
+Deep Rock Galactic,The A-Team,no description available,False,null
+Deep Rock Galactic,Time Well Spent,no description available,False,null
+Deep Rock Galactic,Foreign Objects In The Launch Bay,no description available,False,null
+Deep Rock Galactic,Self Control,no description available,False,null
+Deep Rock Galactic,Mini Fixer,Fix 50 Mini M.U.L.E.s.,False,null
+Deep Rock Galactic,Now We Have  A BET-C,Defeat and fix a BET-C.,False,null
+Deep Rock Galactic,Hit 'em Where It Hurts,no description available,False,null
+Deep Rock Galactic,Big Game Hunter,Participate in killing 40 Dreadnoughts.,False,null
+Deep Rock Galactic,"See You Later, Detonator!",Participate in killing 20 Bulk Detonators.,False,null
+Deep Rock Galactic,Pest Control,Participate in killing two Dreadnoughts within five minutes on Hazard Level 3 or higher.,False,null
+Deep Rock Galactic,Just Another Bug Hunt,Participate in killing two Dreadnoughts within 30 seconds on Hazard Level 3 or higher.,False,null
+Deep Rock Galactic,Jeweler,Collect 10 Bittergems.,False,null
+Deep Rock Galactic,Prospector,Collect 20 Compressed Gold Chunks.,False,null
+Deep Rock Galactic,What Are These Things?,no description available,False,null
+Deep Rock Galactic,"Hi Ho, Silver - Away!",Ride Molly for 15 seconds.,False,null
+Deep Rock Galactic,Farmer,Ride the Silicate Harvester for 30 seconds.,False,null
+Deep Rock Galactic,Car Pool,Ride the Silicate Harvester with three other dwarves and kill five enemies each without leaving.,False,null
+Deep Rock Galactic,Designated Decoy,no description available,False,null
+Deep Rock Galactic,Without A Paddle,no description available,False,null
+Deep Rock Galactic,I Like It Down Here,no description available,False,null
+Deep Rock Galactic,Miner,Complete your first mission.,True,2023-12-18 22:54:54
+Deep Rock Galactic,Expert Miner,Complete 100 missions.,False,null
+Deep Rock Galactic,Legendary Miner,Complete 500 missions.,False,null
+Deep Rock Galactic,Stepping It Up,Survive a Hazard Level 3 mission from start to finish.,True,2024-01-14 22:57:26
+Deep Rock Galactic,Consistent Performance,Successfully complete three Hazard Level 3 missions from start to finish in a row.,True,2024-02-07 23:52:45
+Deep Rock Galactic,Thick-Skinned,Survive a Hazard Level 4 mission from start to finish.,False,null
+Deep Rock Galactic,Employee Of The Month,Successfully complete four Hazard Level 4 missions from start to finish in a row.,False,null
+Deep Rock Galactic,Going Lethal,Successfully complete a Hazard Level 5 mission from start to finish.,False,null
+Deep Rock Galactic,Rock Solid,Successfully complete five Hazard Level 5 missions from start to finish in a row.,False,null
+Deep Rock Galactic,Bring Your A-Game,Successfully complete a Hazard Level 3 mission from start to finish where no dwarf goes down and without ordering a resupply.,False,null
+Deep Rock Galactic,Like A Well-Oiled Machine,Successfully complete a Hazard Level 4 mission from start to finish where no dwarf goes down and without ordering a resupply.,False,null
+Deep Rock Galactic,Karl Would Be Proud,Successfully complete a Hazard Level 5 mission from start to finish where no dwarf goes down and without ordering a resupply.,False,null
+Deep Rock Galactic,Mutated Scavenger,Successfully complete 20 missions tagged with Warnings from start to finish.,False,null
+Deep Rock Galactic,It's My Party,no description available,False,null
+Deep Rock Galactic,Good Shepherd,Successfully complete 25 missions where at least 1 player is 10 player ranks lower than you.,False,null
+Deep Rock Galactic,Lone Wolf,no description available,False,null
+Deep Rock Galactic,"Bosco, You're The Best",no description available,False,null
+Deep Rock Galactic,Performance Matters,Complete 10 Milestones.,False,null
+Deep Rock Galactic,Management Approves,Complete 25 Milestones.,False,null
+Deep Rock Galactic,Feelin' Perky,Unlock 10 Perk Nodes.,False,null
+Deep Rock Galactic,Movin' On Up,Promote any Dwarf at least once.,False,null
+Deep Rock Galactic,Corporate Climber,Promote any two Dwarves at least once.,False,null
+Deep Rock Galactic,Hat Trick,Promote any three Dwarves at least once.,False,null
+Deep Rock Galactic,Full Team Ahead,Promote all four Dwarves at least once.,False,null
+Deep Rock Galactic,Silver-Tier Employee,Earn a Silver promotion.,False,null
+Deep Rock Galactic,Gold-Tier Employee,Earn a Gold promotion.,False,null
+Deep Rock Galactic,Pro-Team,Earn Silver Promotions for all four dwarves.,False,null
+Deep Rock Galactic,Legendary-Team,Earn Gold Promotions for all four dwarves.,False,null
+Deep Rock Galactic,Exploring My Options,no description available,False,null
+Deep Rock Galactic,State Of The Art,no description available,False,null
+Deep Rock Galactic,Advanced Robotics,no description available,False,null
+Deep Rock Galactic,Mustacho,Purchase five moustaches for one character.,False,null
+Deep Rock Galactic,Total Makeover,Customize each accessory slot of a character.,False,null
+Deep Rock Galactic,Going Deeper,Complete A Deep Dive,False,null
+Deep Rock Galactic,Elite Diver,Complete An Elite Deep Dive,False,null
+Deep Rock Galactic,Deep For Speed,Complete Any Deep Dive Under 45 Minutes,False,null
+Deep Rock Galactic,Veteran Diver,Complete Any 5 Deep Dives,False,null
+Deep Rock Galactic,Drill-by Shooting,Ride the Drilldozer with three other dwarves and kill 15 enemies each without leaving.,False,null
+Deep Rock Galactic,Roller Coaster,Grind on a pipe for 120 seconds without stopping.,False,null
+Lethal League Blaze,Mass KO Production,Hit three players in a row,True,2018-10-27 21:58:22
+Lethal League Blaze,Lethal Rivals,Rally the ball back and forth for at least ten times,False,null
+Lethal League Blaze,Chrono Warp,Reach a ball speed of one thousand,False,null
+Lethal League Blaze,Grand Slam,Reach a ball speed of one million,False,null
+Lethal League Blaze,Clutch,Bunt the ball at 1000 speed or above,False,null
+Lethal League Blaze,Rookie Player,Play 100 matches,False,null
+Lethal League Blaze,Adept Player,Play 500 matches,False,null
+Lethal League Blaze,Ace Player,Play 1000 matches,False,null
+Lethal League Blaze,King Me,Beat the arcade mode,True,2018-10-27 22:56:10
+Lethal League Blaze,Doombox Slam Dunk,Beat the arcade mode without using any continues,True,2023-06-27 16:13:26
+Lethal League Blaze,Full House,Beat the arcade mode with every character,False,null
+Lethal League Blaze,Clear Skies,Beat the story mode,True,2018-10-27 22:04:55
+Lethal League Blaze,The Multiverse,Get a checkmark on every event in the story mode,False,null
+Lethal League Blaze,Vicious Volley,Hit the ball back and forth in Lethal Volley for 16 times,False,null
+Lethal League Blaze,Heavy Impact Striker,Hit a goal in Strikers with a ball of at least 250 speed,False,null
+Dead Cells,Love the serenity...,Reach the Promenade of the Condemned for the first time.,True,2024-06-26 14:40:56
+Dead Cells,A room with a view!,Reach the Ramparts for the first time.,True,2024-06-26 14:51:43
+Dead Cells,"Finally, a moment of rest...",Reach the Black Bridge for the first time.,True,2024-06-26 15:00:25
+Dead Cells,Smells like burned flesh,Reach the Ossuary for the first time.,True,2024-06-26 23:04:30
+Dead Cells,What's that funky smell?,Reach the Toxic Sewers for the first time.,True,2024-06-26 21:32:02
+Dead Cells,Who needs an Italian plumber?,Reach the Ancient Sewers for the first time.,True,2024-06-30 19:57:46
+Dead Cells,My fish is fresh!,Reach the Stilt Village for the first time.,True,2024-06-26 15:32:59
+Dead Cells,The dead center of the island...,Reach the Graveyard for the first time.,True,2024-07-01 11:49:54
+Dead Cells,It rubs the lotion on its skin!,Reach the Prison Depths for the first time.,True,2024-07-01 11:27:51
+Dead Cells,Quit tickling!,Absorb the Vine Rune.,True,2024-06-26 14:47:57
+Dead Cells,What are you rubbing at anyway?,Absorb the Teleportation rune.,True,2024-06-26 21:41:26
+Dead Cells,Going down!,Kill an enemy with an elevator.,False,null
+Dead Cells,They came from behind!,no description available,False,null
+Dead Cells,YOLO! Or not?,Cheat Death…,False,null
+Dead Cells,Ohhhhhh! That hurt!,no description available,True,2024-07-04 14:47:53
+Dead Cells,The Fat and The Furious,"You beat ""The Concierge""!",True,2024-06-26 15:01:34
+Dead Cells,Is there something in your eye?,"You beat ""Conjunctivius""!",True,2024-06-30 20:15:21
+Dead Cells,Not so tough,You slayed 100 elites. Badman.,True,2024-07-06 11:44:25
+Dead Cells,Steam rolled.,no description available,True,2024-06-26 15:31:22
+Dead Cells,Flawless victory.,no description available,False,null
+Dead Cells,Slash! Slash! Roll!,Unlock 10 weapons.,True,2024-06-26 21:30:56
+Dead Cells,Pimp my ride.,Unlock 10 skills.,True,2024-07-01 11:26:47
+Dead Cells,Afraid of the dark?,Reach the Forgotten Sepulcher for the first time!,True,2024-06-26 22:03:58
+Dead Cells,We've all been there before...,no description available,True,2024-06-30 21:33:56
+Dead Cells,What? There's nothing wrong with these...,no description available,False,null
+Dead Cells,Absolution,Be cursed... Survive.,True,2024-06-30 20:40:12
+Dead Cells,"¡Arriba, arriba! ¡Ándale, ándale!",Open your first timed door.,True,2024-06-26 22:02:51
+Dead Cells,"See, that wasn't so hard now, was it?",Successfully complete a Challenge Rift.,True,2024-06-26 15:22:58
+Dead Cells,Shrewd sleuth,Find your first secret zone.,True,2024-06-26 14:41:07
+Dead Cells,Faster than light!,You finished a daily challenge. Well done!,True,2024-07-04 14:00:41
+Dead Cells,Here comes a new challenger!,Absorb the Challenger Rune!,True,2024-06-26 15:01:54
+Dead Cells,Blade Master,"You have beaten the ""Time Keeper""!",True,2024-06-26 15:50:44
+Dead Cells,The Dance,no description available,True,2024-06-26 22:15:52
+Dead Cells,Tic… Toc…,Reach the Clock Tower for the first time!,True,2024-06-26 15:41:17
+Dead Cells,High drama,Reach the Clock Room for the first time!,True,2024-06-26 15:50:11
+Dead Cells,"Fortune and glory, kid. Fortune and Glory...",Reach the Slumbering Sanctuary for the first time!,True,2024-06-30 20:16:59
+Dead Cells,Incy Wincy…,Absorb the Spider's Rune!,True,2024-06-30 21:33:56
+Dead Cells,Never fallen,no description available,False,null
+Dead Cells,I like to live dangerously…,no description available,False,null
+Dead Cells,La Brute,Absorb the Ram's Rune.,True,2024-06-26 23:04:30
+Dead Cells,Surgical extraction,no description available,True,2024-06-26 16:05:06
+Dead Cells,Masterful extraction,no description available,True,2024-06-26 23:58:31
+Dead Cells,Artful extraction,no description available,True,2024-07-03 19:01:47
+Dead Cells,"Up, Guards, and at them again!",no description available,True,2024-06-26 23:59:01
+Dead Cells,"Finished, without fear.",no description available,True,2024-07-03 19:02:16
+Dead Cells,Harder Better Faster Stronger,no description available,False,null
+Dead Cells,The last rampart falls...,Beat the Hand of the King.,True,2024-06-26 16:04:56
+Dead Cells,Do you need... A hand?? Bahaha!,no description available,False,null
+Dead Cells,Deft extraction,no description available,False,null
+Dead Cells,Let's get down to the nitty gritty...,no description available,False,null
+Dead Cells,Please leave your shoes at the entrance.,Reach the Castle for the first time.,True,2024-06-26 15:51:44
+Dead Cells,Bend the knee? I think not…,Reach the Throne Room for the first time.,True,2024-06-26 16:03:34
+Dead Cells,Even the rats avoid the place...,Reach the Insufferable Crypt for the first time.,True,2024-06-30 20:11:48
+Dead Cells,Perfect extraction,no description available,False,null
+Dead Cells,Size doesn't matter,You beat the Giant!,True,2024-07-02 00:16:03
+Dead Cells,I don't step on toes...,no description available,False,null
+Dead Cells,You dig,Reach the Cavern for the first time.,True,2024-07-01 12:01:55
+Dead Cells,Hot and cold,Reach the Guardian's Haven for the first time.,True,2024-07-01 12:20:15
+Dead Cells,Life on the edge,no description available,False,null
+Dead Cells,Stargazing,no description available,False,null
+Dead Cells,David and Goliath...,no description available,False,null
+Dead Cells,Nothing left to... collect.,no description available,False,null
+Dead Cells,I've got my eyes on you...,no description available,True,2024-07-01 11:49:04
+Dead Cells,"Take that, sucker!",no description available,False,null
+Dead Cells,Who's a good boi?,Finish the game without sacrificing the Mushroom Boi!,False,null
+Dead Cells,Bound for Hell,no description available,True,2024-07-04 14:11:26
+Dead Cells,Pact with the devil,no description available,True,2024-07-12 16:32:25
+Dead Cells,Gentleman,no description available,False,null
+Dead Cells,Go play outside!,Reach the Arboretum for the first time.,True,2024-07-01 11:13:31
+Dead Cells,"The mud is getting warm, so you might as well swim.",Reach the Morass of the Banished for the first time.,True,2024-07-01 11:37:21
+Dead Cells,Knee deep in mud...,Reach the Nest for the first time.,True,2024-07-01 11:47:15
+Dead Cells,Don't. Touch. Anything!,Reach the Corrupted Prison for the first time.,True,2024-07-04 14:20:46
+Dead Cells,Cheers!,Reach the Derelict Distillery for the first time!,True,2024-07-01 10:49:51
+Dead Cells,Born sapper,You completed the Derelict Distillery without using the Barrel Launcher!,False,null
+Dead Cells,Return to sender,You killed an Infected Worker with his own barrel!,False,null
+Dead Cells,Blades N' Roses,Reach the Mausoleum for the first time.,False,null
+Dead Cells,Beware the step!,Reach the Undying Shores for the first time.,False,null
+Dead Cells,Sky Fall,Reach the Fractured Shrines for the first time.,True,2024-06-26 15:03:45
+Dead Cells,"In mushroom, we trust.",Defeat the Scarecrow without bouncing on any mushrooms.,False,null
+Dead Cells,Watering Time!,You beat the Scarecrow!,False,null
+Dead Cells,Green thumbs,You beat the Scarecrow without taking a single hit!,False,null
+Dead Cells,First aid,Let an Apostate revive at least 3 souls.,False,null
+Dead Cells,"Me, jealous?",no description available,False,null
+Dead Cells,Pool Party,Electrify an enemy with the Lightning Rods while they are in water.,False,null
+Dead Cells,A cut above,Defeat at least 5 enemies in a row with the Scarecrow's Sickles.,False,null
+Dead Cells,Trapped Trapper,Trap an enemy using the Fractured Shrines environment!,True,2024-06-26 23:27:29
+Dead Cells,The cowl does not make the monk,no description available,False,null
+Dead Cells,Iceberg right ahead!,Reach the Shipwreck for the first time!,False,null
+Dead Cells,8th wonder,Reach the Lighthouse for the first time!,False,null
+Dead Cells,A sparkle in the night,Reach the Crown for the first time!,False,null
+Dead Cells,Her Majesty,You beat the Queen!,False,null
+Dead Cells,Lilibet,You beat the Queen without taking a single hit!,False,null
+Dead Cells,Long live the Queen,Beat the Queen by pushing her into the void,False,null
+Dead Cells,Full house,Beat the Queen with the Killing Deck,False,null
+Dead Cells,On Her Majesty's Secret Service,Beat the Queen with a Queen outfit,False,null
+Dead Cells,Oh how fast they grow!,Get the Leghugger to evolve,True,2024-06-26 23:10:46
+Dead Cells,Black flag,Kill a Pirate Captain with the Scavenged Bombard,False,null
+Dead Cells,Spare!,Kill five enemies with a single throw and recall of the Wrecking Ball,False,null
+Dead Cells,Plank walk,Throw an enemy into spikes using the Hand Hook,False,null
+Dead Cells,Put that thing back where it came from or so help me,Help the shark get back to the water,False,null
+Dead Cells,Infiltration,Finish the Lighthouse while wearing a Servant outfit,False,null
+Dead Cells,Herder,Have 2 pets active at the same time,True,2024-06-26 23:26:05
+Dead Cells,You're not my family,Get the Leghugger to kill an Armored Shrimp,False,null
+Dead Cells,Firefighter,You finished the Lighthouse!,False,null
+Dead Cells,Unwavering loyalty,no description available,False,null
+Dead Cells,The Bank always wins in the end,Reach the Bank for the first time.,True,2024-07-04 14:27:19
+Dead Cells,Up to the eyeball in debt,Beat the game with the maximum debt remaining.,False,null
+Dead Cells,Bag of Tricks,no description available,True,2024-07-04 14:38:48
+Dead Cells,Am I still on the island?,Reach the Castle's Outskirts for the first time.,True,2024-07-03 19:08:01
+Dead Cells,Into the vampire's den,Reach Dracula's Castle for the first time.,True,2024-07-03 19:22:11
+Dead Cells,Don't fear the Reaper,Reach the Defiled Necropolis for the first time.,True,2024-11-09 17:13:49
+Dead Cells,What is a man?,Reach the Master's Keep for the first time.,False,null
+Dead Cells,Death comes for us all... but not you!,You beat Death!,False,null
+Dead Cells,Dodge Death!,no description available,False,null
+Dead Cells,You don't belong in this world!,You beat Dracula!,False,null
+Dead Cells,See you in 100 years,no description available,False,null
+Dead Cells,Honorary Belmont,no description available,False,null
+Dead Cells,I still have 8 lives,Have Maria's Cat deal the last hit to Death.,False,null
+Dead Cells,Can you stop moving please?!,Kill a Werewolf with a Throwing Axe,False,null
+Dead Cells,Does what it says on the tin,no description available,False,null
+Dead Cells,Knowledge is power,Hit the same enemy with 5 orbiting Bibles in short succession.,False,null
+Kingdom Two Crowns,On the First Day,Recruited eight archers,True,2018-12-25 15:39:55
+Kingdom Two Crowns,On the Second Day,You got free walls.,False,null
+Kingdom Two Crowns,On the Third Day,You started your camp.,False,null
+Kingdom Two Crowns,By the Fourth Day,You hunted 40 or more critters.,True,2018-12-25 11:57:32
+Kingdom Two Crowns,By the Fifth Day,You didn't kill anything.,False,null
+Kingdom Two Crowns,On the Sixth Day,You had more gold than you could carry.,True,2018-12-25 15:53:13
+Kingdom Two Crowns,On the Seventh Day,You cleared an acre of land.,True,2024-06-09 16:24:49
+Kingdom Two Crowns,By the Eighth Day,You forged a new Crown,False,null
+Kingdom Two Crowns,On the Ninth Day,You held a Gem,True,2018-12-24 17:31:06
+Kingdom Two Crowns,By the Tenth Day,You destroyed a portal.,True,2024-06-09 16:01:49
+Kingdom Two Crowns,Master of the Sea,Sail away before day 6!,True,2018-12-25 11:49:32
+Kingdom Two Crowns,I am an Equestrian,Ride 4 different steeds on the same land,True,2018-12-26 14:05:13
+Kingdom Two Crowns,Is a Hermit still a Hermit if they have friends?,Put 4 hermits on the same boat,True,2024-06-12 02:11:33
+Kingdom Two Crowns,I HAVE THE TOWER!,I have 20 max-level towers on a single land,False,null
+Kingdom Two Crowns,Playing with goo,Escape the cave with your crown in tact,True,2024-06-09 17:47:29
+Kingdom Two Crowns,Pyrotechnics,Set fire to 20 greed with one flame barrel,True,2019-01-06 22:31:21
+Kingdom Two Crowns,Their Savior,Revive a Land after 200 days of decay,True,2024-06-09 16:55:25
+Kingdom Two Crowns,Safe Passage,Have lighthouses on all 5 lands,True,2024-06-13 21:31:04
+Kingdom Two Crowns,Easter Island,Clear all trees from a single land.,True,2024-05-27 17:26:02
+Kingdom Two Crowns,The Student Becomes the Teacher,Beat a portal with a squire,True,2024-05-27 17:20:27
+Kingdom Two Crowns,Beginning of a legend,Defeat the Greed on one land,True,2024-06-09 16:36:25
+Kingdom Two Crowns,Stories Have Begun,Defeat the Greed on two lands,True,2024-06-09 17:47:29
+Kingdom Two Crowns,Songs Will Be Written,Defeat the Greed on three lands,True,2024-06-09 18:43:06
+Kingdom Two Crowns,Legends Will Be Passed Down,Defeat the Greed on four lands,True,2024-06-10 17:21:34
+Kingdom Two Crowns,You have Sealed Your Reign In History,Defeat the Greed on all five lands,True,2024-06-13 21:58:52
+Kingdom Two Crowns,There Is No Greater Ruler Than Thou,Defeat the Greed from all five lands in a single reign,False,null
+Kingdom Two Crowns,Never Gives Up,Retrieve your crown 300 times,False,null
+Kingdom Two Crowns,A Journey Is Better Shared,Sail to another land in Coop 30 times,False,null
+Kingdom Two Crowns,Cracked the Skull,Overcome the Greed on Skull Island,False,null
+Kingdom Two Crowns,A New Heir,"Lose your crown, but not your legacy.",True,2024-06-08 14:56:00
+Kingdom Two Crowns,The Four Horsemen,Summoned the four monarchs to the land of the dead.,False,null
+Kingdom Two Crowns,Igavania!,Ride the Gamigin.,False,null
+Kingdom Two Crowns,Here Kitty Kitty Kitty,Recruit a Cat,False,null
+Kingdom Two Crowns,Arm the Homeless,Convert a Beggar Camp into a Citizen House,True,2024-05-26 15:31:49
+Kingdom Two Crowns,Above and Beyond,Defeat the Greed on all 6 Lands,False,null
+Kingdom Two Crowns,I HAVE THE POWER!,Unlock all Items of Power (Solve All Puzzles),False,null
+Kingdom Two Crowns,Answer the Call of Olympus,Sail away from Oracle Island,False,null
+Kingdom Two Crowns,Oracle Hotline,Receive 10 prophecies from the Oracle,False,null
+Kingdom Two Crowns,Bigger on the Inside,Unlock the pouch upgrade,False,null
+Kingdom Two Crowns,Go Fish,Collect all fish,False,null
+Kingdom Two Crowns,Blessings from the Gods,Collect all four divine Artifacts,False,null
+Kingdom Two Crowns,Gift of Prometheus,Set 300 Greed on fire,False,null
+Kingdom Two Crowns,That's Not Very Gneiss,Petrify 20 subjects,False,null
+Kingdom Two Crowns,End of an Odyssey,Conquer Mount Olympus,False,null
+Kingdom Two Crowns,Hero of Olympus,Conquer Mount Olympus in a single reign,False,null
+Kingdom Two Crowns,Mediterranean Vacation,Beat all portals on all ten lands,False,null
+Muse Dash,Welcome to Muse Dash,Complete the tutorial stage,True,2023-07-06 17:20:43
+Muse Dash,The First Time,Clear a stage,True,2023-07-06 17:28:31
+Muse Dash,The Strongest among the Weak,Clear 20 stages,False,null
+Muse Dash,Tower of Strength,Clear 20 Hard Mode stages,False,null
+Muse Dash,You’ve Conquered It!,Clear 10 Master Mode stages,False,null
+Muse Dash,S,"Achieve grade ""S"" in a stage",True,2023-07-06 17:28:31
+Muse Dash,NewType,"Achieve grade ""S"" in a Lv.7 or Lv.7+ stage",False,null
+Muse Dash,Full Combo!!,Get Full Combo in a stage,True,2023-07-06 17:52:49
+Muse Dash,Full Combo Master,Get Full Combo in 30 different stages,False,null
+Muse Dash,300 Combo!,Reach 300 Combo in a stage,False,null
+Muse Dash,You Have a Great,"Clear a stage with only one ""Great""",False,null
+Muse Dash,Melee Fight,Totally knock back 100 BOSS's melee attacks,False,null
+Muse Dash,Accurate Positioning,"Select a song through Music Index, Difficulty Filter or Search and play it",True,2023-07-06 17:28:31
+Muse Dash,Walk on the Tip of a Blade,Clear a song with Little Devil Marija,False,null
+Muse Dash,Stream of Consciousness,Totally knock back 300 Ghosts,False,null
+Muse Dash,Love Actually,Totally collect 300 Red Hearts,False,null
+Muse Dash,Blue Notes Hunter,Totally collect 500 Notes,False,null
+Muse Dash,Playing along Both Lines,Totally knock back 100 enemies or BOSS's remote attacks while playing a Sheet (hold note),False,null
+Muse Dash,"Is the Order a Lovely Girl? ~ I started from scratch and did everything I could to become a Muse master with 14 lovely girls. However, when I looked forward to a happy life in this exotic world, I was suddenly thrown into a ""scene of carnage"" of gears and hanging hammers. There must be something wrong with my Lovely Girl Monogatari~ For these girls’ bright future, I must successfully play Lv.12 songs!",Totally unlock 14 characters,False,null
+Muse Dash,Musemon Master,Totally collect 8 elfins,False,null
+Muse Dash,Illustration Collection,Totally collect 20 illustrations,False,null
+Muse Dash,Have a Try?,Play a Lv.11 stage,False,null
+Muse Dash,Sancheck,Clear a Mopemope stage at any difficulty level,False,null
+Muse Dash,"Uh-oh, a Rear-end Collision…",Clear a Blackest Luxury Car stage at any difficulty level,False,null
+Muse Dash,APP Logo Found!,Clear a Lights of Muse stage at any difficulty level,False,null
+Muse Dash,I don't care about Christmas though,Clear a stage of I don’t care about Christmas though at any difficulty level,False,null
+Muse Dash,Trick or treat?,"Clear an umpopoff stage at difficulty level ""?""",False,null
+Muse Dash,Conquering the Newbie Zone,Finish the tutorial April Fool's Day ver,False,null
+Muse Dash,Inner World,no description available,False,null
+Muse Dash,Give Up Treatment,no description available,False,null
+Muse Dash,GENTLEMAN,no description available,False,null
+Muse Dash,Is That OK? ,no description available,False,null
+Muse Dash,You Peak at It,no description available,False,null
+Muse Dash,One More Needed,no description available,False,null
+Muse Dash,Hands of God,no description available,False,null
+Muse Dash,Tutorial,no description available,True,2023-07-06 17:50:07
+Muse Dash,Mujinku,no description available,False,null
+Muse Dash,Muse Master,no description available,False,null
+Muse Dash,THE MUSEM@STER,no description available,False,null
+The Red Strings Club,Creative Sentience,Craft all the implants with Akara.,False,null
+The Red Strings Club,Information Broker,Complete all the objectives of Donovan's notebook.,False,null
+The Red Strings Club,Consultant Engineer,Got a perfect score on Akara's quiz about Diana Meyes.,False,null
+The Red Strings Club,Corporate Lawyer,Got a perfect score on Akara's quiz about Naima Cosse.,False,null
+The Red Strings Club,Marketing Director,Got a perfect score on Akara's quiz about Larissa Robillard.,False,null
+The Red Strings Club,Underage Drinking,Guessed Irving's age.,False,null
+The Red Strings Club,Brought a cocktail to a gun fight,Win the game of Russian Roulette.,True,2023-01-05 20:56:12
+The Red Strings Club,Brainwashing,Made Johanna chill with anti-depressant scripts.,True,2023-01-05 21:18:27
+The Red Strings Club,Digital Heir,Share your knowledge on PROXYMA implants with Johanna.,True,2023-01-05 21:21:20
+The Red Strings Club,Player Ex Machina,Contact Dr. Edgar Coldstream through three different people.,False,null
+The Red Strings Club,Numen,Serve a cocktail without spilling a single drop.,False,null
+The Red Strings Club,Honey pot,Triggered Edgar's self-destruction mechanism.,False,null
+The Red Strings Club,Did my homework,Complete Radhika's profiling instantly because of Donovan's intel.,True,2023-01-05 21:49:21
+The Red Strings Club,I'll never walk alone,Recovered your composure thanks to Ariadne.,False,null
+The Red Strings Club,Digital Ventriloquist,Get 7 voices for the VOMOD.,False,null
+The Red Strings Club,The Red Strings Club,Complete the game.,True,2023-01-05 22:27:28
+The Red Strings Club,Basic Input/Output System,Access the secret Web of Chaos.,False,null
+The Red Strings Club,Pink Tequila,Triggered Edgar's secret mood.,False,null
+The Red Strings Club,That doesn't sound unprofessional to me.,Discover the photo.,False,null
+Coffee Talk,Welcome to Coffee Talk,Start a new game,True,2023-04-03 22:11:58
+Coffee Talk,Let me start over,Trash your drink for the first time,True,2023-04-03 23:19:24
+Coffee Talk,First Brew,Brew your first drink,True,2023-04-03 22:17:31
+Coffee Talk,It's a masterpiece!,Create and serve your first latte art,True,2023-04-03 22:27:15
+Coffee Talk,Achievement Unlocked!,Reach a certain point in the story,True,2023-04-03 23:05:40
+Coffee Talk,Is this it?,Serve the wrong drink for the first time,True,2023-04-04 15:44:49
+Coffee Talk,We are all friends,Meet all of the main characters,True,2023-04-04 16:05:13
+Coffee Talk,Stop it!,Trash a total of 25 drinks,False,null
+Coffee Talk,24/7 a beat to relax/study to,Listen to all of the songs,True,2023-04-03 22:15:22
+Coffee Talk,Is that it?,Play the story mode to conclusion once,True,2023-04-06 14:00:19
+Coffee Talk,Art takes time,Spent a total of 1 hour making Latte Art,False,null
+Coffee Talk,Barista Trainee,Serve 10 correct drinks in a single session of challenge mode,True,2023-04-06 14:34:11
+Coffee Talk,Interstellar support,no description available,True,2023-04-06 14:00:17
+Coffee Talk,Barista Expert,Serve 25 correct drinks in a single session of challenge  mode,False,null
+Coffee Talk,There's a spark,no description available,True,2023-04-06 13:58:54
+Coffee Talk,Love of my life,no description available,True,2023-04-06 13:18:55
+Coffee Talk,Father and Daughter,no description available,True,2023-04-06 13:46:32
+Coffee Talk,Gala had a fit!,no description available,True,2023-04-06 13:22:34
+Coffee Talk,God of Caffeine,no description available,True,2023-04-06 14:22:36
+Coffee Talk,Master Brewer,Unlock all special drinks,False,null
+Coffee Talk,Social media fever,Unlock all of the characters social media profile,False,null
+Coffee Talk,Barista Guru,Serve 50 correct drinks in a single session of challenge mode,False,null
+Coffee Talk,Art Connoisseur,Unlock all the artworks in the Gallery,True,2023-04-06 14:22:19
+Coffee Talk,Coffee and Chill,Unlock all achievements,False,null
+Sekiro™: Shadows Die Twice,Sekiro,All achievements have been unlocked.,False,null
+Sekiro™: Shadows Die Twice,Man Without Equal,no description available,False,null
+Sekiro™: Shadows Die Twice,Ashina Traveler,Traveled to all areas of the game,False,null
+Sekiro™: Shadows Die Twice,Master of the Prosthetic,Upgraded all Prosthetic Tools to their limit,False,null
+Sekiro™: Shadows Die Twice,Height of Technique,no description available,False,null
+Sekiro™: Shadows Die Twice,All Prosthetic Tools,Acquired all Prosthetic Tools,True,2024-01-15 14:38:52
+Sekiro™: Shadows Die Twice,All Ninjutsu Techniques,Acquired all Ninjutsu Techniques,True,2024-01-17 14:42:34
+Sekiro™: Shadows Die Twice,Peak Physical Strength,Upgraded Vitality and Posture to their limit,False,null
+Sekiro™: Shadows Die Twice,Ultimate Healing Gourd,"Fully upgraded the ""Healing Gourd""",False,null
+Sekiro™: Shadows Die Twice,Immortal Severance,no description available,False,null
+Sekiro™: Shadows Die Twice,Purification,no description available,False,null
+Sekiro™: Shadows Die Twice,Dragon's Homecoming,no description available,False,null
+Sekiro™: Shadows Die Twice,Shura,no description available,False,null
+Sekiro™: Shadows Die Twice,"Sword Saint, Isshin Ashina",no description available,False,null
+Sekiro™: Shadows Die Twice,Master of the Arts,no description available,False,null
+Sekiro™: Shadows Die Twice,Lazuline Upgrade,no description available,False,null
+Sekiro™: Shadows Die Twice,Revered Blade,"Received the ""Kusabimaru"" from Kuro",True,2023-09-16 02:08:54
+Sekiro™: Shadows Die Twice,Shinobi Prosthetic,Acquired the Shinobi Prosthetic,True,2023-09-16 02:34:42
+Sekiro™: Shadows Die Twice,Memorial Mob,Encountered the Memorial Mob,True,2023-09-26 17:06:08
+Sekiro™: Shadows Die Twice,Resurrection,"Returned from the dead using ""Resurrection"" for the first time",True,2023-09-16 17:03:51
+Sekiro™: Shadows Die Twice,Gyoubu Masataka Oniwa,no description available,True,2023-09-26 16:58:59
+Sekiro™: Shadows Die Twice,The Phantom Lady Butterfly,no description available,True,2023-09-28 02:09:00
+Sekiro™: Shadows Die Twice,Genichiro Ashina,no description available,True,2023-09-30 18:24:36
+Sekiro™: Shadows Die Twice,Guardian Ape,no description available,True,2024-01-15 14:37:20
+Sekiro™: Shadows Die Twice,Guardian Ape Immortality Severed,no description available,True,2024-01-17 14:42:28
+Sekiro™: Shadows Die Twice,Folding Screen Monkeys,no description available,True,2024-01-13 16:52:55
+Sekiro™: Shadows Die Twice,Great Shinobi - Owl,no description available,False,null
+Sekiro™: Shadows Die Twice,Father Surpassed,no description available,False,null
+Sekiro™: Shadows Die Twice,Corrupted Monk,no description available,False,null
+Sekiro™: Shadows Die Twice,Gracious Gift of Tears,no description available,False,null
+Sekiro™: Shadows Die Twice,Isshin Ashina,no description available,False,null
+Sekiro™: Shadows Die Twice,Demon of Hatred,no description available,False,null
+Sekiro™: Shadows Die Twice,Great Serpent,no description available,True,2024-01-14 23:54:49
+Sekiro™: Shadows Die Twice,Great Colored Carp,no description available,False,null
+Counter-Strike 2,A New Beginning,no description available,False,null
+One Step From Eden,Bravely Default,Beat the game without taking any spells,False,null
+One Step From Eden,Cannibal,Kill a hostage with the Devour spell,False,null
+One Step From Eden,The Best Defense,"Have over 9,999 Shield",False,null
+One Step From Eden,One Shot,Beat Hell Mode 14,False,null
+One Step From Eden,Arch Sage,Have a spell from every Focus in your deck,False,null
+One Step From Eden,One Step From Eden,Reach the Gate,False,null
+One Step From Eden,Watch the World Burn,Cover the entire field in flames,False,null
+One Step From Eden,All For One,Beat the game with every character,False,null
+One Step From Eden,Hoarder,Have over 200 cardtridges in your deck,False,null
+One Step From Eden,Buzzer Beater,Kill the last enemy with the Fadeaway spell,False,null
+One Step From Eden,Ascetic,Beat the game without collecting any Artifacts,False,null
+One Step From Eden,Plausible Deniability,Win a battle without using a Spell or Weapon,False,null
+One Step From Eden,Absolute Zero,Have 0 Max Mana,False,null
+One Step From Eden,Soulless,Have 8 pacts at the same time,False,null
+One Step From Eden,Not Even Close Baby,Win a boss fight with 1 HP,False,null
+One Step From Eden,Desecration,Destroy a Self Defense hazard,True,2024-12-29 12:40:17
+One Step From Eden,Eggs in a Basket,Upgrade the same spell 4 times,False,null
+One Step From Eden,Solo,Have 1 Spell in your deck,False,null
+One Step From Eden,Terraform,Have at least 16 broken tiles at the same time,False,null
+One Step From Eden,Disguised Toast,Cast 10 Jams in one battle,False,null
+One Step From Eden,Knife to a Gunfight,Kill Gunner or Shiso with a Slashfik spell,True,2024-12-23 16:19:33
+One Step From Eden,Calamity,Get a Calamity spell,False,null
+One Step From Eden,Reverse Engineering,Defeat tier 4 Hazel,False,null
+One Step From Eden,Nerf This,Defeat tier 4 Gunner,False,null
+One Step From Eden,White Knight,Defeat tier 4 Reva,False,null
+One Step From Eden,Charlotte,Defeat tier 4 Saffron,False,null
+One Step From Eden,"Cold, Dead Hands",Defeat tier 4 Selicy,False,null
+One Step From Eden,Gun Control,Defeat tier 4 Shiso,False,null
+One Step From Eden,Silence is Golden,Defeat tier 4 Violette,False,null
+One Step From Eden,Eat the Rich,Defeat tier 4 Shopkeeper,False,null
+One Step From Eden,Happily Ever After,Spare Terrable,False,null
+One Step From Eden,Terrable,Execute Terrable,False,null
+One Step From Eden,Back to the Past,Beat Serif and get sent back,False,null
+One Step From Eden,Sans-Serif,Execute Serif,False,null
+One Step From Eden,Unbreakable,Defeat tier 4 Terra,False,null
+Cyberpunk 2077,The Fool,no description available,True,2023-01-07 21:25:22
+Cyberpunk 2077,The Lovers,no description available,True,2023-01-09 14:18:41
+Cyberpunk 2077,The Hermit,no description available,True,2023-01-20 22:29:58
+Cyberpunk 2077,The Wheel of Fortune,no description available,True,2023-01-10 22:27:03
+Cyberpunk 2077,The High Priestess,no description available,True,2023-02-03 21:45:47
+Cyberpunk 2077,The World,Complete the main storyline.,True,2023-05-28 23:39:23
+Cyberpunk 2077,The Devil,no description available,False,null
+Cyberpunk 2077,The Star,no description available,False,null
+Cyberpunk 2077,The Sun,no description available,True,2023-05-28 23:39:23
+Cyberpunk 2077,Temperance,no description available,False,null
+Cyberpunk 2077,To Protect and Serve,no description available,True,2025-01-14 23:46:12
+Cyberpunk 2077,To Bad Decisions!,no description available,False,null
+Cyberpunk 2077,Judy vs Night City,no description available,True,2025-01-18 15:45:56
+Cyberpunk 2077,Life of the Road,no description available,True,2023-04-25 20:04:01
+Cyberpunk 2077,Bushido and Chill,no description available,True,2023-04-25 19:04:29
+Cyberpunk 2077,Breathtaking,Collect all items that once belonged to Johnny Silverhand.,False,null
+Cyberpunk 2077,It's Elementary,Complete all gigs and NCPD Scanner Hustles in Watson.,False,null
+Cyberpunk 2077,I Am The Law,Complete all Cyberpsycho Sightings.,True,2023-02-03 19:18:33
+Cyberpunk 2077,Greetings from Pacifica!,Complete all gigs and NCPD Scanner Hustles in Pacifica.,False,null
+Cyberpunk 2077,The Wasteland,Complete all gigs and NCPD Scanner Hustles in the Badlands.,False,null
+Cyberpunk 2077,Little Tokyo,Complete all gigs and NCPD Scanner Hustles in Westbrook.,False,null
+Cyberpunk 2077,Mean Streets,Complete all gigs and NCPD Scanner Hustles in Heywood.,False,null
+Cyberpunk 2077,The Jungle,Complete all gigs and NCPD Scanner Hustles in Santo Domingo.,False,null
+Cyberpunk 2077,City Lights,Complete all gigs and NCPD Scanner Hustles in City Center.,False,null
+Cyberpunk 2077,Full Body Conversion,Install at least one implant in each system and body part.,True,2025-01-14 23:52:22
+Cyberpunk 2077,Gun Fu,Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat.,True,2023-05-30 17:15:49
+Cyberpunk 2077,Christmas Tree Attack,Complete a Breach Protocol with a minimum of 3 daemons uploaded.,True,2023-01-10 22:54:26
+Cyberpunk 2077,Ten out of Ten,Reach the max level in any skill.,True,2025-01-22 16:42:58
+Cyberpunk 2077,Gunslinger,Shoot an enemy grenade in midair with a revolver.,False,null
+Cyberpunk 2077,"Two Heads, One Bullet",Kill or incapacitate 2 enemies with the same sniper rifle shot.,False,null
+Cyberpunk 2077,Rough Landing,"While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies.",False,null
+Cyberpunk 2077,Stanislavski's Method,Use a dialogue option related to V's life path 10 times.,True,2023-01-11 12:52:18
+Cyberpunk 2077,Autojock,Buy all vehicles available for purchase.,False,null
+Cyberpunk 2077,Master Crafter,Craft 3 Legendary items.,True,2024-12-28 17:48:44
+Cyberpunk 2077,Daemon In The Shell,"Kill or incapacitate 3 enemies with one ""Detonate Grenade"" quickhack.",False,null
+Cyberpunk 2077,The Quick and the Dead,Kill or incapacitate 50 enemies while time is slowed.,True,2025-01-15 02:12:56
+Cyberpunk 2077,Must Be Rats,Perform the Distract Enemies quickhack 30 times without drawing attention to yourself.,False,null
+Cyberpunk 2077,V for Vendetta,"After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds.",False,null
+Cyberpunk 2077,True Soldier,Kill or incapacitate 300 enemies using ranged weapons.,True,2023-01-20 22:06:36
+Cyberpunk 2077,True Warrior,Kill or incapacitate 100 enemies using melee weapons.,True,2023-01-14 19:40:14
+Cyberpunk 2077,Right Back At Ya,Kill or incapacitate an enemy who threw a grenade at you.,True,2023-01-08 20:20:48
+Cyberpunk 2077,The Wandering Fool,Find all the tarot graffiti for the job Fool on the Hill.,True,2023-04-25 20:08:52
+Cyberpunk 2077,Frequent Flyer,Find all fast travel dataterms.,False,null
+Cyberpunk 2077,Legend of The Afterlife,Reach max Street Cred.,True,2023-04-24 19:56:14
+Cyberpunk 2077,King of Cups,no description available,False,null
+Cyberpunk 2077,King of Pentacles,no description available,False,null
+Cyberpunk 2077,King of Wands,no description available,False,null
+Cyberpunk 2077,King of Swords,no description available,False,null
+Cyberpunk 2077,The Tower,no description available,False,null
+Cyberpunk 2077,Spin Doctor,no description available,False,null
+Cyberpunk 2077,All the President's Men,Save President Myers.,True,2025-01-22 17:48:52
+Cyberpunk 2077,Dirty Deeds,Complete every Gig in Dogtown.,False,null
+Cyberpunk 2077,Judgement Day,"Eliminate three bosses from the ""Increased criminal activity"" category.",False,null
+Cyberpunk 2077,"Easy Come, Easy Go",Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan.,False,null
+Cyberpunk 2077,Arachnophobia,no description available,True,2025-01-22 18:10:43
+Cyberpunk 2077,Relic Ruler,Unlock all Perks in the Relic Perk tree.,False,null
+Cyberpunk 2077,The APB is Not Enough,Become Dogtown's most wanted criminal.,False,null
+Destiny 2,Long and Winding Road,Reach level 20.,False,null
+Destiny 2,Zavala's Lieutenant,Acquire each Titan subclass.,False,null
+Destiny 2,Cayde's Pathfinder,Acquire each Hunter subclass.,False,null
+Destiny 2,Ikora's Protégé,Acquire each Warlock subclass.,False,null
+Destiny 2,Show Me What You Got,"Complete the ""Light Reforged"" quest.",False,null
+Destiny 2,In A Flash,Complete 5 Heroic Public Events.,False,null
+Destiny 2,The People's Hero,Complete a Heroic public event.,False,null
+Destiny 2,Heart of Darkness,Complete a Nightfall strike.,False,null
+Destiny 2,The Life Exotic,Collect 15 Red War exotic weapons or armor.,False,null
+Destiny 2,Challenge Accepted,Complete 30 challenges.,False,null
+Destiny 2,Belly Of The Beast,Complete a Nightfall strike on Master difficulty.,False,null
+Destiny 2,The Prestige,Complete a Nightfall strike on Grandmaster difficulty.,False,null
+Destiny 2,Lest Ye Be Judged,Encounter an Agent of the Nine somewhere in the system.,False,null
+Destiny 2,Legends Grow,"Earn 5,000 Triumph points.",False,null
+Destiny 2,Exotique,Collect 10 Forsaken Exotic weapons or armor.,False,null
+Destiny 2,Seal the Deal,Complete a Triumph Seal.,False,null
+Destiny 2,Fashion Statement,Complete a Collections Badge.,False,null
+Destiny 2,Heart of the Awoken,no description available,False,null
+Destiny 2,An Exotic Journey,no description available,False,null
+Destiny 2,High-Stakes Play,Win a Gambit match.,False,null
+Destiny 2,Darkness Falls,Defeat a Forsaken Nightfall Boss.,False,null
+Destiny 2,Nothing Left to Say,no description available,False,null
+Destiny 2,Wishing for the Best,"Complete the ""Last Wish"" Raid.",False,null
+Apex Legends,The Player,Reach player level 50,True,2021-12-18 13:00:39
+Apex Legends,Decked Out,Equip any 2 legendary equipment items at the same time,False,null
+Apex Legends,Team Player,Respawn a teammate,True,2024-02-01 16:17:19
+Apex Legends,Fully Kitted,Equip a fully kitted weapon,True,2022-12-02 22:12:16
+Apex Legends,Jumpmaster,Be the Jumpmaster 5 times,True,2024-01-22 23:01:51
+Apex Legends,Well-Rounded,"Deal 5,000 damage with 8 different Legends",False,null
+Apex Legends,Kill Leader,Become the Kill Leader,True,2024-01-22 16:33:05
+Apex Legends,Apex Assault,Win a game as an assault character,False,null
+Apex Legends,Apex Controller,Win a game as a controller character,False,null
+Apex Legends,Apex Support,Win a game as a support character,True,2024-01-21 22:46:25
+Apex Legends,Apex Recon,Win a game as a recon character,False,null
+Apex Legends,Apex Legend,Win a game with 8 different Legends,False,null
+Hades,Escaped Tartarus,Clear Tartarus,True,2023-07-01 00:16:10
+Hades,Escaped Asphodel,Clear Asphodel,True,2023-07-02 21:30:13
+Hades,Escaped Elysium,Clear Elysium,True,2023-07-03 21:16:39
+Hades,Champion of Elysium,Clear Elysium with the 'Extreme Measures' Condition,False,null
+Hades,Hold the Onions,Clear an Infernal Gate without taking damage,False,null
+Hades,Is There No Escape?,Clear an escape attempt,True,2023-07-03 21:37:30
+Hades,Weapon of Fate,Clear an escape attempt with a hidden Weapon Aspect,False,null
+Hades,To Charon's Credit,Earn a Loyalty Card,False,null
+Hades,The Useless Trinket,Earn the first of Skelly's prizes,False,null
+Hades,Skelly's Last Lamentations,Earn the second of Skelly's prizes,False,null
+Hades,Something From Everyone,Unlock each standard Keepsake,False,null
+Hades,Friends Forever,Max-rank each standard Keepsake,False,null
+Hades,Rare Collectible,Equip a Chthonic Companion,False,null
+Hades,Complete Set,Earn all Chthonic Companions,False,null
+Hades,Blood Bound,Max any Weapon Aspect,False,null
+Hades,Infernal Arms,Unlock all Weapon Aspects,False,null
+Hades,Blessed by the Gods,Choose 100 different Olympian Boon effects,False,null
+Hades,"Thanks, But No Thanks",Purge a Legendary Boon,False,null
+Hades,Tools of the Architect,Choose 50 different Daedalus Hammer enchantments,False,null
+Hades,Arms Collector,Unlock each of the Infernal Arms,True,2023-07-02 23:50:24
+Hades,Grown Close,Forge a bond with any character,False,null
+Hades,Well Versed,Fully Unlock the Olympians' Codex entries,False,null
+Hades,Day-or-Night Trader,Trade 20 times with the Wretched Broker,False,null
+Hades,Home Makeover,Pay for 50 jobs from the House Contractor,False,null
+Hades,Had to Happen,Fulfill any 15 Prophecies,False,null
+Hades,River Denizens,Catch a fish from each region,False,null
+Hades,Urge to Sing,Compel Orpheus to sing again,False,null
+Hades,Nyx's Mirror,Have at least one rank in each Mirror of Night Talent,False,null
+Hades,Night and Darkness,Fulfill the 'Night and Darkness' Prophecy,False,null
+Hades,Chthonic Colleagues,Fulfill the 'Chthonic Colleagues' Prophecy,True,2023-07-02 23:50:24
+Hades,War-God's Bloodlust,Fulfill the 'War-God's Bloodlust' Prophecy,False,null
+Hades,End to Torment,Fulfill the 'End to Torment' Prophecy,False,null
+Hades,Musician and Muse,Fulfill the 'Musician and Muse' Prophecy,False,null
+Hades,Divided by Death,Fulfill the 'Divided by Death' Prophecy,False,null
+Hades,Dark Reflections,Fulfill the 'Dark Reflections' Prophecy,False,null
+Hades,Harsh Conditions,Fulfill the 'Harsh Conditions' Prophecy,False,null
+Hades,Master of Arms,Fulfill the 'Master of Arms' Prophecy,False,null
+Hades,Slashed Benefits,Fulfill the 'Slashed Benefits' Prophecy,False,null
+Hades,Back to Work,Earn access to and enter the Administrative Chamber,False,null
+Hades,The Family Secret,Complete the main quest in the story,False,null
+Hades,One for the Ages,Reach the epilogue of the story,False,null
+Hades,Well Stocked,Buy 9 'Well of Charon' items in one escape attempt,False,null
+Hades,Thorn of Thanatos,Get 30% bonus damage with the Pierced Butterfly,False,null
+Hades,Haste of Hermes,Get 20% dodge chance with the Lambent Plume,False,null
+Hades,Death Dealer,Beat Thanatos by 15 kills or more,True,2023-07-07 14:40:00
+Hades,Friends in High Places,Use Greater Call to invoke an Olympian's aid,True,2023-07-03 20:56:56
+Hades,Bad Call,Use an Olympian's Greater Call against them in a Trial,False,null
+Hades,Skelly Slayer,Slay Skelly 15 times,False,null
+Hades,Three-Headed Boy,Pet Cerberus 10 times,False,null
+A Way Out,Freedom,You freed someone from captivity.,False,null
+A Way Out,Take A Breather,no description available,False,null
+A Way Out,In Sync,no description available,False,null
+A Way Out,Timeless Treasure,no description available,False,null
+A Way Out,No Cheating,You exposed some infidelity.,False,null
+A Way Out,Break From Reality,You played a videogame with a friend.,False,null
+A Way Out,Mayday!,You almost took to the skies.,False,null
+A Way Out,Managed Anger,no description available,False,null
+A Way Out,Live the Dream,no description available,False,null
+A Way Out,Backseat Mechanic,You helped fix the bike.,False,null
+A Way Out,Take It For A Spin,no description available,False,null
+A Way Out,You Started It,no description available,False,null
+A Way Out,The Dip,no description available,False,null
+A Way Out,Home Run,You are clearly good with a bat.,False,null
+ELDEN RING,Elden Ring,Obtained all achievements,False,null
+ELDEN RING,Elden Lord,no description available,False,null
+ELDEN RING,Age of the Stars,no description available,False,null
+ELDEN RING,Lord of Frenzied Flame,no description available,False,null
+ELDEN RING,Shardbearer Godrick,no description available,False,null
+ELDEN RING,Shardbearer Radahn,no description available,False,null
+ELDEN RING,Shardbearer Morgott,no description available,False,null
+ELDEN RING,Shardbearer Rykard,no description available,False,null
+ELDEN RING,Shardbearer Malenia,no description available,False,null
+ELDEN RING,Shardbearer Mohg,no description available,False,null
+ELDEN RING,Maliketh the Black Blade,no description available,False,null
+ELDEN RING,"Hoarah Loux, Warrior",no description available,False,null
+ELDEN RING,Dragonlord Placidusax,no description available,False,null
+ELDEN RING,God-Slaying Armament,Upgraded any armament to its highest stage,False,null
+ELDEN RING,Legendary Armaments,Acquired all legendary armaments,False,null
+ELDEN RING,Legendary Ashen Remains,Acquired all legendary ashen remains,False,null
+ELDEN RING,Legendary Sorceries and Incantations,Acquired all legendary sorceries and incantations,False,null
+ELDEN RING,Legendary Talismans,Acquired all legendary talismans,False,null
+ELDEN RING,"Rennala, Queen of the Full Moon",no description available,False,null
+ELDEN RING,Lichdragon Fortissax,no description available,False,null
+ELDEN RING,Godskin Duo,no description available,False,null
+ELDEN RING,Fire Giant,no description available,False,null
+ELDEN RING,Dragonkin Soldier of Nokstella,no description available,False,null
+ELDEN RING,Regal Ancestor Spirit,no description available,False,null
+ELDEN RING,Valiant Gargoyles,no description available,False,null
+ELDEN RING,"Margit, the Fell Omen",no description available,False,null
+ELDEN RING,Red Wolf of Radagon,no description available,False,null
+ELDEN RING,Godskin Noble,no description available,False,null
+ELDEN RING,Magma Wyrm Makar,no description available,False,null
+ELDEN RING,"Godfrey, First Elden Lord",no description available,False,null
+ELDEN RING,"Mohg, the Omen",no description available,False,null
+ELDEN RING,Mimic Tear,no description available,False,null
+ELDEN RING,"Loretta, Knight of the Haligtree",no description available,False,null
+ELDEN RING,"Astel, Naturalborn of the Void",no description available,False,null
+ELDEN RING,Leonine Misbegotten,no description available,False,null
+ELDEN RING,Royal Knight Loretta,no description available,False,null
+ELDEN RING,Elemer of the Briar,no description available,False,null
+ELDEN RING,Ancestor Spirit,no description available,False,null
+ELDEN RING,Commander Niall,no description available,False,null
+ELDEN RING,Roundtable Hold,no description available,False,null
+ELDEN RING,Great Rune,no description available,False,null
+ELDEN RING,Erdtree Aflame,no description available,False,null
+Furry Love 2,First Victory,First Victory,False,null
+Furry Love 2,You completed the game!,You completed the game!,False,null
+Furry Love 2,Settings,Settings,False,null
+Furry Love 2,Furry Love 2,Furry Love 2,False,null
+Furry Love 2,Losing,Losing,False,null
+Furry Love 2,Welcome!,Welcome!,False,null
+Furry Love 2,First Click,First Click,False,null
+Furry Love 2,Gallery,Gallery,False,null
+Furry Love 2,Gallery,Gallery,False,null
+Furry Love 2,Exit the game,Exit the game,False,null
+Furry Love 2,Level 1 - Puzzle,Level 1 - Puzzle,False,null
+Furry Love 2,Level 1 - Puzzle,Level 1 - Puzzle,False,null
+Furry Love 2,Level 2 - Puzzle,Level 2 - Puzzle,False,null
+Furry Love 2,Level 2 - Puzzle,Level 2 - Puzzle,False,null
+Furry Love 2,Level 2 - Puzzle,Level 2 - Puzzle,False,null
+Furry Love 2,Level 3 - Puzzle,Level 3 - Puzzle,False,null
+Furry Love 2,Level 3 - Puzzle,Level 3 - Puzzle,False,null
+Furry Love 2,Level 3 - Puzzle,Level 3 - Puzzle,False,null
+Furry Love 2,Level 4 - Puzzle,Level 4 - Puzzle,False,null
+Furry Love 2,Level 4 - Puzzle,Level 4 - Puzzle,False,null
+Furry Love 2,Level 4 - Puzzle,Level 4 - Puzzle,False,null
+Furry Love 2,Level 5 - Puzzle,Level 5 - Puzzle,False,null
+Furry Love 2,Level 5 - Puzzle,Level 5 - Puzzle,False,null
+Furry Love 2,Level 5 - Puzzle,Level 5 - Puzzle,False,null
+Furry Love 2,Level 6 - Puzzle,Level 6 - Puzzle,False,null
+Furry Love 2,Level 6 - Puzzle,Level 6 - Puzzle,False,null
+Furry Love 2,Level 6 - Puzzle,Level 6 - Puzzle,False,null
+Furry Love 2,Level 1 - Furrman,Level 1 - Furrman,False,null
+Furry Love 2,Level 1 - Furrman,Level 1 - Furrman,False,null
+Furry Love 2,Level 1 - Furrman,Level 1 - Furrman,False,null
+Furry Love 2,Level 2 - Furrman,Level 2 - Furrman,False,null
+Furry Love 2,Level 2 - Furrman,Level 2 - Furrman,False,null
+Furry Love 2,Level 2 - Furrman,Level 2 - Furrman,False,null
+Furry Love 2,Level 3 - Furrman,Level 3 - Furrman,False,null
+Furry Love 2,Level 3 - Furrman,Level 3 - Furrman,False,null
+Furry Love 2,Level 3 - Furrman,Level 3 - Furrman,False,null
+Furry Love 2,Level 4 - Furrman,Level 4 - Furrman,False,null
+Furry Love 2,Level 4 - Furrman,Level 4 - Furrman,False,null
+Furry Love 2,Level 4 - Furrman,Level 4 - Furrman,False,null
+Furry Love 2,Level 5 - Furrman,Level 5 - Furrman,False,null
+Furry Love 2,Level 5 - Furrman,Level 5 - Furrman,False,null
+Furry Love 2,Level 5 - Furrman,Level 5 - Furrman,False,null
+Furry Love 2,Level 6 - Furrman,Level 6 - Furrman,False,null
+Furry Love 2,Level 6 - Furrman,Level 6 - Furrman,False,null
+Furry Love 2,Level 6 - Furrman,Level 6 - Furrman,False,null
+Furry Love 2,Level 1 - Catch the Furry!,Level 1 - Catch the Furry!,False,null
+Furry Love 2,Level 1 - Catch the Furry!,Level 1 - Catch the Furry!,False,null
+Furry Love 2,Level 1 - Catch the Furry!,Level 1 - Catch the Furry!,False,null
+Furry Love 2,Level 2 - Catch the Furry!,Level 2 - Catch the Furry!,False,null
+Furry Love 2,Level 2 - Catch the Furry!,Level 2 - Catch the Furry!,False,null
+Furry Love 2,Level 2 - Catch the Furry!,Level 2 - Catch the Furry!,False,null
+Furry Love 2,Level 3 - Catch the Furry!,Level 3 - Catch the Furry!,False,null
+Furry Love 2,Level 3 - Catch the Furry!,Level 3 - Catch the Furry!,False,null
+Furry Love 2,Level 3 - Catch the Furry!,Level 3 - Catch the Furry!,False,null
+Furry Love 2,Level 4 - Catch the Furry!,Level 4 - Catch the Furry!,False,null
+Furry Love 2,Level 4 - Catch the Furry!,Level 4 - Catch the Furry!,False,null
+Furry Love 2,Level 4 - Catch the Furry!,Level 4 - Catch the Furry!,False,null
+Furry Love 2,Level 5 - Catch the Furry!,Level 5 - Catch the Furry!,False,null
+Furry Love 2,Level 5 - Catch the Furry!,Level 5 - Catch the Furry!,False,null
+Furry Love 2,Level 5 - Catch the Furry!,Level 5 - Catch the Furry!,False,null
+Furry Love 2,Level 6 - Catch the Furry!,Level 6 - Catch the Furry!,False,null
+Furry Love 2,Level 6 - Catch the Furry!,Level 6 - Catch the Furry!,False,null
+Furry Love 2,Level 6 - Catch the Furry!,Level 6 - Catch the Furry!,False,null
+Furry Love 2,Level 1 - Furry Cutter,Level 1 - Furry Cutter,False,null
+Furry Love 2,Level 1 - Furry Cutter,Level 1 - Furry Cutter,False,null
+Furry Love 2,Level 1 - Furry Cutter,Level 1 - Furry Cutter,False,null
+Furry Love 2,Level 2 - Furry Cutter,Level 2 - Furry Cutter,False,null
+Furry Love 2,Level 2 - Furry Cutter,Level 2 - Furry Cutter,False,null
+Furry Love 2,Level 2 - Furry Cutter,Level 2 - Furry Cutter,False,null
+Furry Love 2,Level 3 - Furry Cutter,Level 3 - Furry Cutter,False,null
+Furry Love 2,Level 3 - Furry Cutter,Level 3 - Furry Cutter,False,null
+Furry Love 2,Level 3 - Furry Cutter,Level 3 - Furry Cutter,False,null
+Furry Love 2,Level 4 - Furry Cutter,Level 4 - Furry Cutter,False,null
+Furry Love 2,Level 4 - Furry Cutter,Level 4 - Furry Cutter,False,null
+Furry Love 2,Level 4 - Furry Cutter,Level 4 - Furry Cutter,False,null
+Furry Love 2,Level 5 - Furry Cutter,Level 5 - Furry Cutter,False,null
+Furry Love 2,Level 5 - Furry Cutter,Level 5 - Furry Cutter,False,null
+Furry Love 2,Level 5 - Furry Cutter,Level 5 - Furry Cutter,False,null
+Furry Love 2,Level 6 - Furry Cutter,Level 6 - Furry Cutter,False,null
+Furry Love 2,Level 6 - Furry Cutter,Level 6 - Furry Cutter,False,null
+Furry Love 2,Level 6 - Furry Cutter,Level 6 - Furry Cutter,False,null
+Furry Love 2,Level 1 - Furry Cutter,Level 1 - Furry Cutter,False,null
+Furry Love 2,Level 2 - Furry Cutter,Level 2 - Furry Cutter,False,null
+Furry Love 2,Level 3 - Furry Cutter,Level 3 - Furry Cutter,False,null
+Furry Love 2,Level 4 - Furry Cutter,Level 4 - Furry Cutter,False,null
+Furry Love 2,Level 5 - Furry Cutter,Level 5 - Furry Cutter,False,null
+Furry Love 2,Level 6 - Furry Cutter,Level 6 - Furry Cutter,False,null
+Furry Love 2,Level 1 - Furrman,Level 1 - Furrman,False,null
+Furry Love 2,Level 2 - Furrman,Level 2 - Furrman,False,null
+Furry Love 2,Level 3 - Furrman,Level 3 - Furrman,False,null
+Furry Love 2,Level 4 - Furrman,Level 4 - Furrman,False,null
+Furry Love 2,Level 5 - Furrman,Level 5 - Furrman,False,null
+Furry Love 2,Level 6 - Furrman,Level 6 - Furrman,False,null
+Furry Love 2,Level 1 - Catch the Furry!,Level 1 - Catch the Furry!,False,null
+Furry Love 2,Level 2 - Catch the Furry!,Level 2 - Catch the Furry!,False,null
+Furry Love 2,Level 4 - Catch the Furry!,Level 4 - Catch the Furry!,False,null
+Furry Love 2,Level 5 - Catch the Furry!,Level 5 - Catch the Furry!,False,null
+Furry Love 2,Level 6 - Catch the Furry!,Level 6 - Catch the Furry!,False,null
+Furry Love 2,Great,Great,False,null
+Furry Love 2,Best of the best,Best of the best,False,null
+Journey,Threshold,Cross the broken bridge without completely rebuilding it.,False,null
+Journey,Mirage,Find the hidden desert flower.,False,null
+Journey,Explore,Discover all cloth creatures in the desert.,False,null
+Journey,Adventure,Pass through 15 gates while surfing through the sunken city.,False,null
+Journey,Ancestors,Find a mysterious creature hidden in the temple.,False,null
+Journey,Trials,Sneak through the underground passage without tearing your scarf.,True,2024-12-11 22:20:51
+Journey,History,Uncover all 10 ancient glyphs.,False,null
+Journey,Crossing,Reach the summit with a companion and return to the beginning.,True,2024-12-11 23:04:50
+Journey,Rebirth,Finish the game and return to the beginning.,True,2024-12-11 23:04:50
+Journey,Companion,Finish the game with the same partner for the majority of the journey and return to the beginning.,False,null
+Journey,Reflection,Sit and meditate with another player for more than 20 seconds.,False,null
+Journey,Wonder,Meet 10 or more unique travelers.,False,null
+Journey,Return,Start the journey again after a week long break.,False,null
+Journey,Transcendence,Collect all unique glowing symbols across one or more journeys.,False,null
+Tales from the Borderlands,"Welcome to Pandora, Kiddos",Completed Chapter 1 of Episode 1,False,null
+Tales from the Borderlands,My Turn To Speak,Completed Chapter 2 of Episode 1,False,null
+Tales from the Borderlands,Partners In Crime,Completed Chapter 3 of Episode 1,False,null
+Tales from the Borderlands,Not Alone in the Dark,Completed Chapter 4 of Episode 1,False,null
+Tales from the Borderlands,2 Fast 2 Fiona,Completed Chapter 5 of Episode 1,False,null
+Tales from the Borderlands,Blood Money,Completed Chapter 6 of Episode 1,False,null
+Tales from the Borderlands,Devil on Your Shoulder,Completed Episode 1,False,null
+Tales from the Borderlands,Deal With A Ghost,Completed Chapter 1 of Episode 2,False,null
+Tales from the Borderlands,Till Death Do Us Part,Completed Chapter 2 of Episode 2,False,null
+Tales from the Borderlands,A Plan Came Together,Completed Chapter 3 of Episode 2,False,null
+Tales from the Borderlands,Funeral Crashers,Completed Chapter 4 of Episode 2,False,null
+Tales from the Borderlands,Classic Reflexes,Completed Chapter 5 of Episode 2,False,null
+Tales from the Borderlands,Bro or Bot,Completed Chapter 6 of Episode 2,False,null
+Tales from the Borderlands,Miracle of Atlas Engineering,Completed Episode 2,False,null
+Tales from the Borderlands,Don't Make Me Wait,Completed Chapter 1 of Episode 3,False,null
+Tales from the Borderlands,Temptation,Completed Chapter 2 of Episode 3,False,null
+Tales from the Borderlands,Point Of No Return,Completed Chapter 3 of Episode 3,False,null
+Tales from the Borderlands,"So Many Bandits, So Little Time",Completed Chapter 4 of Episode 3,False,null
+Tales from the Borderlands,Rupture,Completed Chapter 5 of Episode 3,False,null
+Tales from the Borderlands,Maneater,Completed Chapter 6 of Episode 3,False,null
+Tales from the Borderlands,Angry Eyes,Completed Episode 3,False,null
+Tales from the Borderlands,Ain't Got Time To Bleed,Completed Chapter 1 of Episode 4,False,null
+Tales from the Borderlands,Alive And Not Afraid,Completed Chapter 2 of Episode 4,False,null
+Tales from the Borderlands,Ain't My First Rodeo,Completed Chapter 3 of Episode 4,False,null
+Tales from the Borderlands,"It's Not The Years, It's The Mileage",Completed Chapter 4 of Episode 4,False,null
+Tales from the Borderlands,Light This Candle,Completed Chapter 5 of Episode 4,False,null
+Tales from the Borderlands,No Matter Where You Go…,Completed Chapter 6 of Episode 4,False,null
+Tales from the Borderlands,…There You Are,Completed Episode 4,False,null
+Tales from the Borderlands,"A Maze Of Twisty Passages, All Alike",Completed Chapter 1 of Episode 5,False,null
+Tales from the Borderlands,Unforseen Consequences,Completed Chapter 2 of Episode 5,False,null
+Tales from the Borderlands,Give And Take (Mostly Take),Completed Chapter 3 of Episode 5,False,null
+Tales from the Borderlands,Definition Of Insanity,Completed Chapter 4 of Episode 5,False,null
+Tales from the Borderlands,Time's A Wastin',Completed Chapter 5 of Episode 5,False,null
+Tales from the Borderlands,What's It Worth?,Completed Chapter 6 of Episode 5,False,null
+Tales from the Borderlands,Tales Twice Told,Completed Episode 5,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Welcome to Coffee Talk,Start a new game,True,2023-04-21 21:30:07
+Coffee Talk Episode 2: Hibiscus & Butterfly,Let me start over,Trash your drink for the first time,True,2023-04-21 21:39:04
+Coffee Talk Episode 2: Hibiscus & Butterfly,First Brew,Brew your first drink,True,2023-04-21 21:39:52
+Coffee Talk Episode 2: Hibiscus & Butterfly,It's a masterpiece!,Create and serve your first latte art,True,2023-04-21 21:51:17
+Coffee Talk Episode 2: Hibiscus & Butterfly,Is this it?,Serve the wrong drink for the first time,True,2023-04-22 17:55:34
+Coffee Talk Episode 2: Hibiscus & Butterfly,We are all friends,Meet all of the main characters,True,2023-04-22 18:34:36
+Coffee Talk Episode 2: Hibiscus & Butterfly,Stop it!,Trash a total of 25 drinks,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,24/7 a beat to relax/study to,Listen to all of the songs,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Failed Messenger,Forget to give items to the intended recipients at least once,True,2023-04-22 17:55:35
+Coffee Talk Episode 2: Hibiscus & Butterfly,Ghosted,Provide Riona with poor service until she no longer visits the coffee shop,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Bad Review,Give Lucas incorrect drinks on his first three visits,True,2023-04-22 18:30:27
+Coffee Talk Episode 2: Hibiscus & Butterfly,Bad Memory,Forget to give Jorji his lighter back,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Cold Shoulders,Aqua & Myrtle didn't get to make up,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Art takes time,Spent a total of 1 hour making Latte Art,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Barista Trainee,Serve 10 correct drinks in a single session of challenge mode,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Barista Expert,Serve 25 correct drinks in a single session of challenge mode,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Nothing to show…,Fail to inspire Rachel with your drink,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,First Love,"Serve Rachel ""Sweetheart Latte"" when she needs inspiration",False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Wistful Nights,"Serve Rachel ""Dreamin' Blue"" when she needs inspiration",True,2024-06-24 14:41:26
+Coffee Talk Episode 2: Hibiscus & Butterfly,Comfortable With You,"Serve Rachel ""Milk Honey Green Tea"" when she needs inspiration",False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,“Overflowing Warmth: CBAW”,no description available,True,2023-04-21 22:16:11
+Coffee Talk Episode 2: Hibiscus & Butterfly,Fellow Influencer,no description available,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Child’s Play,no description available,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,What’s This?,no description available,True,2023-04-22 18:00:32
+Coffee Talk Episode 2: Hibiscus & Butterfly,Good Review,Give Lucas all the correct drinks,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Master Purloiner,Steal the Agent's key card and give it to Silver,True,2023-04-23 18:49:32
+Coffee Talk Episode 2: Hibiscus & Butterfly,Saved $100,Prevent Gala from getting fined,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Blood(ish) Red,Serve Hyde his favoured hibiscus drink,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Guest of Honor,Be invited to Lua and Baileys's wedding,True,2023-06-08 13:54:12
+Coffee Talk Episode 2: Hibiscus & Butterfly,Unsolicited Bouncer,no description available,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,One Way to Find Out,Play the story mode to conclusion once,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,True Fan,Unlock Aremy x Nekochel's whole album,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Not So Hot Business,Complete the story mode with the least amount of points possible,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Local Favorite,Ensure everyone gets the right drink,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,A Hardboiled Advice,no description available,True,2023-04-30 22:19:20
+Coffee Talk Episode 2: Hibiscus & Butterfly,Star-Crossed Siblings,no description available,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,How I Met Your Ancestor,no description available,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,"40,075Km",no description available,True,2023-06-08 13:52:10
+Coffee Talk Episode 2: Hibiscus & Butterfly,Immutable Immortal,no description available,True,2024-06-24 14:57:07
+Coffee Talk Episode 2: Hibiscus & Butterfly,Hyde Leibovitz,no description available,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Festina Lente,no description available,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Just Married,no description available,True,2024-06-24 14:53:58
+Coffee Talk Episode 2: Hibiscus & Butterfly,Work Woes,no description available,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Tender Soul,no description available,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,A Budding Partnership,no description available,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,The Hibiscus & The Butterfly,no description available,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Remembrance,no description available,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,“Five Stars!”,no description available,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Cat Shelter,no description available,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Master Brewer,Unlock all special drinks,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Barista Guru,Serve 50 correct drinks in a single session of challenge mode,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Art Connoisseur,Unlock all the artworks in the Gallery,False,null
+Coffee Talk Episode 2: Hibiscus & Butterfly,Thank you for Playing,Unlock all achievements,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Time to Go Outside,Promote a single character 5 times.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Star Crazy,Spend your first star.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Rinsed 'Em,Vanquish 5000 Zombies.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Gramma Z Says...,Vanquish 5000 Plants.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Insanity,Complete an Ops game on CRRRRRAAAZY Difficulty.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Catching Waves,Complete 100 waves in Ops.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Not the Boss of Me,Defeat 3 Super Boss Waves in Ops.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,It's My Island,Reach the boss wave using the Flag of Power in the Backyard Battleground.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Really Epic!,Complete 10 Epic Quests.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,The Boss is Watching,Max out your XP Multiplier on the quest board.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Stomp the Yard,Vanquish 50 Plants with the Z-Mech's Robo Stomp.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Just Peachy!,Stun 50 Z-Mechs using Citron's EMPeach.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Simply Super,"As Super Brainz, vanquish 25 Plants with Heroic Fists, and 25 Plants with the Heroic Beam.",False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,My Place or Yours,"Vanquish 25 Plants with the Scurvy Scattershot, and 25 Plants with the Spyglass Shot.",False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Specialist,Promote a character for the first time.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Hawkguy,Earn a S-Rank in the Crazy Targets Range.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Prance vs Samba,Gesture immediately after vanquishing a player.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Playdate,"Visit a friend's Backyard Battleground, or have a friend visit your Backyard Battleground.",False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Who Can You Trust?,Vanquish a friend in their Backyard Battleground.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Always IMProvising,Apply a weapon skin to a Zombie's weapon.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Hero to Zero,Vanquish an opponent using a Potted Plant or Zombot Turret.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Skinchanger,"In solo ops, swap to another character.",False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,VIPs Only!,Play a private match with your own custom rules.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,You've Goat to Be Kidding Me!,"As Rose, Goatify 100 Zombies.",False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Aww Shucks!,"As Kernel Corn, vanquish 25 Zombies with the Shuck Shot.",False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Corn Identity,Enter the Zombie Stats room as a Plant.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Gnomore!,Find all hidden Garden Gnomes.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Gnome Man's Land,Enter the Chamber of Gnomes.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,My Favourite Z-Mech on the Citadel,"As a Plant, vanquish the Z7 Imp.",False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Goat Any Last Words?,"As a Goat, vanquish a Plant.",False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Goatmeal,"As the Chomper, swallow a Goat.",False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Behind Enemy Vines,Enter the Plant Stats room as a Zombie.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Just Sprouted,Complete 'Boom Tombs'.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,On the Cob,Complete 'Zero Bark Thirty'.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Her Majesty,Complete 'Well That Escalated Quickly'.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Mango Tango,Complete 'Showdown'.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Curseproof,Complete 'Captain Smasher's Curse'.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Yuck!,Complete 'Yuck!'.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,The Bean Situation,Complete 'The Bean Situation'.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Got Golden,Complete 'Gold Rush'.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Warp Tour,Complete 'Steve-cation'.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,What a Trip,Complete 'Strong Coffee'.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,What's the Catch?,Train with the Mysterious Fish.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Lawn Care,Customize your Backyard with an Epic Item.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,West Indian Lilac,Enter Infinity as a Plant.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,String Theory,Enter Infinity as a Zombie.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,King of Summer,Defeat Yellow Gnome King.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,King of Winter,Defeat Blue Gnome King.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,King of Spring,Defeat Green Gnome King.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,King of Autumn,Defeat Red Gnome King.,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,RGBY,"Vanquish Gnomus, the Gnome King!",False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,It's Not a Door...it's a Portal!,Complete 3 Mystery Portal Matches,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,The Secret of Secrets,Discover the Secret Area…What can it be?,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Boss Battle,Enter the Mystery Portal and Defeat a Boss Hunt on Normal Difficulty,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Boss Battle Boss,Enter the Mystery Portal and Defeat a Boss Hunt on Craaazy Difficulty,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Team Player,Meet the Contribution Requirement for 3 Community Challenges,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,This is Craaazy!,Enter the Mystery Portal and Complete a Super Mix Event!,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Boss Battle Specialist,Enter the Mystery Portal and Defeat a Boss Hunt on Hard Difficulty,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Alright Meow,Enter the Mystery Portal and Complete a Full Game of Cats vs Dinos as a Cat,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Somewhere Over the Rainbow,Collect 25 Rainbow Stars from the Mystery Portal,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,More Secrets?,New Faces from Craazy Places,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Open the Door Get on the Floor,Enter the Mystery Portal and Complete a Full Game of Cats vs Dinos as a Dino,False,null
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,Together we Win,Open 5 Community Challenge Reward Chests.,False,null
+THE FINALS,Participation Ribbon,Create a contestant,False,null
+THE FINALS,Initial Deposit,Insert a cash box into a cashout station,False,null
+THE FINALS,Med Student,Revive a teammate,False,null
+THE FINALS,Returning Contestant,Play 3 rounds of Quick Cash,False,null
+THE FINALS,Green Light,Play 10 rounds with a Light Build,False,null
+THE FINALS,Mass Medium,Play 10 rounds with a Medium Build,False,null
+THE FINALS,Play The Heavy,Play 10 rounds with a Heavy Build,False,null
+THE FINALS,Rising Star,Play 3 Tournament rounds,False,null
+THE FINALS,Life Of The Party,Play 10 rounds in a Party,False,null
+THE FINALS,Savings Specialist,"Obtain a total of 100,000 cash",False,null
+THE FINALS,Lesson Learner,Complete the Tutorial,False,null
+THE FINALS,Attending Physician,Revive teammates 50 times,False,null
+THE FINALS,Demolition Expert,"Deal 1,000,000 damage to arenas",False,null
+THE FINALS,Dead Shot,Get 300 eliminations with Ranged Weapons,False,null
+THE FINALS,Strong Arm,Get 150 eliminations with Melee Weapons,False,null
+THE FINALS,Gadget Guru,Get 150 eliminations with Gadgets,False,null
+THE FINALS,Defense Devotee,"Block a total of 25,000 damage",False,null
+THE FINALS,Resident Doctor,"Heal teammates for a total of 25,000 health",False,null
+THE FINALS,Light Years,Win 150 rounds with a Light Build,False,null
+THE FINALS,Medium Rare,Win 150 rounds with a Medium Build,False,null
+THE FINALS,Heavy Hand,Win 150 rounds with a Heavy Build,False,null
+THE FINALS,Deep Pockets,"Obtain a total of 50,000,000 cash",False,null
+THE FINALS,Show Stopper,Win the final round in Tournament or Ranked Tournament,False,null
+THE FINALS,Stop Payment,"Eliminate an opponent while they are carrying a cash box, 5 times",False,null
+THE FINALS,Asset Protection,"Eliminate an opponent trying to steal your cashout, 10 times",False,null
+THE FINALS,Last-minute Gift,Start a cashout with less than 10 seconds remaining in the match,False,null
+THE FINALS,Buzzer Beater,Steal a cashout with less than 10 seconds remaining in the match,False,null
+THE FINALS,Highway Patrol,"Eliminate an opponent while you are riding a Zipline, 10 times",False,null
+THE FINALS,Hot Shot,"Eliminate an opponent while you are on fire, 5 times in a single round",False,null
+THE FINALS,Just Like Scotty,Win a round in any mode without being eliminated,False,null
+THE FINALS,Bombouncer,Eliminate an opponent by bouncing a grenade on a Jump Pad,False,null
+THE FINALS,Pressure Prize,Hit an opponent in the head with an explosive carriable,False,null
+THE FINALS,Dodgeball Champion,Hit opponents with 3 different carriables within 15 seconds,False,null
+THE FINALS,Clip And Slide,Eliminate an opponent with a headshot while you are sliding,False,null
+THE FINALS,Multitasker,Eliminate 3 opponents with 3 different items or carriables within 10 seconds,False,null
+THE FINALS,Busy Body,Eliminate 3 opponents with a Melee Weapon within 10 seconds,False,null
+THE FINALS,Crowd Pleaser,"Finish in first place, 3 times in a row",False,null
+THE FINALS,Pyro Prodigy,Eliminate 25 opponents with fire,False,null
+THE FINALS,Toxic Tact,Eliminate 25 opponents with gas,False,null
+THE FINALS,Golden Bullet,Get a headshot elimination with the last bullet in the magazine of your primary weapon,False,null
+THE FINALS,Fatal Florist,Eliminate an opponent with a flowerpot,False,null
+THE FINALS,Charitable Donation,Eliminate an opponent with a cash box,False,null
+THE FINALS,Field Goal,Throw a cash box into a cashout station from 20 meters away,False,null
+THE FINALS,Showboaster,no description available,False,null
+THE FINALS,Butter Fingers,no description available,False,null
+THE FINALS,Sky Bridge Saboteur,no description available,False,null
+THE FINALS,Artful Expressionist,no description available,False,null
+THE FINALS,Space Rock Skipper,no description available,False,null
+THE FINALS,Speed Run,Start a cashout within 15 seconds after opening a vault,False,null
+THE FINALS,Blast Caster,no description available,False,null
+Tom Clancy's The Division 2,Checking In,Rescue Eleanor Sawyer from the Hyenas in the Grand Washington Hotel.,False,null
+Tom Clancy's The Division 2,Opening the Vault,Discover what the Hyenas stole from Air Force One.,False,null
+Tom Clancy's The Division 2,Bunker Buster,Recover essential SHD Network equipment from the Federal Emergency Bunker.,False,null
+Tom Clancy's The Division 2,Sick Note,Shut down Outcast activity at the DCD Headquarters.,False,null
+Tom Clancy's The Division 2,Jailbreak,Recover interrogation data from the American History Museum.,False,null
+Tom Clancy's The Division 2,Global Communications,Reestablish the SHD Satellite Network at the Space Administration HQ.,False,null
+Tom Clancy's The Division 2,Getting the Word Out,Seize control of the ViewPoint Museum from the True Sons.,False,null
+Tom Clancy's The Division 2,Season Ticket,Eliminate the Hyena council in the District Union Arena.,False,null
+Tom Clancy's The Division 2,Strategic Extraction,Capture the Outcasts' Chief Strategist at the Potomac Event Center.,False,null
+Tom Clancy's The Division 2,Into the Wilderness,Take down the Outcast stronghold on Roosevelt Island.,False,null
+Tom Clancy's The Division 2,State of the Union,Drive the True Sons out of the Capitol building.,False,null
+Tom Clancy's The Division 2,Hard as Nails,Finish all missions on hard difficulty or above.,False,null
+Tom Clancy's The Division 2,Rebuilding DC,Fully upgrade all settlements.,False,null
+Tom Clancy's The Division 2,Undressed to Kill,"Destroy every piece of a tank's armor, then eliminate the tank.",False,null
+Tom Clancy's The Division 2,Command and Control,Discover 20 control points in DC.,False,null
+Tom Clancy's The Division 2,Group Therapy,Take over a control point in a group without anyone being downed.,False,null
+Tom Clancy's The Division 2,A Friend in Need,Respond to a call for help and revive the agent.,False,null
+Tom Clancy's The Division 2,Help Me!,Put out a call for backup.,False,null
+Tom Clancy's The Division 2,"Suits You, Sir!",Collect any suit of cards in the open world.,False,null
+Tom Clancy's The Division 2,TV Cop,Perform a slide across the hood of a car.,False,null
+Tom Clancy's The Division 2,Negative Ramos!,Shock enemy medics by shooting their defibrillator.,False,null
+Tom Clancy's The Division 2,Patchwork,Get 10 patches from commendations.,False,null
+Tom Clancy's The Division 2,Resourceful Agent,Help friendlies in resource gathering.,False,null
+Tom Clancy's The Division 2,Dark Zone: Safe House,Access a Safe House in a Dark Zone.,False,null
+Tom Clancy's The Division 2,Dark Zone: Extraction,Extract an item from each dark zone.,False,null
+Tom Clancy's The Division 2,Dark Zone: Takedown,Eliminate a rogue agent in each Dark Zone.,False,null
+Tom Clancy's The Division 2,First Among Equals,Win a match of skirmish or domination.,False,null
+Tom Clancy's The Division 2,Clan War,"With your clan, face off against another clan in conflict.",False,null
+Tom Clancy's The Division 2,Big Game Hunter,Complete a bounty from each safe house.,False,null
+Tom Clancy's The Division 2,Autograph Hunter,"Kill one enemy with each of the signature weapons (crossbow, sniper rifle & grenade launcher).",False,null
+Tom Clancy's The Division 2,Arrow to the Knee,Shoot 10 enemies in the leg with a crossbow.,False,null
+Tom Clancy's The Division 2,Next Level Operative,Reach Level 30.,False,null
+Tom Clancy's The Division 2,Strength in Numbers,Create or join a clan.,False,null
+Tom Clancy's The Division 2,For Posterity,Photo mode: take a photo of a group of 4 agents.,False,null
+Tom Clancy's The Division 2,Crafty Collector,Collect 20 blueprints.,False,null
+Tom Clancy's The Division 2,Taste of the Exotic,Craft an exotic weapon or item.,False,null
+Tom Clancy's The Division 2,Specialized,Equip your first specialization.,False,null
+Tom Clancy's The Division 2,Best of the Best,Invest in each type of upgrade available for a specialization.,False,null
+Tom Clancy's The Division 2,Project Management,Complete a project for both the Theater and Campus settlements.,False,null
+Tom Clancy's The Division 2,King of the Skill,Equip and use each skill.,False,null
+Tom Clancy's The Division 2,Dress to Impress,Equip high-end gear (or above) in each slot.,False,null
+Tom Clancy's The Division 2,Dark Zone: Occupied Hijack,Hijack an extraction in any occupied dark zone.,False,null
+Tom Clancy's The Division 2,Washington Raiders,Complete the full Operation Dark Hours raid in a group of eight players.,False,null
+Tom Clancy's The Division 2,Caged Animal,Put an end to Emeline Shaw at the Manning National Zoo.,False,null
+Tom Clancy's The Division 2,Country Retreat,Take part in the operation at Camp White Oak.,False,null
+Tom Clancy's The Division 2,Drilling Down,Discover the Black Tusk's purpose at the Pentagon and thwart it.,False,null
+Tom Clancy's The Division 2,Reactor Heist,Secure the perfusion bioreactor from the DARPA labs below the Pentagon.,False,null
+Tom Clancy's The Division 2,To Sum It All Up,Successfully extract Tchernenko after confronting and defeating Elijah Sumner.,False,null
+Tom Clancy's The Division 2,You Can't Have Him,Prevent Dolores Jones from capturing or killing the rogue Division agent Aaron Keener.,False,null
+Tom Clancy's The Division 2,Jail Break,Survive all of Theo Parnell's traps and defeat him.,False,null
+Tom Clancy's The Division 2,Deep Underground,Shut down the Cleaners' drill and eliminate Javier Kajika.,False,null
+Tom Clancy's The Division 2,Plummeting Stock,Defeat James Dragov at the NYC Stock Exchange.,False,null
+Tom Clancy's The Division 2,Boiling Point,Shutdown the Cleaners' oil refinery and defeat Vivian Conley.,False,null
+Tom Clancy's The Division 2,Liberation,Prevent the missile launch and defeat Aaron Keener.,False,null
+Tom Clancy's The Division 2,Almost a band,Complete a Main Mission in New York with at least one directive active.,False,null
+Tom Clancy's The Division 2,Under Lady Liberty's Gaze,Complete the manhunt and eliminate Aaron Keener.,False,null
+Tom Clancy's The Division 2,Extreme Manhunt,Complete a Seasonal Manhunt mission on Challenge difficulty or above.,False,null
+Tom Clancy's The Division 2,Shut that door (again),Shut two car doors while in cover.,False,null
+Tom Clancy's The Division 2,Over The Hill,Reach Level 40 with an agent.,False,null
+Tom Clancy's The Division 2,Iron Breakers,Complete the full Operation Iron Horse raid in a group of eight players.,False,null
+We Were Here Expeditions: The FriendShip,"Weigh Anchor, Set Sail!",Obtained access to The Friendship,False,null
+We Were Here Expeditions: The FriendShip,Welcome Aboard!,Joined the Captain's crew,False,null
+We Were Here Expeditions: The FriendShip,The Art of Parley,Obtained a ticket from Crewmate Carousel,False,null
+We Were Here Expeditions: The FriendShip,"Tiles, Trails, Treasure!",Obtained a ticket from Maps & Markers,False,null
+We Were Here Expeditions: The FriendShip,Pelagic Perils,Obtained a ticket from Siren's Curse,False,null
+We Were Here Expeditions: The FriendShip,Gold Pact,Achieved a maximum score in Crewmate Carousel,False,null
+We Were Here Expeditions: The FriendShip,The Golden Ratio,Achieved a maximum score in Maps & Markers,False,null
+We Were Here Expeditions: The FriendShip,Gold Medal Crewmates,Achieved a maximum score in Siren's Curse,False,null
+We Were Here Expeditions: The FriendShip,Our Friendship is Golden,Achieved a maximum score in all trials and assembled the Golden Friend Ship!,False,null
+We Were Here Expeditions: The FriendShip,We Can Do Better!,Shred 5 tickets,False,null
+We Were Here Expeditions: The FriendShip,Ship Dip!,Completed the trials and launched a sea-worthy vessel!,False,null
+We Were Here Expeditions: The FriendShip,Assemble a Crew!,Invite a friend to play We Were Here: The Friendship!,False,null
+Balatro,Ante Up!,Reach Ante 4,True,2024-07-13 17:12:40
+Balatro,Ante Upper!,Reach Ante 8,True,2024-07-14 00:55:20
+Balatro,Heads Up,Win a Run,True,2024-07-14 01:01:36
+Balatro,Low Stakes,Win a run on at least Red Stake difficulty,True,2024-07-14 12:53:04
+Balatro,Mid Stakes,Win a run on at least Black Stake difficulty,False,null
+Balatro,High Stakes,Win a run on at least Gold Stake difficulty,False,null
+Balatro,Card Player,Play at least 2500 Cards,True,2024-07-28 14:27:32
+Balatro,Card Discarder,Discard at least 2500 Cards,True,2024-09-18 18:49:34
+Balatro,Nest Egg,Have $400 or more during a single run,False,null
+Balatro,Flushed,Play a Flush with 5 Wild Cards,False,null
+Balatro,Speedrunner,Win a run in 12 or fewer rounds,False,null
+Balatro,ROI,Buy 5 Vouchers by the end of Ante 4,False,null
+Balatro,Shattered,Break 2 Glass Cards in a single hand,False,null
+Balatro,Royale,Play a Royal Flush,True,2024-07-14 00:10:41
+Balatro,Retrograde,Get any poker hand to level 10,False,null
+Balatro,10K,"Score 10,000 Chips in a single hand",True,2024-07-13 17:52:56
+Balatro,"1,000K","Score 1,000,000 Chips in a single hand",False,null
+Balatro,"100,000K","Score 100,000,000 Chips in a single hand",False,null
+Balatro,Tiny Hands,Thin your deck down to 20 or fewer cards,False,null
+Balatro,Big Hands,Have 80 or more cards in your deck,False,null
+Balatro,You Get What You Get,Win a run without rerolling the shop,False,null
+Balatro,Rule Bender,Complete any challenge run,False,null
+Balatro,Rule Breaker,Complete every challenge run,False,null
+Balatro,Legendary,Discover a Legendary Joker,True,2024-07-14 00:55:20
+Balatro,Astronomy,Discover every Planet card,False,null
+Balatro,Cartomancy,Discover every Tarot card,True,2024-07-16 00:04:08
+Balatro,Clairvoyance,Discover every Spectral card,False,null
+Balatro,Extreme Couponer,Discover every Voucher,False,null
+Balatro,Completionist,Discover 100% of your collection,False,null
+Balatro,Completionist+,Win with every deck on Gold Stake difficulty,False,null
+Balatro,Completionist++,Earn a Gold Sticker on every Joker,False,null
