@@ -8,7 +8,7 @@ API_KEY = "766F3C54C068E1A7C1468651EBD72634"
 # Steam API Base URL
 BASE_URL = "https://api.steampowered.com"
 
-PLAYER_ID = 76561198306889297
+RAYGRANCE_ID = 76561198306889297
 
 ################################################################################################################
 
@@ -42,9 +42,12 @@ def getAllAchievements(player_ID):
                 ]
 
                 output.append(entry)
-
+        
+        elif response.status_code == 400:
+            print(f"Error: {game.get('name')} has no achievements")
         else:
-            print(f"Error: Game has no Achievements")
+            print(f"Error: {response.status_code} - {response.text}")
+
     return output
 
 ################################################################################################################
@@ -53,7 +56,7 @@ def getAllGames(playerID):
     games_list_endpoint = f"{BASE_URL}/IPlayerService/GetOwnedGames/v1/"
     params = {
         "key": API_KEY,
-        "steamid": PLAYER_ID, 
+        "steamid": playerID, 
         "include_played_free_games": True,
         "include_appinfo": True
     }
@@ -70,19 +73,33 @@ def getPlayerName(playerID):
     endpoint = f"{BASE_URL}/ISteamUser/GetPlayerSummaries/v2/"
     params = {
         "key": API_KEY,
-        "steamids": PLAYER_ID
+        "steamids": playerID
     }
     response = requests.get(endpoint, params=params)
     if (response.status_code == 200):
+        return response.json()['response']['players'][0].get('personaname', playerID)
 
-        return response.json()['response']['players'][0].get('personaname', PLAYER_ID)
+################################################################################################################
+
+def getInputPlayerID():
+    
+    while True:
+        playerID = input("Enter Steam Player ID, type 'default' for example: ")
+        if (playerID == 'default'):
+            print(f"Using Raygrance PlayerID: {RAYGRANCE_ID}")
+            return RAYGRANCE_ID
+        elif ((not playerID.isdigit()) or (playerID == "")):
+            print("Error, invalid ID entered")
+        else:
+            return playerID
 
 ################################################################################################################
 
 def main():
-    output = getAllAchievements(PLAYER_ID)
+    playerID = getInputPlayerID()
+    output = getAllAchievements(playerID)
 
-    with open(f"{getPlayerName(PLAYER_ID)}Achievements.csv", "w", newline="") as csvfile:
+    with open(f"{getPlayerName(playerID)}Achievements.csv", "w", errors='replace', newline="") as csvfile:
         writer = csv.writer(csvfile)
         writer.writerows(output)
 
