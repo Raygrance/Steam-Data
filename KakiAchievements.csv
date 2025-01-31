@@ -1,0 +1,719 @@
+game,achievement,description,achieved,unlocktime
+Left 4 Dead 2,CL0WND,Honk the noses of 10 Clowns.,False,null
+Left 4 Dead 2,FRIED PIPER,"Using a Molotov, burn a Clown leading at least 10 Common Infected. ",False,null
+Left 4 Dead 2,LEVEL A CHARGE,Kill a Charger with a melee weapon while they are charging.,False,null
+Left 4 Dead 2,ACID REFLEX,Kill a Spitter before she is able to spit.,True,2021-12-25 21:42:23
+Left 4 Dead 2,CONFEDERACY OF CRUNCHES,Finish a campaign using only melee weapons.,False,null
+Left 4 Dead 2,CRASS MENAGERIE,Kill one of each Uncommon Infected.,False,null
+Left 4 Dead 2,A RIDE DENIED,Kill a Jockey within 2 seconds of it jumping on a Survivor.,True,2021-12-25 20:57:18
+Left 4 Dead 2,HEAD HONCHO,Decapitate 200 Infected with a melee weapon.,False,null
+Left 4 Dead 2,HEARTWARMER,"In a Versus round, leave the saferoom to defibrillate a dead teammate.",False,null
+Left 4 Dead 2,STILL SOMETHING TO PROVE,Survive all campaigns on Expert.,False,null
+Left 4 Dead 2,THE REAL DEAL,Survive a campaign on Expert skill with Realism mode enabled.,False,null
+Left 4 Dead 2,STRENGTH IN NUMBERS,Form a team and beat an enemy team in 4v4 Versus or Scavenge.,False,null
+Left 4 Dead 2,DEAD IN THE WATER,Kill 10 swampy Mudmen while they are in the water.,False,null
+Left 4 Dead 2,ROBBED ZOMBIE,Collect 10 vials of Boomer vomit from infected CEDA agents you have killed.,False,null
+Left 4 Dead 2,DISMEMBERMENT PLAN,Kill 15 Infected with a single grenade launcher blast.,False,null
+Left 4 Dead 2,BURNING SENSATION,Ignite 50 Common Infected with incendiary ammo.,False,null
+Left 4 Dead 2,ARMORY OF ONE,Deploy an ammo upgrade and have your team use it.,False,null
+Left 4 Dead 2,SHOCK JOCK,Revive 10 dead Survivors with the defibrillator.,False,null
+Left 4 Dead 2,THE QUICK AND THE DEAD,Revive 10 incapacitated Survivors while under the speed-boosting effects of adrenaline.,False,null
+Left 4 Dead 2,CHAIN OF COMMAND,Kill 100 Common Infected with the chainsaw.,False,null
+Left 4 Dead 2,SEPTIC TANK,Use a bile bomb on a Tank.,False,null
+Left 4 Dead 2,CLUB DEAD,Use every melee weapon to kill Common Infected.,False,null
+Left 4 Dead 2,TANK BURGER,Kill a Tank with melee weapons.,False,null
+Left 4 Dead 2,BRIDGE OVER TREBLED SLAUGHTER,Cross the bridge finale in less than three minutes.,False,null
+Left 4 Dead 2,PRICE CHOPPER,Survive the Dead Center campaign.,False,null
+Left 4 Dead 2,MIDNIGHT RIDER,Survive the Dark Carnival campaign.,False,null
+Left 4 Dead 2,RAGIN' CAJUN,Survive the Swamp Fever campaign.,False,null
+Left 4 Dead 2,WEATHERMAN,Survive the Hard Rain campaign.,False,null
+Left 4 Dead 2,BRIDGE BURNER,Survive the Parish campaign.,False,null
+Left 4 Dead 2,VIOLENCE IN SILENCE,Navigate the impound lot and reach the cemetery safe room without tripping any alarms.,False,null
+Left 4 Dead 2,GUARDIN' GNOME,Rescue Gnome Chompski from the Carnival.,False,null
+Left 4 Dead 2,SOB STORY,Navigate the sugar mill and reach the safe room without killing any Witches.,False,null
+Left 4 Dead 2,WING AND A PRAYER,Defend yourself at the crashed airliner without taking damage.,False,null
+Left 4 Dead 2,QUALIFIED RIDE,"As the Jockey, ride a Survivor for more than 12 seconds.",False,null
+Left 4 Dead 2,BACK IN THE SADDLE,"As the Jockey, ride the Survivors twice in a single life.",False,null
+Left 4 Dead 2,"RODE HARD, PUT AWAY WET","As the Jockey, ride a Survivor and steer them into a Spitter's acid patch.",False,null
+Left 4 Dead 2,GREAT EXPECTORATIONS,"As the Spitter, hit every Survivor with a single acid patch.",False,null
+Left 4 Dead 2,A SPITTLE HELP FROM MY FRIENDS,"As the Spitter, spit on a Survivor being choked by a Smoker.",False,null
+Left 4 Dead 2,SCATTERING RAM,"As the Charger, bowl through the entire enemy team in a single charge.",False,null
+Left 4 Dead 2,MEAT TENDERIZER,"As the Charger, grab a Survivor and smash them into the ground for a solid 15 seconds.",False,null
+Left 4 Dead 2,LONG DISTANCE CARRIER,"As the Charger, grab a Survivor and carry them over 80 feet.",False,null
+Left 4 Dead 2,BEAT THE RUSH,"In a Survival round, get a medal only using melee weapons.",False,null
+Left 4 Dead 2,HUNTING PARTY,Win a game of Scavenge.,False,null
+Left 4 Dead 2,GAS GUZZLER,Collect 100 gas cans in Scavenge.,False,null
+Left 4 Dead 2,CACHE AND CARRY,Collect 15 gas cans in a single Scavenge round.,False,null
+Left 4 Dead 2,SCAVENGE HUNT,Stop the enemy team from collecting any gas cans during a Scavenge round.,False,null
+Left 4 Dead 2,GONG SHOW,Prove you are stronger than Moustachio.,False,null
+Left 4 Dead 2,FUEL CRISIS,Make a Survivor drop a gas can during overtime.,False,null
+Left 4 Dead 2,GAS SHORTAGE,Cause 25 gas can drops as a Special Infected.,False,null
+Left 4 Dead 2,STACHE WHACKER,Prove you are faster than Moustachio.,False,null
+Left 4 Dead 2,TORCH BEARER,Survive The Passing Campaign.,False,null
+Left 4 Dead 2,WEDDING CRASHER,"As the Charger, grab a Survivor and crash them through 8 chairs at the wedding.",False,null
+Left 4 Dead 2,TIL IT GOES CLICK,"Using the M60, kill 25 infected without letting go of the trigger.",False,null
+Left 4 Dead 2,GRAVE ROBBER,Collect 10 items dropped by a Fallen Survivor.,False,null
+Left 4 Dead 2,MUTANT OVERLORD,Play 6 Mutations.,False,null
+Left 4 Dead 2,FORE!,Knock off the heads of 18 infected with the golf club.,False,null
+Left 4 Dead 2,KILLING THEM SWIFTLY TO THIS SONG,Play the new Midnight Riders song on a jukebox.,False,null
+Left 4 Dead 2,KITE LIKE A MAN,Kill a Tank only with damage from the original Survivors.,False,null
+Left 4 Dead 2,CACHE GRAB,Open 5 foot lockers.,False,null
+Left 4 Dead 2,PORT OF SCAVENGE,Play 5 full games of Scavenge on The Port.,False,null
+Left 4 Dead 2,SUPREME SACRIFICE,"Complete ""The Sacrifice"".",False,null
+Left 4 Dead 2,KILL BILL,Have Bill sacrifice himself for the team.,False,null
+Left 4 Dead 2,BARREL ROLLED,Kill a Special Infected with an exploding barrel.,False,null
+Left 4 Dead 2,CHAOS GENERATOR,"Have all 3 generators running at once in ""The Sacrifice"" finale.",False,null
+Left 4 Dead 2,SACRIFIZZLE,"As a Special Infected, incap someone who is trying to sacrifice themselves.",False,null
+Left 4 Dead 2,STREAM CROSSER,Survive the Cold Stream campaign on any difficulty.,False,null
+Left 4 Dead 2,CONNECTING FIGHTS,Play a Versus game on Dead Air from start to finish.,False,null
+Left 4 Dead 2,Valve Gift Grab 2011 – L4D2,Collect three gifts dropped by Special Infected in Versus Mode.,False,null
+Left 4 Dead 2,GOOD GUY NICK,Plays games with free weekend players and helps them survive a campaign.,False,null
+Left 4 Dead 2,GHOST OF CHRISTMAS PRESENT,Spread cheer by helping a free holiday player survive a campaign.,False,null
+Left 4 Dead 2,GETTING STARTED,Earn a bronze medal on any official Survival map.,False,null
+Left 4 Dead 2,ON OUR WAY,Earn a silver medal on any official survival map.,False,null
+Left 4 Dead 2,THIS IS WHERE THE FUN BEGINS,Earn a gold medal on any official survival map.,False,null
+Left 4 Dead 2,STILL STANDING,Survive The Last Stand campaign on any difficulty.,False,null
+Left 4 Dead 2,THE LAST FRONTIER,Survive The Last Stand campaign on Expert Realism.,False,null
+Left 4 Dead 2,GOLDEN FREEMAN,Find the golden crowbars hidden in the Left 4 Dead 1 survival maps.,False,null
+Left 4 Dead 2,ELEPHANT IN THE ROOM,Revive an incapacitated teammate while a Tank is nearby.,False,null
+Left 4 Dead 2,I SPIT ON YOUR GRAVE,"As the Spitter, spit on a Survivor who is pinned by a Charger.",False,null
+Left 4 Dead 2,ACID BATH,"As the Spitter, spit on a Survivor who is pinned by a Hunter.",False,null
+Left 4 Dead 2,SPITFIRE,Destroy 20 gascans as the Spitter.,False,null
+Left 4 Dead 2,FLIGHT DECK,Instantly kill a Survivor as the Charger.,False,null
+Left 4 Dead 2,FAT NINJA,"As the Boomer, vomit on a Survivor without having direct line of sight with them.",False,null
+Left 4 Dead 2,THREE’S A CROWD,Rescue three Survivors from a single rescue closet.,False,null
+Left 4 Dead 2,LICKETY-SPLIT,"With a sharp melee weapon, cut a Smoker's tongue before he ensnares you.",False,null
+Left 4 Dead 2,GET SKEETED ON,Kill a pouncing Hunter with a shotgun.,False,null
+Left 4 Dead 2,ROCKY HORROR PICTURE THROW,Destroy a Tank's rock in mid-air.,False,null
+Left 4 Dead 2,SHOTGUN WEDDING,Kill the Witch bride with a single shotgun blast on expert difficulty.,False,null
+Left 4 Dead 2,ONE HIT WONDER,"As the Hunter, land a 25 damage pounce.",False,null
+Left 4 Dead 2,PURE SATISFACTION,Kill 20 Jockeys with the shovel or pitchfork.,False,null
+Left 4 Dead 2,THE BIG TEN,Survive for 10 minutes on any official map in Versus Survival.,False,null
+Left 4 Dead 2,Z-GENOCIDEST 2: EPISODE 2,"Kill 53,599 infected. You made sure the dead won't rise anymore!",False,null
+Left 4 Dead 2,POLE POSITION,Escape Liberty Mall's Atrium before the first Tank appears,False,null
+Left 4 Dead 2,HOUSEHOLD NAMES,Discover the hidden room in the Last Stand campaign,False,null
+Left 4 Dead 2,A LITTLE HACK AND SLASH,Earn a bronze medal on every official survival map,False,null
+Left 4 Dead 2,LIKE LAMBS TO THE SLAUGHTER,Earn a silver medal on every official survival map.,False,null
+Left 4 Dead 2,KILLING SPREE,Earn a gold medal on every official survival map.,False,null
+Left 4 Dead 2,SUPREME SURVIVALIST,Survive for 30 minutes on any official survival map.,False,null
+Left 4 Dead 2,NEW HAIRCUT,"Kill a Witch using only a sharp melee weapon, without anyone getting incapacitated or killed.",False,null
+Left 4 Dead 2,THE MAIN ATTRACTION,"On the concert finale, survive until the helicopter arrives without leaving the stage",False,null
+Left 4 Dead 2,THE LAST DASH,"Complete The Last Stand campaign in 13 minutes or less, without any Survivors dying.",False,null
+Left 4 Dead 2,GNOME ALONE,"If you are reading this achievement, Gabe Newell has successfully launched Gnome Chompski into space.",True,2021-12-24 22:26:56
+Terraria,Timber!!,Chop down your first tree.,True,2019-12-27 17:52:07
+Terraria,No Hobo,"Build a house suitable enough for your first town NPC, such as the guide, to move into.",True,2019-12-27 18:14:32
+Terraria,Stop! Hammer Time!,Obtain your first hammer via crafting or otherwise.,True,2020-01-06 22:16:39
+Terraria,Ooo! Shiny!,Mine your first nugget of ore with a pickaxe.,True,2019-12-27 18:17:18
+Terraria,Heart Breaker,Discover and smash your first heart crystal underground.,True,2020-03-29 21:05:24
+Terraria,Heavy Metal,Obtain an anvil made from iron or lead.,True,2020-01-06 16:14:57
+Terraria,I Am Loot!,Discover a golden chest underground and take a peek at its contents.,True,2019-12-28 12:06:01
+Terraria,Star Power,"Craft a mana crystal out of fallen stars, and consume it.",True,2020-01-06 16:04:56
+Terraria,Hold on Tight!,Equip your first grappling hook.,True,2020-12-13 21:06:07
+Terraria,Eye on You,"Defeat the Eye of Cthulhu, an ocular menace who only appears at night.",True,2020-01-06 23:34:31
+Terraria,"Smashing, Poppet!","Using explosives or your trusty hammer, smash a Shadow Orb or Crimson Heart in the evil parts of your world.",True,2020-01-06 22:44:17
+Terraria,Worm Fodder,"Defeat the Eater of Worlds, a massive worm whom dwells in the corruption.",True,2020-01-06 23:42:21
+Terraria,Mastermind,"Defeat the Brain of Cthulhu, an enourmous demon brain which haunts the creeping crimson.",False,null
+Terraria,Where's My Honey?,Discover a large bee's hive deep in the jungle.,False,null
+Terraria,Sting Operation,"Defeat the Queen Bee, the matriarch of the jungle hives.",False,null
+Terraria,Boned,"Defeat Skeletron, the cursed guardian of the dungeon.",True,2020-01-07 00:43:49
+Terraria,Dungeon Heist,"Steal a key from the dungeon's undead denizens, and unlock one of their precious golden chests.",False,null
+Terraria,It's Getting Hot in Here,Spelunk deep enough to reach the molten underworld.,True,2020-01-07 15:03:59
+Terraria,Miner for Fire,Craft a molten pickaxe using the hottest of materials.,False,null
+Terraria,Still Hungry,"Defeat the Wall of Flesh, the master and core of the world who arises after a great, burning sacrifice.",True,2020-01-07 15:17:04
+Terraria,It's Hard!,"Unleash the ancient spirits of light and darkness across your world, enabling much stronger foes and showering the world with dazzling treasures (and rainbows!).",True,2020-01-07 15:17:09
+Terraria,"Begone, Evil!","Smash a demon or crimson altar with a powerful, holy hammer.",True,2020-01-07 15:44:27
+Terraria,Extra Shiny!,Mine a powerful ore that has been newly blessed upon your world.,False,null
+Terraria,Head in the Clouds,Equip a pair of wings.,True,2020-01-03 14:22:05
+Terraria,Like a Boss,Obtain a boss-summoning item.,False,null
+Terraria,Buckets of Bolts,"Defeat the three nocturnal mechanical menaces: the Twins, the Destroyer, and Skeletron Prime.",False,null
+Terraria,Drax Attax,"Craft a drax or pickaxe axe using hallowed bars, and the souls of the three mechanical bosses.",False,null
+Terraria,Photosynthesis,"Mine chlorophyte, an organic ore found deep among the thickest of flora.",False,null
+Terraria,Get a Life,"Consume a life fruit, which grows in the thick of subterranean jungle grass.",False,null
+Terraria,The Great Southern Plantkill,"Defeat Plantera, the overgrown monstrosity of the jungle's depths.",False,null
+Terraria,Temple Raider,Breach the impenetrable walls of the jungle temple.,False,null
+Terraria,Lihzahrdian Idol,"Defeat Golem, the stone-faced ritualistic idol of the lihzahrd tribe.",True,2020-03-28 15:22:21
+Terraria,Robbing the Grave,Obtain a rare treasure from a difficult monster in the dungeon.,True,2020-03-28 14:20:20
+Terraria,Big Booty,"Unlock one of the dungeon's large, mysterious chests with a special key.",False,null
+Terraria,Fish Out of Water,"Defeat Duke Fishron, mutant terror of the sea.",False,null
+Terraria,Obsessive Devotion,"Defeat the Ancient Cultist, fanatical leader of the dungeon coven.",True,2020-03-29 22:02:41
+Terraria,Star Destroyer,Defeat the four celestial towers of the moon.,True,2020-03-29 22:04:12
+Terraria,Champion of Terraria,Defeat the Moon Lord.,True,2020-03-29 21:20:44
+Terraria,Bloodbath,"Survive a blood moon, a nocturnal event where the rivers run red and monsters swarm aplenty.",True,2020-01-07 15:17:50
+Terraria,Slippery Shinobi,"Defeat King Slime, the lord of all things slimy.",False,null
+Terraria,Goblin Punter,"Triumph over a goblin invasion, a ragtag regiment of crude, barbaric, pointy-eared warriors and their shadowflame sorcerers.",True,2020-01-07 15:23:49
+Terraria,Walk the Plank,"Triumph over a pirate invasion, a group of pillagers from the sea out for your booty... and your life!",False,null
+Terraria,Kill the Sun,"Survive a solar eclipse, a day darker than night filled with creatures of horror.",False,null
+Terraria,Do You Want to Slay a Snowman?,"Triumph over the frost legion, a festive family of maniacal snowman mobsters.",False,null
+Terraria,Tin-Foil Hatter,"Triumph over a martian invasion, when beings from out of this world come to scramble your brains and probe you in uncomfortable places.",True,2020-03-29 21:06:08
+Terraria,Baleful Harvest,"Reach the 15th wave of a pumpkin moon, where evil lurks among the autumn harvest.",False,null
+Terraria,Ice Scream,"Reach the 15th wave of a frost moon, where the festive season quickly degrades into madness.",False,null
+Terraria,Sticky Situation,"Survive the slime rain, where gelatinous organisms fall from the sky in droves.",False,null
+Terraria,Real Estate Agent,Have all possible town NPCs living in your world.,False,null
+Terraria,Not the Bees!,Fire a Bee Gun while wearing a full set of Bee Armor.,False,null
+Terraria,Jeepers Creepers,Stumble into a spider cavern in the underground.,True,2020-05-20 19:15:38
+Terraria,Funkytown,Build or encounter a glowing mushroom field above the surface.,False,null
+Terraria,Into Orbit,You can only go down from here!,True,2020-03-29 20:57:53
+Terraria,Rock Bottom,The only way is up!,True,2020-01-07 15:04:04
+Terraria,Mecha Mayhem,"Do battle against the Twins, the Destroyer, and Skeletron Prime simultaneously and emerge victorious.",False,null
+Terraria,Gelatin World Tour,Defeat every type of slime there is!,False,null
+Terraria,Fashion Statement,Equip armor or vanity clothing in all three social slots.,True,2019-12-27 18:18:12
+Terraria,Vehicular Manslaughter,Defeat an enemy by running it over with a minecart.,False,null
+Terraria,Bulldozer,"Destroy a total of 10,000 tiles.",False,null
+Terraria,There are Some Who Call Him...,Kill Tim.,False,null
+Terraria,Deceiver of Fools,Kill a nymph.,False,null
+Terraria,Sword of the Hero,"Obtain a Terra Blade, forged from the finest blades of light and darkness.",True,2020-03-29 21:48:01
+Terraria,Lucky Break,Survive a long fall with just a sliver of health remaining.,True,2020-01-06 23:27:49
+Terraria,Throwing Lines,Throw a yoyo.,True,2020-01-03 14:03:10
+Terraria,Dye Hard,Equip a dye in every possible dye slot.,False,null
+Terraria,Sick Throw,Obtain the Terrarian.,True,2020-01-03 14:26:15
+Terraria,The Frequent Flyer,Spend over 1 gold being treated by the nurse.,False,null
+Terraria,The Cavalry,Equip a mount.,False,null
+Terraria,Completely Awesome,Obtain a minishark.,True,2020-01-07 15:00:08
+Terraria,Til Death...,Kill the groom.,False,null
+Terraria,Archaeologist,Kill Doctor Bones.,False,null
+Terraria,Pretty in Pink,Kill pinky.,False,null
+Terraria,Rainbows and Unicorns,Fire a rainbow gun while riding on a unicorn.,False,null
+Terraria,You and What Army?,Command nine summoned minions simultaneously.,False,null
+Terraria,Prismancer,Obtain a rainbow rod.,False,null
+Terraria,It Can Talk?!,Build a house in a mushroom biome and have the Truffle move in.,False,null
+Terraria,Watch Your Step!,Become a victim to a nasty underground trap.,True,2020-01-06 16:02:57
+Terraria,Marathon Medalist,Travel a total of 26.2 miles on foot.,True,2020-01-07 00:11:16
+Terraria,Glorious Golden Pole,Obtain a golden fishing rod.,False,null
+Terraria,Servant-in-Training,Complete your 1st quest for the angler.,False,null
+Terraria,Good Little Slave,Complete your 10th quest for the angler.,False,null
+Terraria,Trout Monkey,Complete your 25th quest for the angler.,False,null
+Terraria,Fast and Fishious,Complete your 50th quest for the angler.,False,null
+Terraria,Supreme Helper Minion!,Complete a grand total of 200 quests for the angler.,False,null
+Terraria,Topped Off,Attain maximum health and mana possible without accessories or buffs.,False,null
+Terraria,Slayer of Worlds,Defeat every boss in Terraria.,False,null
+Terraria,You Can Do It!,Survive your character's first full night.,True,2019-12-27 18:06:39
+Terraria,Matching Attire,"Equip armor in all three armor slots: head, chest, and feet.",True,2019-12-28 12:07:22
+Terraria,Benched,Craft your first work bench.,False,null
+Terraria,Fae Flayer,"Defeat the Empress of Light, responsible for all those flashy lights and glitter.",False,null
+Terraria,Just Desserts,"Defeat Queen Slime, giving the coup-de-grace to the sovereign of all that jiggles.",False,null
+Terraria,Don't Dread on Me,"Defeat the Dreadnautilus, murderous mollusk lurking beneath the surface of the sanguine seas.",False,null
+Terraria,Hero of Etheria,Repel the strongest forces the Old One's Army can muster.,False,null
+Terraria,Infinity +1 Sword,"Obtain the Zenith, the culmination of a journey forged into the ultimate sword.",False,null
+Terraria,Boots of the Hero,"Obtain the Terraspark Boots, forged from the finest boots of fire and ice.",False,null
+Terraria,A Rather Blustery Day,Fly a kite on a windy day.,False,null
+Terraria,Quiet Neighborhood,Enter a misty graveyard filled with the surly dead.,False,null
+Terraria,Hot Reels!,Drop a lure in a pool of lava for a pre-fried haul!,False,null
+Terraria,Heliophobia,Trick a gnome into turning into stone!,False,null
+Terraria,Leading Landlord,Meet with a tenant who's as happy as they possibly can be!,False,null
+Terraria,Feeling Petty,Deliver headpats to the town pet.,False,null
+Terraria,Hey! Listen!,Encounter a fairy.,False,null
+Terraria,Jolly Jamboree,"What you're celebrating doesn't matter, just throw a party already!",False,null
+Terraria,Dead Men Tell No Tales,You were so preoccupied with whether or not you could open the chest that you didn't stop to think if you should.,False,null
+Terraria,An Eye For An Eye,"Defeat Deerclops, the chilly one-eyed monstrosity from a foreign land.",False,null
+Terraria,Feast of Midas,"Obtain Golden Delight, the highest quality meal made from the highest quality . . . ingredients.",False,null
+Terraria,Unusual Survival Strategies,"Delay death from drowning by drinking water. It doesn't make much sense, but you did what you had to do.",False,null
+Terraria,Black Mirror,Obtain the Cell Phone. You'll never leave home without it again.,False,null
+Terraria,Ankhumulation Complete,"Obtain the Ankh Shield, the finest protection from unpleasant maladies and ailments.",False,null
+Terraria,Torch God,"Invoked the wrath of the God of Torches, and survived long enough to earn its blessing.",False,null
+Terraria,A Rare Realm,Some very special seeds can lead to unique and rewarding experiences. Can you find one?,False,null
+Terraria,The Great Slime Mitosis,Find all of the Slime Pets and have them move in!,False,null
+Terraria,A Shimmer In The Dark,Shimmer an item into another item. What other transmutations can you find?,False,null
+Terraria,And Good Riddance!,"Completely purify all Corruption, Crimson, and Hallow from your world, until the Dryad is satisfied!",False,null
+Terraria,To Infinity... and Beyond!,Fly a Kwad Racer into outer space.,False,null
+War Thunder,Kraken,Sink 5 aircraft carriers,False,null
+War Thunder,Hooked,Land on an aircraft carrier,False,null
+War Thunder,Air-to-Air,Get 'Hero of the sky' 10 times,False,null
+War Thunder,Ground-to-Air,Get 'Wing Breaker' 10 times,False,null
+War Thunder,Air-to-Ground,Get 'Thunderer' 10 times,False,null
+War Thunder,Ground-to-Ground,Get 'Heavy Metal Hero' 10 times,False,null
+War Thunder,Ultimate,Get 'Mission Maker' 10 times,False,null
+War Thunder,Ninja,Get 'Shadow Strike' 100 times,False,null
+War Thunder,At one blow,Destroy 5 targets within 1 second,False,null
+War Thunder,Treasure Hunter,Open 10 chests,False,null
+War Thunder,But... how?!,Shoot down a plane with tank cannon in simulator mode,False,null
+War Thunder,Speed up!,Activate 10 boosters,False,null
+War Thunder,Guide,Get 'Intelligence' 10 times,False,null
+War Thunder,Knowledge is Power,Get 'According to Intelligence' 10 times,False,null
+War Thunder,Arcade 1000,Destroy 1000 players' vehicles in arcade battles,False,null
+War Thunder,Realistic 500,Destroy 500 players' vehicles in realistic battles,False,null
+War Thunder,True 100,Destroy 100 players' vehicles in simulator battles,False,null
+War Thunder,Nemesis,Get 'Avenger' 5 times,False,null
+War Thunder,Revenge-Seeker,Get 'Eye for an Eye' 5 times,False,null
+War Thunder,Firestarter,Destroy 30 players' vehicles by setting them afire,False,null
+War Thunder,Rank 1,Win 100 battles using vehicles of rank 1,False,null
+War Thunder,Rank 2,Win 100 battles using vehicles of rank 2,False,null
+War Thunder,Rank 3,Win 100 battles using vehicles of rank 3,False,null
+War Thunder,Rank 4,Win 100 battles using vehicles of rank 4,False,null
+War Thunder,Rank 5,Win 100 battles using vehicles of rank 5,False,null
+War Thunder,Accurate Fire,Get 'Triple Strike',False,null
+War Thunder,Sniper,Destroy 5 players' vehicles at the distance of 1.5 kms or more,False,null
+War Thunder,Vengeful Spirit,Destroy a player's vehicle while being dead,False,null
+War Thunder,True and Fable,Win 50 single missions,False,null
+War Thunder,Japanese Collection,Order 50 Japanese vehicles,False,null
+War Thunder,US Collection,Order 50 US vehicles,False,null
+War Thunder,Soviet Collection,Order 50 Soviet vehicles,False,null
+War Thunder,British Collection,Order 50 British vehicles,False,null
+War Thunder,German Collection,Order 50 German vehicles,False,null
+War Thunder,Fully Modified,Purchase 50 modifications,False,null
+War Thunder,Element of Surprise,Capture an enemy strategic point with hostile team players in direct vision,False,null
+War Thunder,Cold-Blooded,Destroy 2 players' vehicles while your vehicle's on fire,False,null
+War Thunder,King of the Hill,Destroy in one battle 5 players' vehicles while standing on the strategic point captured by your team,False,null
+War Thunder,Dead Weight,Destroy a player's vehicle which is tied to other player's vehicle by a cable,False,null
+War Thunder,Street Brawler,Destroy 2 players' vehicles within 30 seconds from a distance of 10 meters or less,False,null
+War Thunder,Rank 6,Win 100 battles using vehicles of rank 6,False,null
+War Thunder,French Collection,Order 50 French vehicles,False,null
+War Thunder,Weapon of Heroes,Destroy 10 enemy ships by ramming them,False,null
+War Thunder,Size Doesn’t Matter,Destroy 3 destroyers in a boat without losing your vehicle,False,null
+War Thunder,Raining Lead,Destroy 10 players’ vehicles with artillery strikes,False,null
+War Thunder,Italian Collection,Order 50 Italian vehicles,False,null
+War Thunder,Destroyer,Deal 10000 damage while controlling an aircraft or a naval vessel,False,null
+War Thunder,First dozen,Destroy 12 players’ vehicles while controlling an aircraft,False,null
+War Thunder,Just a Scratch,Get the 'Adamant' award 5 times,False,null
+War Thunder,First-class,"Play 3 battles, taking first place in any team",False,null
+War Thunder,Chinese Collection,Order 50 Chinese vehicles,False,null
+War Thunder,Swedish Collection,Order 50 Swedish vehicles,False,null
+War Thunder,Rank 7,Win 100 battles using vehicles of rank 7,False,null
+War Thunder,Rank 8,Win 100 battles using vehicles of rank 8,False,null
+War Thunder,Israeli Collection,Order 50 Israeli vehicles,False,null
+War Thunder,Cadet,Spend 10 hours in battle,False,null
+War Thunder,Graduate,Spend 100 hours in battle,False,null
+War Thunder,Warrior,Spend 250 hours in battle,False,null
+War Thunder,Veteran,Spend 500 hours in battle,False,null
+War Thunder,Legend,Spend 1000 hours in battle,False,null
+War Thunder,Falcon,Win 50 battles using aircraft,False,null
+War Thunder,Hornet,Win 50 battles using helicopters,False,null
+War Thunder,Tiger,Win 50 battles using ground vehicles,False,null
+War Thunder,Piranha,Win 50 battles using ?oastal fleet,False,null
+War Thunder,Shark,Win 50 battles using bluewater fleet,False,null
+War Thunder,American Ace,Destroy 100 player vehicles while using US vehicles,False,null
+War Thunder,German Ace,Destroy 100 player vehicles while using German vehicles,False,null
+War Thunder,Soviet Ace,Destroy 100 player vehicles while using Soviet vehicles,False,null
+War Thunder,British Ace,Destroy 100 player vehicles while using British vehicles,False,null
+War Thunder,Japanese Ace,Destroy 100 player vehicles while using Japanese vehicles,False,null
+War Thunder,Chinese Ace,Destroy 100 player vehicles while using Chinese vehicles,False,null
+War Thunder,French Ace,Destroy 100 player vehicles while using French vehicles,False,null
+War Thunder,Italian Ace,Destroy 100 player vehicles while using Italian vehicles,False,null
+War Thunder,Swedish Ace,Destroy 100 player vehicles while using Swedish vehicles,False,null
+War Thunder,Israeli Ace,Destroy 100 player vehicles while using Israeli vehicles,False,null
+War Thunder,Hungarian Ace,Destroy 100 player vehicles while using Hungarian vehicles,False,null
+War Thunder,Finnish Ace,Destroy 100 player vehicles while using Finnish vehicles,False,null
+War Thunder,South African Ace,Destroy 100 player vehicles while using South African vehicles,False,null
+War Thunder,Australian Ace,Destroy 100 player vehicles while using Australian vehicles,False,null
+War Thunder,High-precision strike,Destroy 1 player vehicle with a guided bomb at a distance of 20 km or more,False,null
+War Thunder,Doomsday!,Make a nuclear strike and end the mission with a victory,False,null
+War Thunder,Peaceful atom,Shoot down a nuclear weapon carrier,False,null
+War Thunder,Dutch Ace,Destroy 100 player vehicles while using Dutch vehicles,False,null
+War Thunder,Belgian Ace,Destroy 100 player vehicles while using Belgian vehicles,False,null
+War Thunder,Fire Arrows,Destroy 1000 player vehicles with guided missiles,False,null
+War Thunder,Invincible,Get the 'Professional' reward 100 times,False,null
+War Thunder,Family Album,Get 100 player icons,False,null
+War Thunder,Collector,Get 2000 vehicles,False,null
+Trove,Unleash the Hydrakken!,Enter the Shadow Tower and defeat the Shadow Hydrakken on Normal Difficulty,False,null
+Trove,Vanquish the Hydrakken! ,Enter the Shadow Tower and defeat the Shadow Hydrakken on Hard Difficulty,False,null
+Trove,Burninate the Hydrakken!,Enter the Shadow Tower and defeat the Shadow Hydrakken on Ultra Difficulty,False,null
+Trove,The Doctor is In!,Enter the Shadow Tower and defeat the Darknik Dreadnought on Normal Difficulty,False,null
+Trove,The Prescription is Pain!,Enter the Shadow Tower and defeat the Darknik Dreadnought on Hard Difficulty,False,null
+Trove,A Trovian a Day!,Enter the Shadow Tower and defeat the Darknik Dreadnought on Ultra Difficulty,False,null
+Trove,Stay Subclassy!,Select a Subclass,False,null
+Trove,The Gem Forger,"Using the gem forge, upgrade a Stellar Gem stat to max ",False,null
+Trove,A Builder's Focus,"Using the gem forge, upgrade all of the stats on a Stellar Gem to max ",False,null
+Trove,Perfection!,"Using the gem forge, upgrade all of the stats on nine Stellar Gems to max",False,null
+Trove,The Next Step,Achieve Geode Mastery 20,False,null
+Trove,Further Heights,Achieve Geode Mastery 100,False,null
+Trove,Starting Spelunker,Get your first GAS module upgrade,False,null
+Trove,Super Spelunker,Fully upgrade your GAS Module,False,null
+Trove,Top Bomber,Win your first Bomber Royale match,False,null
+Trove,Beaucoup Bombs,Throw 5000 bombs in Bomber Royale,False,null
+Trove,Plant's Best Friend,"Water 1,000 plants.",False,null
+Trove,Reap what you Sow,Harvest from 50 plants.,False,null
+Trove,"Reduce, Reuse, Recompost","Compost 10,000 items at the Compost Bin.",False,null
+Counter-Strike 2,A New Beginning,no description available,True,2023-09-30 21:18:39
+TIS-100,RTFM,View the TIS-100 manual.,True,2023-01-30 18:40:30
+TIS-100,BUSY_LOOP,"Solve SELF-TEST DIAGNOSTIC in over 100,000 cycles.",False,null
+TIS-100,PARALLELIZE,Solve SIGNAL AMPLIFIER in fewer than 100 cycles.,False,null
+TIS-100,UNCONDITIONAL,"Solve SIGNAL COMPARATOR without using the JGZ, JLZ, JEZ, or JNZ instructions.",False,null
+TIS-100,NO_BACKUP,Solve SEQUENCE COUNTER without using the SWP instruction.,False,null
+TIS-100,NO_MEMORY,Solve SEQUENCE REVERSER without writing any values to a stack memory node.,False,null
+TIS-100,HALT_AND_CATCH_FIRE,Crash the TIS-100 with the hidden opcode.,False,null
+TIS-100,ILLEGAL_EAGLE,Find and solve the hidden puzzle.,False,null
+TIS-100,100_PERCENT_V1,Solve every puzzle in the TIS-100 SEGMENT MAP.,False,null
+TIS-100,100_PERCENT_V2,Solve every puzzle in the TIS-NET DIRECTORY.,False,null
+Stardew Valley,Greenhorn,"Earn 15,000g",True,2024-06-14 21:56:06
+Stardew Valley,Cowpoke,"Earn 50,000g",True,2024-06-14 22:46:14
+Stardew Valley,Homesteader,"Earn 250,000g",True,2024-06-18 23:39:58
+Stardew Valley,Millionaire,"Earn 1,000,000g",True,2024-06-26 22:07:04
+Stardew Valley,Legend,no description available,False,null
+Stardew Valley,A Complete Collection,Complete the museum collection.,False,null
+Stardew Valley,A New Friend,Reach a 5-heart friend level with someone.,True,2024-07-08 15:12:28
+Stardew Valley,Best Friends,Reach a 10-heart friend level with someone.,True,2024-07-16 21:18:40
+Stardew Valley,The Beloved Farmer,Reach a 10-heart friend level with 8 people.,False,null
+Stardew Valley,Cliques,Reach a 5-heart friend level with 4 people.,True,2024-07-15 20:04:25
+Stardew Valley,Networking,Reach a 5-heart friend level with 10 people.,False,null
+Stardew Valley,Popular,Reach a 5-heart friend level with 20 people.,False,null
+Stardew Valley,Cook,Cook 10 different recipes.,False,null
+Stardew Valley,Sous Chef,Cook 25 different recipes.,False,null
+Stardew Valley,Gourmet Chef,Cook every recipe.,False,null
+Stardew Valley,Moving Up,Upgrade your house.,False,null
+Stardew Valley,Living Large,Upgrade your house to the maximum size.,False,null
+Stardew Valley,D.I.Y.,Craft 15 different items.,True,2024-07-14 23:13:11
+Stardew Valley,Artisan,Craft 30 different items.,False,null
+Stardew Valley,Craft Master,Craft every item.,False,null
+Stardew Valley,Fisherman,Catch 10 different fish.,True,2024-06-14 22:27:34
+Stardew Valley,Ol' Mariner,Catch 24 different fish.,True,2024-06-18 21:54:13
+Stardew Valley,Master Angler,Catch every fish.,False,null
+Stardew Valley,Mother Catch,Catch 100 fish.,True,2024-06-18 20:31:56
+Stardew Valley,Treasure Trove,Donate 40 different items to the museum.,True,2024-06-19 23:36:00
+Stardew Valley,Gofer,Complete 10 'Help Wanted' requests.,True,2024-07-15 21:49:30
+Stardew Valley,A Big Help,Complete 40 'Help Wanted' requests.,False,null
+Stardew Valley,Polyculture,Ship 15 of each crop.,False,null
+Stardew Valley,Monoculture,Ship 300 of one crop.,True,2024-06-18 21:54:13
+Stardew Valley,Full Shipment,Ship every item.,False,null
+Stardew Valley,Prairie King,Beat 'Journey Of The Prairie King'.,False,null
+Stardew Valley,The Bottom,Reach the lowest level of the mines.,True,2024-06-21 15:29:04
+Stardew Valley,Local Legend,Restore the Pelican Town Community Center.,False,null
+Stardew Valley,Joja Co. Member Of The Year,Become a Joja Co. member and purchase all the community development perks. ,False,null
+Stardew Valley,Mystery Of The Stardrops,Find every stardrop.,False,null
+Stardew Valley,Fector's Challenge,no description available,False,null
+Stardew Valley,Full House,Get married and have two kids.,False,null
+Stardew Valley,Singular Talent,Reach level 10 in a skill.,True,2024-07-09 00:02:40
+Stardew Valley,Master Of The Five Ways,Reach level 10 in every skill.,False,null
+Stardew Valley,Protector Of The Valley,Complete all of the Adventure Guild Monster Slayer goals.,False,null
+Stardew Valley,Well-Read,Read every book.,False,null
+Stardew Valley,Two Thumbs Up,See a movie.,False,null
+Stardew Valley,Blue Ribbon,Get 1st place in the Stardew Valley Fair competition.,True,2024-06-21 15:29:04
+Stardew Valley,An Unforgettable Soup,Delight the Governor.,False,null
+Stardew Valley,Good Neighbors,Help your forest neighbors grow their family.,False,null
+Stardew Valley,Danger In The Deep,Reach the bottom of the 'dangerous' mines.,True,2024-07-18 20:25:54
+Stardew Valley,Infinite Power,Obtain the most powerful weapon.,False,null
+Stardew Valley,Perfection,Reach the summit.,False,null
+Stardew Valley,A Distant Shore,Reach Ginger Island.,True,2024-07-15 21:49:30
+We Were Here,Everything is Better with Friends,Invite a friend to join your game!,False,null
+We Were Here,The Answer Lies..,Escape from the Storage Room,False,null
+We Were Here,..Between The Eyes	,Assisted in escaping the Storage Room ..and no  the answer is not a nose,True,2020-07-09 22:30:47
+We Were Here,Is that a..,Escape from the Painting Room,False,null
+We Were Here,A face on its..,Assisted in escaping the Painting Room ..and enjoyed fine arts,True,2020-07-09 22:36:19
+We Were Here,This is fine,Escape from the Submerged Hallway,False,null
+We Were Here,Antarctic Odyssey,Assisted in escaping the Submerged Hallway ..and became a qualified plumber,True,2020-07-09 22:42:54
+We Were Here,Dungeons and..,Escaped from the Dungeon ..and the dragon.,False,null
+We Were Here,Guiding Light,Assisted in escaping the Dungeon ..and didn’t skip leg day,True,2020-07-09 23:08:22
+We Were Here,Ice Physics,Escape from the Frozen Courtyard ..and didn’t lose your cool,False,null
+We Were Here,Grandmaster,Assisted in escaping the Frozen Courtyard ..and learned some new tricks,True,2020-07-10 22:15:23
+We Were Here,Is that another..,Escape from the Dark Hallway,False,null
+We Were Here,South Pole,Assisted in escaping the Dark Hallway ..and learned about cardinal directions,True,2020-07-10 22:30:06
+We Were Here,"Lights, camera..",Assisted in escaping the Haunted Theater,False,null
+We Were Here,Don’t Turn Around,Escaped the Haunted Theater,False,null
+We Were Here,Why me?,no description available,False,null
+We Were Here,Worst Friend Forever,no description available,False,null
+We Were Here,Die Hard,Play through the whole game without dying once,False,null
+We Were Here,Happy Ending,no description available,False,null
+We Were Here,Eye See You,Perfect play  ‘Between the eyes’ ,True,2020-07-09 22:30:47
+We Were Here,Myth Busters,Perfect play ‘Painting Room’,True,2020-07-09 22:36:19
+We Were Here,What ‘r you doing?,Perfect play ‘Submerged Hallway’,True,2020-07-09 22:42:54
+We Were Here,Dungeon Master,Perfect play ‘The Dungeon’,True,2020-07-09 23:08:24
+We Were Here,Fools’ Mate,Perfect play ‘Chess’,True,2020-07-10 22:15:24
+We Were Here,Vlad The Impaler,Perfect play ‘Spike Hall’,False,null
+We Were Here,Killer Performance,Perfect play ‘Haunted Theater’,False,null
+We Were Here Together,We're in this Together!,no description available,False,null
+We Were Here Together,The Signal,no description available,True,2021-07-19 00:41:14
+We Were Here Together,Up Down Up Down,no description available,True,2021-07-19 10:51:21
+We Were Here Together,Iceolated,no description available,True,2021-07-19 11:12:04
+We Were Here Together,Abridged Adventure,no description available,True,2021-07-19 12:11:19
+We Were Here Together,The Tower,no description available,False,null
+We Were Here Together,The Cathedral,no description available,True,2021-07-19 16:46:10
+We Were Here Together,Energize,no description available,False,null
+We Were Here Together,Shock Therapy,no description available,False,null
+We Were Here Together,Chromatic Apparatus,no description available,False,null
+We Were Here Together,Buoyfriends,no description available,False,null
+We Were Here Together,Water you waiting for,no description available,False,null
+We Were Here Together,Growing Pains,no description available,False,null
+We Were Here Together,Recipe for Disasters,no description available,False,null
+We Were Here Together,Minor Illusion,no description available,False,null
+We Were Here Together,Reflection,no description available,False,null
+We Were Here Together,Equivalent Exchange,no description available,False,null
+We Were Here Together,Mixed Feelings,no description available,False,null
+We Were Here Together,Grand Orders,no description available,False,null
+We Were Here Together,Cardinal Correction,no description available,False,null
+We Were Here Together,We Were Here,no description available,False,null
+We Were Here Together,Together,no description available,False,null
+Aimlabs,Founder,Aim Lab Founder,True,2020-08-08 23:29:56
+Aimlabs,Early Access User,Aim Lab Early Access User,True,2020-08-08 23:29:56
+Aimlabs,Spidershot Noob,Played Spidershot 1 Time,False,null
+Aimlabs,Spidershot Rookie,Played Spidershot 5 Times,False,null
+Aimlabs,Spidershot Competent,Played Spidershot 15 Times,False,null
+Aimlabs,Spidershot Pro,Played Spidershot 30 Times,False,null
+Aimlabs,Spidershot Expert,Played Spidershot 50 Times,False,null
+Aimlabs,Spidershot Master,Played Spidershot 75 Times,False,null
+Aimlabs,Spidershot Legend,Played Spidershot 100 Times,False,null
+Aimlabs,Reflexshot Noob,Played Reflexshot 1 Time,False,null
+Aimlabs,Reflexshot Rookie,Played Reflexshot 5 Times,False,null
+Aimlabs,Reflexshot Competent,Played Reflexshot 15 Times,False,null
+Aimlabs,Reflexshot Pro,Played Reflexshot 30 Times,False,null
+Aimlabs,Reflexshot Expert,Played Reflexshot 50 Times,False,null
+Aimlabs,Reflexshot Master,Played Reflexshot 75 Times,False,null
+Aimlabs,Reflexshot Legend,Played Reflexshot 100 Times,False,null
+Aimlabs,Strafeshot Noob,Played Strafeshot 1 Time,False,null
+Aimlabs,Strafeshot Rookie,Played Strafeshot 5 Times,False,null
+Aimlabs,Strafeshot Competent,Played Strafeshot 15 Times,False,null
+Aimlabs,Strafeshot Pro,Played Strafeshot 30 Times,False,null
+Aimlabs,Strafeshot Expert,Played Strafeshot 50 Times,False,null
+Aimlabs,Strafeshot Master,Played Strafeshot 75 Times,False,null
+Aimlabs,Strafeshot Legend,Played Strafeshot 100 Times,False,null
+Aimlabs,Pentakill Noob,Played Pentakill 1 Time,False,null
+Aimlabs,Pentakill Rookie,Played Pentakill 5 Times,False,null
+Aimlabs,Pentakill Competent,Played Pentakill 15 TImes,False,null
+Aimlabs,Pentakill Pro,Played Pentakill 30 Times,False,null
+Aimlabs,Pentakill Expert,Played Pentakill 50 Times,False,null
+Aimlabs,Pentakill Master,Played Pentakill 75 Times,False,null
+Aimlabs,Pentakill Legend,Played Pentakill 100 Times,False,null
+Aimlabs,Strafetrack Noob,Played Strafetrack 1 Time,False,null
+Aimlabs,Strafetrack Rookie,Played Strafetrack 5 Times,False,null
+Aimlabs,Strafetrack Competent,Played Strafetrack 15 Times,False,null
+Aimlabs,Strafetrack Pro,Played Strafetrack 30 Times,False,null
+Aimlabs,Strafetrack Expert,Played Strafetrack 50 Times,False,null
+Aimlabs,Strafetrack Master,Played Strafetrack 75 Times,False,null
+Aimlabs,Strafetrack Legend,Played Strafetrack 100 Times,False,null
+Aimlabs,Circletrack Noob,Played Circletrack 1 Time,False,null
+Aimlabs,Circletrack Rookie,Played Circletrack 5 Times,False,null
+Aimlabs,Circletrack Competent,Played Circletrack 15 Times,False,null
+Aimlabs,Circletrack Pro,Played Circletrack 30 Times,False,null
+Aimlabs,Circletrack Expert,Played Circletrack 50 Times,False,null
+Aimlabs,Circletrack Master,Played Circletrack 75 Times,False,null
+Aimlabs,Circletrack Legend,Played Circletrack 100 Times,False,null
+Aimlabs,Blinkshot Noob,Played Blinkshot 1 Time,False,null
+Aimlabs,Blinkshot Rookie,Played Blinkshot 5 Times,False,null
+Aimlabs,Blinkshot Competent,Played Blinkshot 15 Times,False,null
+Aimlabs,Blinkshot Pro,Played Blinkshot 30 TImes,False,null
+Aimlabs,Blinkshot Expert,Played Blinkshot 50 Times,False,null
+Aimlabs,Blinkshot Master,Played Blinkshot 75 Times,False,null
+Aimlabs,Blinkshot Legend,Played Blinkshot 100 Times,False,null
+Aimlabs,Ninjashot Noob,Played Ninjashot 1 Time,False,null
+Aimlabs,Ninjashot Rookie,Played Ninjashot 5 Times,False,null
+Aimlabs,Ninjashot Competent,Played Ninjashot 15 Times,False,null
+Aimlabs,Ninjashot Pro,Played Ninjashot 30 Times,False,null
+Aimlabs,Ninjashot Expert,Played Ninjashot 50 Times,False,null
+Aimlabs,Ninjashot Master,Played Ninjashot 75 Times,False,null
+Aimlabs,Ninjashot Legend,Played Ninjashot 100 Times,False,null
+Aimlabs,Detection Noob,Played Detection 1 Time,False,null
+Aimlabs,Detection Rookie,Played Detection 5 Times,False,null
+Aimlabs,Detection Competent,Played Detection 15 Times,False,null
+Aimlabs,Detection Pro,Played Detection 30 Times,False,null
+Aimlabs,Detection Expert,Played Detection 50 Times,False,null
+Aimlabs,Detection Master,Played Detection 75 Times,False,null
+Aimlabs,Detection Legend,Played Detection 100 Times,False,null
+Aimlabs,Microshot Noob,Played Microshot 1 Time,False,null
+Aimlabs,Microshot Rookie,Played Microshot 5 Times,False,null
+Aimlabs,Microshot Competent,Played Microshot 15 Time,False,null
+Aimlabs,Microshot Pro,Played Microshot 30 Times,False,null
+Aimlabs,Microshot Expert,Played Microshot 50 Times,False,null
+Aimlabs,Microshot Master,Played Microshot 75 Times,False,null
+Aimlabs,Microshot Legend,Played Microshot 100 Times,False,null
+Aimlabs,Freetrack Noob,Played Freetrack 1 Time,False,null
+Aimlabs,Freetrack Rookie,Played Freetrack 5 Times,False,null
+Aimlabs,Freetrack Competent,Played Freetrack 15 Times,False,null
+Aimlabs,Freetrack Pro,Played Freetrack 30 Times,False,null
+Aimlabs,Freetrack Expert,Played Freetrack 50 Times,False,null
+Aimlabs,Freetrack Master,Played Freetrack 75 Times,False,null
+Aimlabs,Freetrack Legend,Played Freetrack 100 Times,False,null
+Aimlabs,Audiospatial Noob,Played Audiospatial 1 Time,False,null
+Aimlabs,Audiospatial Rookie,Played Audiospatial 5 Times,False,null
+Aimlabs,Audiospatial Comptent,Played Audiospatial 15 Times,False,null
+Aimlabs,Audiospatial Pro,Played Audiospatial 30 Times,False,null
+Aimlabs,Audiospatial Expert,Played Audiospatial 50 Times,False,null
+Aimlabs,Audiospatial Master,Played Audiospatial 75 Times,False,null
+Aimlabs,Audiospatial Legend,Played Audiospatial 100 Times,False,null
+Aimlabs,Capacity Noob,Played Capacity 1 Time,False,null
+Aimlabs,Capacity Rookie,Played Capacity 5 Times,False,null
+Aimlabs,Capacity Competent,Played Capacity 15 Times,False,null
+Aimlabs,Capacity Pro,Played Capacity 30 Times,False,null
+Aimlabs,Capacity Expert,Played Capacity 50 Times,False,null
+Aimlabs,Capacity Master,Played Capacity 75 Times,False,null
+Aimlabs,Capacity Legend,Played Capacity 100 Times,False,null
+Aimlabs,Decisionshot Noob,Played Decisionshot 1 Time,False,null
+Aimlabs,Decisionshot Rookie,Played Decisionshot 5 Times,False,null
+Aimlabs,Decisionshot Competent,Played Decisionshot 15 Times,False,null
+Aimlabs,Decisionshot Pro,Played Decisionshot 30 Times,False,null
+Aimlabs,Decisionshot Expert,Played Decisionshot 50 Times,False,null
+Aimlabs,Decisionshot Master,Played Decisionshot 75 Times,False,null
+Aimlabs,Decisionshot Legend,Played Decisionshot 100 Times,False,null
+Bloons TD 6,Impoppable,"Pop 100,000,000 bloons",False,null
+Bloons TD 6,MOAB Assassin,"Destroy 25,000 MOABs",True,2020-12-31 16:25:44
+Bloons TD 6,BFB Brawler,"Destroy 10,000 BFBs",True,2020-12-31 17:53:15
+Bloons TD 6,ZOMGinator,"Destroy 5,000 ZOMGs",True,2023-07-19 16:29:13
+Bloons TD 6,Me Did A Job On DDT,"Destroy 5,000 DDTs",True,2021-01-05 01:24:46
+Bloons TD 6,Sapper,"Pop 5,000,000 Fortified bloons",False,null
+Bloons TD 6,First Win,1 Non-Tutorial Beginner map Win,True,2020-12-31 16:25:43
+Bloons TD 6,Grasshopper,Wins on 9 different Beginner maps,True,2020-12-31 16:25:44
+Bloons TD 6,Next Level,Win 1 game on an Intermediate map ,True,2020-12-31 16:25:43
+Bloons TD 6,Acolyte,Win games on 5 different Intermediate maps,True,2020-12-31 16:25:44
+Bloons TD 6,Advanced Player,Win 1 game on an Advanced map ,True,2020-12-31 16:25:44
+Bloons TD 6,Big Monkey,Deploy a tier 4 monkey tower,True,2020-12-31 16:25:43
+Bloons TD 6,Mega Monkey,Deploy a tier 5 monkey tower,True,2020-12-31 16:25:44
+Bloons TD 6,Hero Time,Deploy a Hero on a non-tutorial map,True,2020-12-31 16:25:43
+Bloons TD 6,Hero Powers Activate,Use any Hero Level 3 Ability,True,2020-12-31 16:25:43
+Bloons TD 6,"Bigger, Badder",Use any Hero Level 10 Ability,True,2020-12-31 16:25:44
+Bloons TD 6,Epic Hero,Level any Hero to level 20,True,2020-12-31 16:25:44
+Bloons TD 6,Monkey Avenger League,Win a game for 4 different Heroes,True,2020-12-31 16:25:44
+Bloons TD 6,You've Got The Power,Use Powers for the first time,True,2020-12-31 16:25:44
+Bloons TD 6,Power User,Use Powers 25 times,True,2020-12-31 16:25:44
+Bloons TD 6,Empowered,Use Powers 100 times,False,null
+Bloons TD 6,Student,Apply your first Monkey Knowledge point,True,2020-12-31 16:25:43
+Bloons TD 6,Scholar,Apply 10 Monkey Knowledge points,True,2020-12-31 16:25:44
+Bloons TD 6,Knowledgeable Primate,Unlock all Monkey Knowledge in one branch,True,2021-07-21 15:28:27
+Bloons TD 6,Dr. Monkey,Spend 106 Monkey Knowledge points,False,null
+Bloons TD 6,First Monkeys First,Win 10 games using only Primary monkeys,False,null
+Bloons TD 6,War Monkeys,Win 10 games using only Military monkeys,False,null
+Bloons TD 6,Abracadabmonkey,Win 10 games using only Magic monkeys,False,null
+Bloons TD 6,Unsung Monkeys,Win 10 games using only Support monkeys,False,null
+Bloons TD 6,Inflated,Beat round 100 in Deflation mode,False,null
+Bloons TD 6,Survivor,Beat round 100 in Apopalypse mode,False,null
+Bloons TD 6,Indie,Win 25 games with Alternate Bloon Rounds,False,null
+Bloons TD 6,Poppable,Win 25 games on Impoppable Difficulty,False,null
+Bloons TD 6,Thrifty,Win 10 games in Half Cash mode,False,null
+Bloons TD 6,Bloonzilla!,Win 25 games against Double HP MOABs,False,null
+Bloons TD 6,Role Reverser,Win a game in Reverse mode,True,2020-12-31 16:25:43
+Bloons TD 6,Medal Winner,Get all medals for a map,True,2020-12-31 16:25:44
+Bloons TD 6,Decorated Hero,Get 36 medals on Beginner maps,True,2021-01-01 20:19:03
+Bloons TD 6,Red And Blue Makes...,"Pop 100,000 Purple bloons",True,2021-01-04 22:08:24
+Bloons TD 6,Infrared,"Pop 250,000 Camo bloons",True,2020-12-31 16:25:44
+Bloons TD 6,Our Powers Combined,Collect at least 12 different Powers,True,2020-12-31 16:25:44
+Bloons TD 6,Challenger,Win 1 Daily Challenge,True,2020-12-31 16:25:43
+Bloons TD 6,Challenge Apprentice,Win 10 Daily Challenges,True,2020-12-31 16:25:44
+Bloons TD 6,Challenge Master,Win 100 Daily Challenges,False,null
+Bloons TD 6,Perfect Week,Complete all Daily Challenges in a week,False,null
+Bloons TD 6,Bloons Master,Beat 1 map in CHIMPS mode,True,2021-01-11 23:36:57
+Bloons TD 6,Superior Bloons Master,Beat 5 maps in CHIMPS mode,False,null
+Bloons TD 6,Ultimate Bloons Master,Beat 15 maps in CHIMPS mode,False,null
+Bloons TD 6,Super BAD,"Destroy 1,000 BADs",False,null
+Bloons TD 6,Co-operation,Beat 1 map in Co-op mode,True,2020-12-31 16:25:44
+Bloons TD 6,Four times the fun,Beat 1 map in 4-player Co-op mode,True,2020-12-31 16:25:44
+Bloons TD 6,Triple threat,Beat 1 map in 3-player Co-op mode,True,2020-12-31 16:25:44
+Bloons TD 6,Collaborate!,Have 4 Heroes on screen at once,True,2020-12-31 16:25:44
+Bloons TD 6,When the going gets tough...,Win 10 games on Hard difficulty in Co-op mode,True,2021-01-01 22:27:25
+Bloons TD 6,Kind Benefactor,"Give 10,000 Cash in Co-op mode",True,2020-12-31 16:25:44
+Bloons TD 6,Generous Benefactor,"Give 50,000 Cash in Co-op mode",True,2021-01-01 20:19:03
+Bloons TD 6,Monkey Contributor,"Give 100,000 Cash in Co-op mode",True,2021-01-01 20:19:03
+Bloons TD 6,Monkey Philanthropist,"Give 1,000,000 Cash in Co-op mode",True,2021-01-01 22:27:27
+Bloons TD 6,Powershare,Use 10 Powers in Co-op mode,True,2023-07-20 15:22:19
+Bloons TD 6,Power overwhelming!,Use 100 Powers in Co-op mode,False,null
+Bloons TD 6,Insta-defense,Use 5 Insta-Monkeys in Co-op mode,False,null
+Bloons TD 6,Co-op Popper,"Pop 10,000,000 Bloons in Co-op mode",True,2023-07-20 15:22:21
+Bloons TD 6,Big Bloons,no description available,True,2021-01-08 16:11:52
+Bloons TD 6,Alchermistman and Bloonacleboy,no description available,False,null
+Bloons TD 6,2TC,Complete a game in CHIMPS Difficulty with only 2 towers,False,null
+Bloons TD 6,Snap of your fingers,Finish a game with exactly half your starting lives and half your starting cash,False,null
+Bloons TD 6,Bill Greates,"Send $500,000 to an ally in co-op in one go",True,2021-01-01 22:27:31
+Bloons TD 6,Bloontona 500,Gain entry to 500 Races,False,null
+Bloons TD 6,Rookie of the year,Complete a Race in under 10 minutes,False,null
+Bloons TD 6,Rising star,Complete a Race in under 5 minutes,False,null
+Bloons TD 6,Top of your game,Complete any Race in under 3 minutes,False,null
+Bloons TD 6,The greatest challenge,Create or Play 200 Challenges,False,null
+Bloons TD 6,Lookin fab,Win 100 games using a skin of any Hero,False,null
+Bloons TD 6,Therpopylae,"Pop 200,000 Bloons on Peninsula",True,2021-01-08 16:11:52
+Bloons TD 6,Bloon Master Populous,Deal 1 billion damage with the Bloon Master Alchemist,False,null
+Bloons TD 6,I see you,"Reveal 10,000 Bloons using Shimmer",True,2021-01-01 22:26:54
+Bloons TD 6,Tetrimino,Place 50 Monkeys on a map at once,True,2020-12-31 16:25:44
+Bloons TD 6,All for one and one for one,Win a game with only 1 Monkey on screen at any one time in any Hard Difficulty game,True,2021-01-08 16:11:52
+Bloons TD 6,Master of Life,Have 1000 lives at once in a single game,True,2021-11-17 21:25:35
+Bloons TD 6,Rainbow is Magic,"Pop 20,000 Rainbow Bloons with Magic Monkeys",True,2021-01-02 15:32:30
+Bloons TD 6,Strangely Adorable,no description available,False,null
+Bloons TD 6,Josh's Constant,no description available,False,null
+Bloons TD 6,What did it cost? - Everything:,Sacrifice every tower type in the game to the Temple,False,null
+Bloons TD 6,2 MegaPops,Complete a game of CHIMPS with more than 2 million damage dealt by one tower,False,null
+Bloons TD 6,A Crate Time,Open a Diamond Crate in any Collection Event,False,null
+Bloons TD 6,Axis of Havoc,Have one of each T5 sniper in one game of CHIMPS,False,null
+Bloons TD 6,Tower Keeper,Have 200 insta-monkeys in your inventory at one time,False,null
+Bloons TD 6,A year in the making,Open the Daily Chest 365 times,False,null
+Bloons TD 6,Kali Maaaaaaaa,Gain 10 levels for Adora in one round,False,null
+Bloons TD 6,Golden Ticket,no description available,False,null
+Bloons TD 6,Adventurer,Complete an Odyssey,False,null
+Bloons TD 6,Seasoned Adventurer,Complete a Hard Odyssey,False,null
+Bloons TD 6,No Stone Left Unturned,Complete all 3 difficulties of a single Odyssey,False,null
+Bloons TD 6,12 Tasks of Monk-ules,Complete 12 different Odysseys,False,null
+Bloons TD 6,Modysseus Rises,Complete 50 Odysseys,False,null
+Bloons TD 6,Modysseus Forever,Complete 100 Odysseys,False,null
+Bloons TD 6,Full Speed Ahead!,Complete an Odyssey in under 1 hour,False,null
+Bloons TD 6,All About That Bling,Purchase a Trophy Store item,False,null
+Bloons TD 6,"Mo Heroes, Mo Problems",no description available,False,null
+Bloons TD 6,Chunky Monkeys,no description available,False,null
+Bloons TD 6,Oathbreakers,"Reanimate 250,000 bloons to fight on your side using the Necromancer Wizard",False,null
+Bloons TD 6,Living on the Edge,Win any non-CHIMPS/Impoppable game with only 1 life remaining,False,null
+Bloons TD 6,Freaky Friday,Use the Alchemist's Transforming Tonic abilities 100 times,False,null
+Bloons TD 6,Monkey Fan Club,Create or Login to your Ninja Kiwi account to cloud save your progress,True,2020-12-31 16:25:44
+Bloons TD 6,Ready Player One?,Host and win 10 Co-op games,True,2021-07-21 15:28:32
+Bloons TD 6,Crash of the Titans,Strip the fortifications from Fortified DDTs 3000 times,False,null
+Bloons TD 6,A La Code,Submit a Challenge to the Challenge Browser,False,null
+Bloons TD 6,Regifted,"Pop 1,000,000 Bloons with Dartling Gunners",False,null
+Bloons TD 6,Coupon Crazy,Spend at least 50 Trophies in the Trophy Store,False,null
+Bloons TD 6,Instant Gratification,"Use a Tier 5 Insta Monkey. NOTE: even after being used, Instas still count toward your collection!",False,null
+Bloons TD 6,Insta Century,Use 100 Insta Monkeys,False,null
+Bloons TD 6,Limited Run,Purchase at least 1 new Limited Time item in the Trophy Store,False,null
+Bloons TD 6,Tools to Darwin,"Upgrade towers 20,000 times",False,null
+Bloons TD 6,Stubborn Strategy,no description available,False,null
+Bloons TD 6,Achievement of Achievements,Collect 35 achievements,True,2021-07-21 15:28:30
+Bloons TD 6,"Hook, Line, and Sinker","Rope in 3,000 MOAB-Class Bloons using the MOAB takedown ability",False,null
+Bloons TD 6,Moving House,"Redeploy 1,000 monkey towers using the Support Chinook",False,null
+Bloons TD 6,Social Butterfly,Use emotes 100 times in co-op games,False,null
+Bloons TD 6,So Shiny!,Pop 20 Golden Bloons,False,null
+Bloons TD 6,Glittering Gold,Pop 100 Golden Bloons,False,null
+Bloons TD 6,Glorious Gold,Pop 500 Golden Bloons,False,null
+Bloons TD 6,Magical Gold,Pop 50 Golden Bloons in Magic Monkeys only mode,False,null
+Bloons TD 6,Team Player,Win 25 times with Monkey Teams,False,null
+Bloons TD 6,Team Captain,Win 50 times with Monkey Teams,False,null
+Bloons TD 6,Ultimate Team-up,Win 100 times with Monkey Teams,False,null
+Bloons TD 6,What is this new Bloonery?,Defeat a Tier 1 Boss,True,2023-07-20 15:22:23
+Bloons TD 6,Who's the Boss?,Defeat a Tier 5 Boss,False,null
+Bloons TD 6,I'm the Boss,Defeat a Tier 5 Elite Boss,False,null
+Bloons TD 6,Apotheosis,Upgrade to a Monkey Paragon Tower,True,2023-07-18 19:55:58
+Bloons TD 6,Like a Boss,Pop 50 Boss Bloons,False,null
+Bloons TD 6,Perfect Paragon,no description available,False,null
+Bloons TD 6,Davids vs Goliath,Win a boss battle without using a Hero,False,null
+Bloons TD 6,So Spiiicey Ninja Kiwi,Beat Spice Islands on Alternate Bloon Rounds with only land towers,False,null
+Bloons TD 6,No Harvest,Beat Cornfield on CHIMPs without removing any corn,False,null
+Bloons TD 6,Student Loans,"4 x 10^5 (Go into $400,000 of debt)",False,null
+Bloons TD 6,Not Lacking Critical Information,no description available,False,null
+Bloons TD 6,Sticky Situation,"Glue 500,000 Bloons",False,null
+Bloons TD 6,Big Spender,"Spend 1,000,000 cash in one round",False,null
+Bloons TD 6,The Daily Reid,Win 365 unique daily challenges,False,null
+Bloons TD 6,I'll Be Back,"Spend 1,000 MM on Continues or Checkpoints",False,null
+Bloons TD 6,Conquested Territory,Capture 5 tiles off other players,False,null
+Bloons TD 6,Stage of Empires,Capture 50 tiles,False,null
+Bloons TD 6,Territory Sampler,"Capture 1 of each: Boss, Time Attack, Least Tiers and Least Cash tiles",False,null
+Bloons TD 6,Invigoration,Have 75 buffs active on your Monkeys at once,True,2023-07-20 15:22:25
+Bloons TD 6,Side Quest,Complete a Quest,False,null
+Bloons TD 6,World League Training,"Acquire 150,000 Beast Handler XP",False,null
+Bloons TD 6,Life Experience,"Earn 5,368,709 experience for any tower",False,null
+Bloons TD 6,Heavy Investment,"Invest at least $401,626 extra when creating any Paragon",False,null
+Bloons TD 6,25 to Life,Defeat 5 unique Bosses at Tier 5 (Can be in Boss Event or Challenge Mode),False,null
+Bloons TD 6,Community Connoisseur,"Win 100 different community submissions (Challenges, Odysseys, Maps)",False,null
+Apex Legends,The Player,Reach player level 50,False,null
+Apex Legends,Decked Out,Equip any 2 legendary equipment items at the same time,False,null
+Apex Legends,Team Player,Respawn a teammate,True,2021-04-15 13:32:56
+Apex Legends,Fully Kitted,Equip a fully kitted weapon,True,2021-04-17 15:45:47
+Apex Legends,Jumpmaster,Be the Jumpmaster 5 times,True,2021-04-17 15:18:25
+Apex Legends,Well-Rounded,"Deal 5,000 damage with 8 different Legends",False,null
+Apex Legends,Kill Leader,Become the Kill Leader,False,null
+Apex Legends,Apex Assault,Win a game as an assault character,False,null
+Apex Legends,Apex Controller,Win a game as a controller character,False,null
+Apex Legends,Apex Support,Win a game as a support character,False,null
+Apex Legends,Apex Recon,Win a game as a recon character,True,2021-04-15 13:48:05
+Apex Legends,Apex Legend,Win a game with 8 different Legends,False,null
+Scribble It!,Art Intern,Win a game in any game mode.,False,null
+Scribble It!,Junior Artist,Win 25 games in any game mode.,False,null
+Scribble It!,Senior Artist,Win 100 games in any game mode.,False,null
+Scribble It!,First Sketch,Win a game in Guess It! - Classic.,False,null
+Scribble It!,Scribble Routinier,Win 10 games in Guess It! - Classic.,False,null
+Scribble It!,Scribble Veteran,Win 50 games in Guess It! - Classic.,False,null
+Scribble It!,Got It!,Win a game in Guess It! - Grand Reveal.,False,null
+Scribble It!,It's a guessing game...,Win 10 games in Guess It! - Grand Reveal.,False,null
+Scribble It!,Guess what?!,Win 50 games in Guess It! - Grand Reveal.,False,null
+Scribble It!,First Prize!,Win a game in Rate It!.,False,null
+Scribble It!,Medal Magnet!,Win 10 games in Rate It!.,False,null
+Scribble It!,11 out of 10!,Win 50 games in Rate It!.,False,null
+Scribble It!,Vermeer,no description available,False,null
+Scribble It!,Dalí,no description available,False,null
+Scribble It!,Michelangelo,no description available,False,null
+Scribble It!,Shape Novice!,Scribble a picture by using only one single type of shape so everyone guesses it correctly with at least 4 players.,False,null
+Scribble It!,Rainbow!,Scribble a picture using at least 6 different colors so everyone guesses it correctly.,False,null
+Scribble It!,Double Rainbow!,Scribble a picture using at least 12 different colors so everyone guesses it correctly.,False,null
+Scribble It!,Rainbow Master!,Have an average of 6 used colors after at least 25 games.,False,null
+Scribble It!,Self Portrait,Change your avatar in your profile.,False,null
+Scribble It!,You tried your best!,Draw something no one can guess.,True,2021-05-24 22:01:38
+Scribble It!,Facepalm,Be the only one who doesn't guess the word with at least 4 players.,True,2021-05-24 22:02:36
+Scribble It!,First words,Publish your first word package.,False,null
+Scribble It!,A true writer!,Publish 10 word packages.,False,null
+Scribble It!,Holy words,Get 50 upvotes on a single word package.,False,null

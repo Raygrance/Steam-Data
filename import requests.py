@@ -95,15 +95,57 @@ def getInputPlayerID():
 
 ################################################################################################################
 
+def getVisibilityStatus(playerID):
+    endpoint = f"{BASE_URL}/ISteamUser/GetPlayerSummaries/v2/"
+    params = {
+        "key": API_KEY,
+        "steamid": playerID
+    }
+    response = requests.get(endpoint, params=params)
+    
+    if (response.status_code == 200):
+        return response.json()['response']['players'][0].get('communityvisibilitystate', None) == 3
+    else:
+        return False
+    
+################################################################################################################
+
+def getPublicFriends(playerID):
+    publicFriends = []
+    endpoint = f"{BASE_URL}/IsteamUser/GetFriendList/v1/"
+    params = {
+        "key": API_KEY,
+        "steamid": playerID,
+        "relationship": "all"
+    }
+    response = requests.get(endpoint, params=params)
+
+    if (response.status_code == 200):
+        for friend in response.json().get('friendslist', {}).get('friends', []):
+            publicFriends.append(friend["steamid"])
+    elif (response.status_code == 401):
+        print("Error: Friends List is Private")
+    else:
+        print(f"Error: {response.status_code} - {response.text}")
+
+    return publicFriends
+
+################################################################################################################
+
 def main():
     playerID = getInputPlayerID()
-    output = getAllAchievements(playerID)
 
-    with open(f"{getPlayerName(playerID)}Achievements.csv", "w", errors='replace', newline="") as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerows(output)
+    print(getVisibilityStatus(playerID))
+
+    # for friend in getPublicFriends(playerID):
+    #     if (getVisibilityStatus(friend)):
+    #         output = getAllAchievements(friend)
+    #         with open(f"{getPlayerName(friend)}Achievements.csv", "w", errors='replace', newline="") as csvfile:
+    #             writer = csv.writer(csvfile)
+    #             writer.writerows(output)
 
 ################################################################################################################
 
 if __name__ == "__main__":
     main()
+
